@@ -81,6 +81,21 @@ function appliesExceptWhen(t: TibetanDate, p: { exceptWhen?: Array<{ tibMonth: n
   return p.exceptWhen.some((ex) => ex.tibMonth === t.tibMonth);
 }
 
+function shouldIncludeOnThisDay(
+  params: { id: string; type: Practice["type"] },
+  t: TibetanDate
+) {
+  // Handle doubled/repeated Tibetan days.
+  // Convention (as exposed by @hnw/date-tibetan): isLeapDay marks the repeated (second) occurrence.
+  // For teacher anniversaries, we prefer showing only once, on the FIRST occurrence.
+  const isTeacherAnniversary = params.id.startsWith("seed-teacher-") || params.type === "PARINIRVANA";
+
+  if (!isTeacherAnniversary) return true;
+
+  // If this is the repeated (second) occurrence, hide the anniversary to avoid duplicates.
+  return !t.isLeapDay;
+}
+
 export function getPracticesForDate(date: Date, t: TibetanDate): DatedPractice[] {
   const out: DatedPractice[] = [];
 
@@ -98,6 +113,8 @@ export function getPracticesForDate(date: Date, t: TibetanDate): DatedPractice[]
 
     // tibetan-lunar match
     if (t.tibMonth === item.rule.tibMonth && t.tibDay === item.rule.tibDay) {
+      if (!shouldIncludeOnThisDay({ id: item.id, type: item.type }, t)) continue;
+
       out.push({ id: item.id, kind: "celebration", type: item.type, name: item.name, description: item.description });
       for (const extra of item.alsoAdds ?? []) {
         out.push({ id: `${item.id}::${extra.type}::${extra.name}`, kind: "celebration", ...extra });
