@@ -1,0 +1,305 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "source": {
+    "repo": "https://github.com/christiansteinert/TibetanBuddhistPracticeDates",
+    "extractedFrom": "src/main/java/de/christian_steinert/practice_dates/practicedates/dates_service/PracticeDatesService.java",
+    "extractionDate": "2026-02-13"
+  },
+  "notes": [
+    "This file captures the rule-based Tibetan lunar calendar observances hard-coded in PracticeDatesService.getPractices().",
+    "Rules reference Tibetan month/day plus flags used by the app: monthFlag (0 normal, 1 first of doubled month, 2 repeated second month) and doubleDayFlag (1 first of doubled day, 2 second/repeated day).",
+    "The app generally omits practices on the FIRST day of a doubled day (doubleDayFlag==1), expecting them to be observed on the second day.",
+    "The app also moves practices for skipped Tibetan day numbers onto the previous Gregorian date; this JSON does not enumerate those per-year shifts, only the underlying rule triggers."
+  ],
+  "flags": {
+    "monthFlag": {
+      "0": "normal month",
+      "1": "first occurrence of a doubled month",
+      "2": "repeated (second) occurrence of a doubled month"
+    },
+    "doubleDayFlag": {
+      "0": "normal day",
+      "1": "first occurrence of a doubled day (practices typically skipped)",
+      "2": "second/repeated day"
+    }
+  },
+  "importantCelebratoryDates": [
+    {
+      "id": "dalai-lama-birthday",
+      "name": "Dalai Lama Birthday",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 7,
+        "day": 6
+      },
+      "description": "The 6th of July is the birthday of His Holiness the 14th Dalai Lama.",
+      "conditions": {
+        "onlyIfNotSkippedTibetanDay": true
+      }
+    },
+    {
+      "id": "tibetan-new-year",
+      "name": "Tibetan New Year",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDay": 1
+      },
+      "description": "Beginning of new Tibetan year. During the first fifteen days, fifteen 'Miracle Days' are celebrated which commemorate fifteen miracles that the Buddha is said to have performed.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "day-of-miracles-chotrul-duchen",
+      "name": "Day of Miracles (Chötrul Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDay": 15
+      },
+      "description": "The fifteenth day of a new Tibetan year is the culmination of the fifteen 'Miracle Days' which commemorate fifteen miracles that the Buddha is said to have performed. The Day of Miracles is one of four important Tibetan holidays related to the Buddha.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "Buddha days and eclipses are considered to be particularly powerful days for taking the Eight Mahayana Precepts."
+        }
+      ]
+    },
+    {
+      "id": "saka-dawa-duchen",
+      "name": "Buddha's Birth, Enlightenment and Paranirvana (Saka Dawa Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 4,
+        "tibDay": 15
+      },
+      "description": "Celebration of the Buddha's birth, enlightenment and paranirvana (Saka Dawa Düchen). Saka Dawa is one of four important Tibetan holidays related to the Buddha.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "chokhor-duchen",
+      "name": "Buddha's first teaching (Chökhor Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 6,
+        "tibDay": 4
+      },
+      "description": "Celebration of Buddha's first 'turning of the wheel of Dharma' (Chökhor Düchen). On this day the first teaching of the Buddha is celebrated. Chökhor Düchen is one of four important Tibetan holidays related to the Buddha.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "Buddha days and eclipses are considered to be particularly powerful days for taking the Eight Mahayana Precepts."
+        }
+      ]
+    },
+    {
+      "id": "lhabab-duchen",
+      "name": "Buddha's descent from Tushita (Lhabab Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 9,
+        "tibDay": 22
+      },
+      "description": "Celebration of Buddha's descent from the god realm of Tushita (Lhabab Düchen) after the Buddha had taught the Dharma to his mother there. Lhabab Düchen is one of four important Tibetan holidays related to the Buddha.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "Buddha days and eclipses are considered to be particularly powerful days for taking the Eight Mahayana Precepts."
+        }
+      ]
+    },
+    {
+      "id": "je-tsongkhapa-day-ganden-ngamcho",
+      "name": "Je Tsongkhapa Day (Ganden Ngamchö)",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 10,
+        "tibDay": 25
+      },
+      "description": "On the 25th day of 10th Tibetan lunar month the parinivarna of Je Tsongkhapa is commemorated.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "guru-rinpoche-universal-prayer-day",
+      "name": "Guru Rinpoche Universal Prayer Day (Dzamling Chi Sang / Universal Incense Day)",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 5,
+        "tibDay": 15
+      },
+      "description": "On the 15th day of the 5th Tibetan lunar month the taming of local Tibetan deities by Padmasambhava and the founding of Samye Monastery, the first Buddhist Monastery in Tibet, are celebrated.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    }
+  ],
+  "monthlyPracticeDays": [
+    {
+      "id": "day-8",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 8 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TARA",
+          "name": "Tara",
+          "description": "The eighth day of each Tibetan lunar month is considered to be a particularly suitable day for performing Tara pujas."
+        },
+        {
+          "type": "MEDICINE_BUDDHA",
+          "name": "Medicine Buddha",
+          "description": "The eighth day of each Tibetan lunar month is considered to be a particularly suitable day for performing Medicine Buddha pujas."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "The eighth day of each Tibetan lunar month is considered to be a powerful day for taking the Eight Mahayana Precepts.",
+          "exceptWhen": [
+            {
+              "tibMonth": 1,
+              "monthFlagNot": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-10-tsog",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 10 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TSOG",
+          "name": "Tsog",
+          "description": "Tsog offering (Daka Tsog). The tenth day of each Tibetan month is one of the two days each month when Tsog offerings should be performed.",
+          "specialCases": [
+            {
+              "when": { "tibMonth": 12 },
+              "nameOverride": "Tsog (Special Heruka Tsog)",
+              "descriptionOverride": "Tsog offering (Daka Tsog). The tenth day of each Tibetan month is one of the two days each month when Tsog offerings should be performed. The Tsog offering on the 10th day of the 12th Tibetan month is considered to be one of the two most important Tsog days of the entire year. (In some years month 12 may be doubled; the source app adds a warning text in that case.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-15-full-moon",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 15 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "MOON",
+          "name": "Full Moon",
+          "description": "Full moon days are considered to be powerful days for positive practices."
+        },
+        {
+          "type": "MEDICINE_BUDDHA",
+          "name": "Medicine Buddha",
+          "description": "The fifteenth day of each Tibetan lunar month is considered to be a particularly suitable day for performing Medicine Buddha pujas."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "Full moon days are considered to be powerful days for taking the Eight Mahayana Precepts.",
+          "exceptWhen": [
+            {
+              "tibMonth": 1,
+              "monthFlagNot": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-25-tsog",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 25 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TSOG",
+          "name": "Tsog",
+          "description": "Tsog offering (Dakini Tsog). The twenty-fifth day of each Tibetan month is one of the two days per month when Tsog offerings should be performed.",
+          "specialCases": [
+            {
+              "when": { "tibMonth": 11 },
+              "nameOverride": "Tsog (Special Vajrayogini Tsog)",
+              "descriptionOverride": "Tsog offering (Dakini Tsog). The twenty-fifth day of each Tibetan month is one of the two days per month when Tsog offerings should be performed. The Tsog offering on the 25th day of the 11th Tibetan month is considered to be one of the two most important Tsog days of the entire year. (In some years month 11 may be doubled; the source app adds a warning text in that case.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-29-protector",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 29 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "PROTECTOR_PUJA",
+          "name": "Protector Puja",
+          "description": "The twenty-ninth of each Tibetan month day is considered to be beneficial for protector pujas."
+        }
+      ]
+    },
+    {
+      "id": "day-30-new-moon",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 30 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "MOON",
+          "name": "New Moon",
+          "description": "New moon days are considered to be powerful days for positive practices."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "New moon days are considered to be powerful days for taking the Eight Mahayana Precepts."
+        }
+      ]
+    },
+    {
+      "id": "first-15-days-precepts",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 1, "tibDayRange": { "min": 1, "max": 15 } },
+      "conditions": { "monthFlagNot": [2] },
+      "practices": [
+        {
+          "type": "PRECEPTS",
+          "name": "Precepts",
+          "description": "During the first 15 days of the Tibetan year all days are precept days (day 15 may also be a Buddha Day depending on the year)."
+        }
+      ]
+    }
+  ]
+}

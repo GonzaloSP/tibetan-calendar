@@ -1,0 +1,305 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "source": {
+    "repo": "https://github.com/christiansteinert/TibetanBuddhistPracticeDates",
+    "extractedFrom": "src/main/java/de/christian_steinert/practice_dates/practicedates/dates_service/PracticeDatesService.java",
+    "extractionDate": "2026-02-13"
+  },
+  "notes": [
+    "Este archivo captura las observancias del calendario lunar tibetano basadas en reglas, codificadas en PracticeDatesService.getPractices().",
+    "Las reglas referencian mes/día tibetano, más banderas usadas por la app: monthFlag (0 mes normal, 1 primera ocurrencia de mes duplicado, 2 segunda/repetida ocurrencia del mes duplicado) y doubleDayFlag (1 primera ocurrencia de día duplicado, 2 segundo/día repetido).",
+    "La app generalmente omite las prácticas en el PRIMER día de un día duplicado (doubleDayFlag==1), asumiendo que se observan en el segundo día.",
+    "La app también mueve prácticas de números de día tibetano ‘saltados’ a la fecha gregoriana anterior; este JSON no enumera esos corrimientos por año, sólo los disparadores de reglas subyacentes."
+  ],
+  "flags": {
+    "monthFlag": {
+      "0": "mes normal",
+      "1": "primera ocurrencia de un mes duplicado",
+      "2": "segunda/repetida ocurrencia de un mes duplicado"
+    },
+    "doubleDayFlag": {
+      "0": "día normal",
+      "1": "primera ocurrencia de un día duplicado (las prácticas suelen omitirse)",
+      "2": "segundo/día repetido"
+    }
+  },
+  "importantCelebratoryDates": [
+    {
+      "id": "dalai-lama-birthday",
+      "name": "Cumpleaños del Dalai Lama",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 7,
+        "day": 6
+      },
+      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.",
+      "conditions": {
+        "onlyIfNotSkippedTibetanDay": true
+      }
+    },
+    {
+      "id": "tibetan-new-year",
+      "name": "Año Nuevo tibetano",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDay": 1
+      },
+      "description": "Inicio del nuevo año tibetano. Durante los primeros quince días se celebran quince ‘Días de los Milagros’, que conmemoran quince milagros que se dice que el Buda realizó.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "day-of-miracles-chotrul-duchen",
+      "name": "Día de los Milagros (Chötrul Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDay": 15
+      },
+      "description": "El día quince del nuevo año tibetano es la culminación de los quince ‘Días de los Milagros’, que conmemoran quince milagros que se dice que el Buda realizó. El Día de los Milagros es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Los días de Buda y los eclipses se consideran días particularmente poderosos para tomar los Ocho Preceptos Mahayana."
+        }
+      ]
+    },
+    {
+      "id": "saka-dawa-duchen",
+      "name": "Nacimiento, iluminación y paranirvana del Buda (Saka Dawa Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 4,
+        "tibDay": 15
+      },
+      "description": "Celebración del nacimiento, la iluminación y el paranirvana del Buda (Saka Dawa Düchen). Saka Dawa es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "chokhor-duchen",
+      "name": "Primera enseñanza del Buda (Chökhor Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 6,
+        "tibDay": 4
+      },
+      "description": "Celebración del primer ‘giro de la rueda del Dharma’ del Buda (Chökhor Düchen). En este día se celebra la primera enseñanza del Buda. Chökhor Düchen es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Los días de Buda y los eclipses se consideran días particularmente poderosos para tomar los Ocho Preceptos Mahayana."
+        }
+      ]
+    },
+    {
+      "id": "lhabab-duchen",
+      "name": "Descenso del Buda desde Tushita (Lhabab Düchen)",
+      "type": "BUDDHA_DAY",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 9,
+        "tibDay": 22
+      },
+      "description": "Celebración del descenso del Buda desde el reino divino de Tushita (Lhabab Düchen), después de que el Buda enseñara el Dharma allí a su madre. Lhabab Düchen es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      },
+      "alsoAdds": [
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Los días de Buda y los eclipses se consideran días particularmente poderosos para tomar los Ocho Preceptos Mahayana."
+        }
+      ]
+    },
+    {
+      "id": "je-tsongkhapa-day-ganden-ngamcho",
+      "name": "Día de Je Tsongkhapa (Ganden Ngamchö)",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 10,
+        "tibDay": 25
+      },
+      "description": "El día 25 del décimo mes lunar tibetano se conmemora el parinirvana de Je Tsongkhapa.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    },
+    {
+      "id": "guru-rinpoche-universal-prayer-day",
+      "name": "Día de la oración universal de Guru Rinpoche (Dzamling Chi Sang / Día universal del incienso)",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 5,
+        "tibDay": 15
+      },
+      "description": "El día 15 del quinto mes lunar tibetano se celebra la domesticación de deidades locales tibetanas por Padmasambhava y la fundación del monasterio de Samye, el primer monasterio budista del Tíbet.",
+      "conditions": {
+        "monthFlagNot": [2],
+        "doubleDayFlagNot": [1]
+      }
+    }
+  ],
+  "monthlyPracticeDays": [
+    {
+      "id": "day-8",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 8 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TARA",
+          "name": "Tara",
+          "description": "El octavo día de cada mes lunar tibetano se considera un día especialmente adecuado para realizar puyas de Tara."
+        },
+        {
+          "type": "MEDICINE_BUDDHA",
+          "name": "Buda de la Medicina",
+          "description": "El octavo día de cada mes lunar tibetano se considera un día especialmente adecuado para realizar puyas del Buda de la Medicina."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "El octavo día de cada mes lunar tibetano se considera un día poderoso para tomar los Ocho Preceptos Mahayana.",
+          "exceptWhen": [
+            {
+              "tibMonth": 1,
+              "monthFlagNot": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-10-tsog",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 10 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TSOG",
+          "name": "Tsog",
+          "description": "Ofrenda de tsog (Daka Tsog). El décimo día de cada mes tibetano es uno de los dos días del mes en los que deberían realizarse ofrendas de tsog.",
+          "specialCases": [
+            {
+              "when": { "tibMonth": 12 },
+              "nameOverride": "Tsog (Tsog especial de Heruka)",
+              "descriptionOverride": "Ofrenda de tsog (Daka Tsog). El décimo día de cada mes tibetano es uno de los dos días del mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 10 del mes 12 tibetano se considera uno de los dos días de tsog más importantes de todo el año. (En algunos años el mes 12 puede duplicarse; la app de origen agrega un texto de advertencia en ese caso.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-15-full-moon",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 15 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "MOON",
+          "name": "Luna llena",
+          "description": "Los días de luna llena se consideran días poderosos para prácticas positivas."
+        },
+        {
+          "type": "MEDICINE_BUDDHA",
+          "name": "Buda de la Medicina",
+          "description": "El día quince de cada mes lunar tibetano se considera un día especialmente adecuado para realizar puyas del Buda de la Medicina."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Los días de luna llena se consideran días poderosos para tomar los Ocho Preceptos Mahayana.",
+          "exceptWhen": [
+            {
+              "tibMonth": 1,
+              "monthFlagNot": [2]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-25-tsog",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 25 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "TSOG",
+          "name": "Tsog",
+          "description": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog.",
+          "specialCases": [
+            {
+              "when": { "tibMonth": 11 },
+              "nameOverride": "Tsog (Tsog especial de Vajrayogini)",
+              "descriptionOverride": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 25 del mes 11 tibetano se considera uno de los dos días de tsog más importantes de todo el año. (En algunos años el mes 11 puede duplicarse; la app de origen agrega un texto de advertencia en ese caso.)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "day-29-protector",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 29 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "PROTECTOR_PUJA",
+          "name": "Puja de protectores",
+          "description": "El día veintinueve de cada mes tibetano se considera beneficioso para puyas de protectores."
+        }
+      ]
+    },
+    {
+      "id": "day-30-new-moon",
+      "rule": { "calendar": "tibetan-lunar", "tibDay": 30 },
+      "conditions": { "doubleDayFlagNot": [1] },
+      "practices": [
+        {
+          "type": "MOON",
+          "name": "Luna nueva",
+          "description": "Los días de luna nueva se consideran días poderosos para prácticas positivas."
+        },
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Los días de luna nueva se consideran días poderosos para tomar los Ocho Preceptos Mahayana."
+        }
+      ]
+    },
+    {
+      "id": "first-15-days-precepts",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 1, "tibDayRange": { "min": 1, "max": 15 } },
+      "conditions": { "monthFlagNot": [2] },
+      "practices": [
+        {
+          "type": "PRECEPTS",
+          "name": "Preceptos",
+          "description": "Durante los primeros 15 días del año tibetano, todos los días son días de preceptos (el día 15 también puede ser un Día de Buda según el año)."
+        }
+      ]
+    }
+  ]
+}

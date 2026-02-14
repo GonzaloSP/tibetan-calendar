@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "source": {
+    "id": "teacher-seed",
+    "title": "Maestras/os y festivales (dataset semilla)",
+    "repo": null,
+    "generatedFrom": "src/data/teacher-seed-dataset.es.json",
+    "generatedAt": "2026-02-14",
+    "notes": "Este archivo contiene SOLO las entradas del dataset semilla que se pueden expresar como reglas anuales (gregorianas o lunar-tibetanas) para mostrarlas en el calendario."
+  },
+  "notes": [
+    "Dedupe: si una fecha ya existe en la fuente principal (Steinert), no se repite acá.",
+    "Se incluyen únicamente eventos con tibetan_lunar_date (month/day) o regla gregoriana fija y sentido anual.",
+    "Se preservan campos extra dentro de description mediante un bloque de ‘Detalles’ para no perder información."
+  ],
+  "importantCelebratoryDates": [
+    {
+      "id": "seed-buddha-birth-4-7",
+      "name": "Nacimiento del Buda (según Phugpa: 4/7)",
+      "type": "BUDDHA_DAY",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 4, "tibDay": 7 },
+      "description": "Festival que marca el Nacimiento del Buda según el calendario Phugpa (Tibetan Library).\n\nDetalles:\n- Nombre nativo: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ། / सिद्धार्थ गौतम\n- Escuela: Todas las escuelas del budismo tibetano\n- Fuentes: https://www.tibetanlibrary.com/calendar\n- Confianza: 0.85\n- Nota: otras tradiciones ubican la conmemoración principal en 4/15 (Saga Dawa Düchen)."
+    },
+    {
+      "id": "seed-buddha-entry-womb-6-15",
+      "name": "Ingreso del Buda al vientre (6/15)",
+      "type": "OTHER",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 6, "tibDay": 15 },
+      "description": "Festival que marca el ‘ingreso del Buda al vientre de su madre’ según el calendario Phugpa (Tibetan Library).\n\nDetalles:\n- Nombre nativo: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ། / सिद्धार्थ गौतम\n- Fuentes: https://www.tibetanlibrary.com/calendar\n- Confianza: 0.75"
+    },
+
+    {
+      "id": "seed-teacher-dalai14-birth-5-5",
+      "name": "Aniversario de nacimiento — Tenzin Gyatso (14.º Dalai Lama)",
+      "type": "OTHER",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 5, "tibDay": 5 },
+      "description": "Aniversario (tib.) de nacimiento de Tenzin Gyatso, 14.º Dalai Lama.\n\nDetalles:\n- Nombre nativo: འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)\n- Fuente: https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/birth-to-exile\n- Confianza: 0.95\n- Nota: si el día tibetano es duplicado (lhag), algunas guías de observancia ubican aniversarios en la primera ocurrencia."
+    },
+
+    {
+      "id": "seed-teacher-karmapa16-birth-6-15",
+      "name": "Aniversario de nacimiento — Rangjung Rigpe Dorje (16.º Karmapa)",
+      "type": "OTHER",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 6, "tibDay": 15 },
+      "description": "Aniversario (tib.) de nacimiento de Rangjung Rigpe Dorje, 16.º Karmapa.\n\nDetalles:\n- Nombre nativo: རང་བྱུང་རིག་པའི་རྡོ་རྗེ།\n- Nacimiento (greg.): 1924-08-14\n- Lugar: Denkhok, Derge, Kham, Tíbet\n- Fuente: https://www.karmapa.org/karma-kagyu/lives/16th-karmapa-rangjung-rigpe-dorje/\n- Confianza: 0.85"
+    },
+    {
+      "id": "seed-teacher-karmapa16-parinirvana-9-8",
+      "name": "Aniversario de parinirvana — Rangjung Rigpe Dorje (16.º Karmapa)",
+      "type": "PARINIRVANA",
+      "rule": { "calendar": "tibetan-lunar", "tibMonth": 9, "tibDay": 8 },
+      "description": "Aniversario (tib.) de parinirvana de Rangjung Rigpe Dorje, 16.º Karmapa.\n\nDetalles:\n- Nombre nativo: རང་བྱུང་རིག་པའི་རྡོ་རྗེ།\n- Parinirvana (greg.): 1981-11-05\n- Lugar: Zion, Illinois, EE.UU.\n- Fuente: https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje\n- Confianza: 0.7"
+    }
+  ],
+  "monthlyPracticeDays": []
+}

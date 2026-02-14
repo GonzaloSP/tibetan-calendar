@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "source": {
+    "id": "local",
+    "title": "Fechas locales / fuentes adicionales",
+    "notes": "Archivo para agregar fechas extra (por ejemplo, provenientes de otras tradiciones o calendarios) manteniendo las fuentes separadas del set principal."
+  },
+  "notes": [
+    "Este archivo está intencionalmente vacío al inicio.",
+    "Agregá aquí nuevas fechas/observancias de otras fuentes sin modificar el set principal de Steinert.",
+    "La app mergea todas las fuentes y deduplica automáticamente para evitar duplicados."
+  ],
+  "importantCelebratoryDates": [],
+  "monthlyPracticeDays": []
+}
