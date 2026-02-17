@@ -254,7 +254,7 @@
             {
               "when": { "tibMonth": 11 },
               "nameOverride": "Tsog (Tsog especial de Vajrayogini)",
-              "descriptionOverride": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 25 del mes 11 tibetano se considera uno de los dos días de tsog más importantes de todo el año. (En algunos años el mes 11 puede duplicarse; la app de origen agrega un texto de advertencia en ese caso.)"
+              "descriptionOverride": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 25 del mes 11 tibetano se considera uno de los dos días de tsog más importantes de todo el año."
             }
           ]
         }
