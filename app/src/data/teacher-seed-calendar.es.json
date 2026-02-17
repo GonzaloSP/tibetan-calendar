@@ -60,10 +60,10 @@
       "description": "Aniversario (tib.) de nacimiento de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Nombre nativo: ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)\n- Nacimiento (greg.): 1939-03-05\n- Lugar: Nangchen, Kham, Tíbet (campamento nómada)\n- Fuente: https://treasuryoflives.org/biographies/view/Eleventh-Trungpa-Chogyam-Trungpa/11231\n- Confianza: 0.9"
     },
     {
-      "id": "seed-teacher-trungpa-parinirvana-2-6",
+      "id": "seed-teacher-trungpa-parinirvana-4-4",
       "name": "Aniversario de parinirvana — Chögyam Trungpa",
       "type": "PARINIRVANA",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 2, "tibDay": 6 },
+      "rule": { "calendar": "gregorian", "month": 4, "day": 4 },
       "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Nombre nativo: ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)\n- Parinirvana (greg.): 1987-04-04\n- Lugar: Halifax, Nueva Escocia, Canadá\n- Fuente: https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa\n- Confianza: 0.7"
     }
   ],
