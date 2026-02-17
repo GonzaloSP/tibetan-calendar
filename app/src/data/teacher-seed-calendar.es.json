@@ -15,55 +15,69 @@
   ],
   "importantCelebratoryDates": [
     {
-      "id": "seed-buddha-birth-4-7",
-      "name": "Nacimiento del Buda (según Phugpa: 4/7)",
-      "type": "BUDDHA_DAY",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 4, "tibDay": 7 },
-      "description": "Festival que marca el Nacimiento del Buda según el calendario Phugpa (Tibetan Library).\n\nDetalles:\n- Nombre nativo: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ། / सिद्धार्थ गौतम\n- Escuela: Todas las escuelas del budismo tibetano\n- Fuentes: https://www.tibetanlibrary.com/calendar\n- Confianza: 0.85\n- Nota: otras tradiciones ubican la conmemoración principal en 4/15 (Saga Dawa Düchen)."
-    },
-    {
       "id": "seed-buddha-entry-womb-6-15",
       "name": "Ingreso del Buda al vientre (6/15)",
       "type": "OTHER",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 6, "tibDay": 15 },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 6,
+        "tibDay": 15
+      },
       "description": "Festival que marca el ‘ingreso del Buda al vientre de su madre’ según el calendario Phugpa (Tibetan Library).\n\nDetalles:\n- Nombre nativo: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ། / सिद्धार्थ गौतम\n- Fuentes: https://www.tibetanlibrary.com/calendar\n- Confianza: 0.75"
     },
-
     {
       "id": "seed-teacher-dalai14-birth-5-5",
       "name": "Aniversario de nacimiento — Tenzin Gyatso (14.º Dalai Lama)",
       "type": "OTHER",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 5, "tibDay": 5 },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 5,
+        "tibDay": 5
+      },
       "description": "Aniversario (tib.) de nacimiento de Tenzin Gyatso, 14.º Dalai Lama.\n\nDetalles:\n- Nombre nativo: འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)\n- Fuente: https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/birth-to-exile\n- Confianza: 0.95\n- Nota: si el día tibetano es duplicado (lhag), algunas guías de observancia ubican aniversarios en la primera ocurrencia."
     },
-
     {
       "id": "seed-teacher-karmapa16-birth-6-15",
       "name": "Aniversario de nacimiento — Rangjung Rigpe Dorje (16.º Karmapa)",
       "type": "OTHER",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 6, "tibDay": 15 },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 6,
+        "tibDay": 15
+      },
       "description": "Aniversario (tib.) de nacimiento de Rangjung Rigpe Dorje, 16.º Karmapa.\n\nDetalles:\n- Nombre nativo: རང་བྱུང་རིག་པའི་རྡོ་རྗེ།\n- Nacimiento (greg.): 1924-08-14\n- Lugar: Denkhok, Derge, Kham, Tíbet\n- Fuente: https://www.karmapa.org/karma-kagyu/lives/16th-karmapa-rangjung-rigpe-dorje/\n- Confianza: 0.85"
     },
     {
       "id": "seed-teacher-karmapa16-parinirvana-9-8",
       "name": "Aniversario de parinirvana — Rangjung Rigpe Dorje (16.º Karmapa)",
       "type": "PARINIRVANA",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 9, "tibDay": 8 },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 9,
+        "tibDay": 8
+      },
       "description": "Aniversario (tib.) de parinirvana de Rangjung Rigpe Dorje, 16.º Karmapa.\n\nDetalles:\n- Nombre nativo: རང་བྱུང་རིག་པའི་རྡོ་རྗེ།\n- Parinirvana (greg.): 1981-11-05\n- Lugar: Zion, Illinois, EE.UU.\n- Fuente: https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje\n- Confianza: 0.7"
     },
-
     {
       "id": "seed-teacher-trungpa-birth-1-15",
       "name": "Aniversario de nacimiento — Chögyam Trungpa",
       "type": "OTHER",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 1, "tibDay": 15 },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDay": 15
+      },
       "description": "Aniversario (tib.) de nacimiento de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Nombre nativo: ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)\n- Nacimiento (greg.): 1939-03-05\n- Lugar: Nangchen, Kham, Tíbet (campamento nómada)\n- Fuente: https://treasuryoflives.org/biographies/view/Eleventh-Trungpa-Chogyam-Trungpa/11231\n- Confianza: 0.9"
     },
     {
       "id": "seed-teacher-trungpa-parinirvana-4-4",
       "name": "Aniversario de parinirvana — Chögyam Trungpa",
       "type": "PARINIRVANA",
-      "rule": { "calendar": "gregorian", "month": 4, "day": 4 },
+      "rule": {
+        "calendar": "gregorian",
+        "month": 4,
+        "day": 4
+      },
       "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Nombre nativo: ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)\n- Parinirvana (greg.): 1987-04-04\n- Lugar: Halifax, Nueva Escocia, Canadá\n- Fuente: https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa\n- Confianza: 0.7"
     }
   ],
