@@ -68,6 +68,17 @@
         "day": 4
       },
       "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Nombre tibetano: ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)\n- Parinirvana (greg.): 1987-04-04\n- Lugar: Halifax, Nueva Escocia, Canadá\n- Fuente: https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa"
+    },
+    {
+      "id": "seed-teacher-mipham-parinirvana-4-29",
+      "name": "Aniversario de parinirvana — Ju Mipham Rinpoche",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 4,
+        "tibDay": 29
+      },
+      "description": "Aniversario (tib.) de parinirvana de Ju Mipham Rinpoche (Jamgön Mipham Gyatso, 1846–1912).\n\nDetalles:\n- Nombre tibetano: འཇམ་དགོན་མི་ཕམ་རྒྱ་མཚོ།\n- Parinirvana (greg.): 1912-06-10\n- Fuente: https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche_Timeline\n- Nota: muchas sanghas lo observan el día 29 del 4.º mes tibetano (Saga Dawa)."
     }
   ],
   "monthlyPracticeDays": []

@@ -109,9 +109,6 @@ export function MonthGrid(props: {
         })}
       </div>
 
-      <div className="mt-4 text-xs text-ink-800/60">
-        <span className="font-semibold">Consejo:</span> “D*” marca un día tibetano repetido.
-      </div>
     </div>
   );
 }
