@@ -132,7 +132,21 @@ export function DayDetails(props: {
                 </div>
 
                 <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
-                  <p>{p.description}</p>
+                  {p.description
+                    .split("\n\n")
+                    .map((para, i) => {
+                      const lines = para.split("\n");
+                      return (
+                        <p key={i}>
+                          {lines.map((line, j) => (
+                            <span key={j}>
+                              {line}
+                              {j < lines.length - 1 ? <br /> : null}
+                            </span>
+                          ))}
+                        </p>
+                      );
+                    })}
                 </div>
               </motion.div>
             ))}
