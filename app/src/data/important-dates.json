@@ -33,7 +33,7 @@
         "month": 7,
         "day": 6
       },
-      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.",
+      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.\n\nDetalles:\n- Nombre nativo: འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)\n- Fuente: https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/birth-to-exile\n- Nota: si el día tibetano es duplicado (lhag), algunas guías de observancia ubican aniversarios en la primera ocurrencia.",
       "conditions": {
         "onlyIfNotSkippedTibetanDay": true
       }
