@@ -64,28 +64,6 @@
         "day": 28
       },
       "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor).\n\nDetalles:\n- Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།)\n- Parinirvana (greg.): 1991-09-28\n- Lugar: Bután (reportado)\n- Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825"
-    },
-    {
-      "id": "teacher-dalai13-birth-2-12",
-      "name": "Aniversario de nacimiento — Thubten Gyatso (13.º Dalai Lama)",
-      "type": "OTHER",
-      "rule": {
-        "calendar": "gregorian",
-        "month": 2,
-        "day": 12
-      },
-      "description": "Aniversario de nacimiento de Thubten Gyatso (13.º Dalai Lama).\n\nDetalles:\n- Nombre tibetano: ཐུབ་བསྟན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1876-02-12\n- Lugar: Ü-Tsang, Tíbet\n- Fuente: https://en.wikipedia.org/wiki/13th_Dalai_Lama"
-    },
-    {
-      "id": "teacher-dalai13-parinirvana-12-17",
-      "name": "Aniversario de parinirvana — Thubten Gyatso (13.º Dalai Lama)",
-      "type": "PARINIRVANA",
-      "rule": {
-        "calendar": "gregorian",
-        "month": 12,
-        "day": 17
-      },
-      "description": "Aniversario de parinirvana de Thubten Gyatso (13.º Dalai Lama).\n\nDetalles:\n- Nombre tibetano: ཐུབ་བསྟན་རྒྱ་མཚོ།\n- Parinirvana (greg.): 1933-12-17\n- Lugar: Lhasa, Tíbet\n- Fuente: https://en.wikipedia.org/wiki/13th_Dalai_Lama"
     }
   ],
   "monthlyPracticeDays": []
