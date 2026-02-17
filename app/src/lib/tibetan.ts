@@ -15,7 +15,7 @@ export function toTibetanDate(date: Date): TibetanDate {
 }
 
 export function formatTibetanDate(t: TibetanDate): string {
-  const leapMonth = t.isLeapMonth ? " (leap month)" : "";
-  const leapDay = t.isLeapDay ? " (repeated day)" : "";
-  return `Rabjung ${t.rabjung}, Year ${t.tibYear} · Month ${t.tibMonth}${leapMonth} · Day ${t.tibDay}${leapDay}`;
+  const leapMonth = t.isLeapMonth ? " (mes duplicado)" : "";
+  const leapDay = t.isLeapDay ? " (día repetido)" : "";
+  return `Rabjung ${t.rabjung}, Año ${t.tibYear} · Mes ${t.tibMonth}${leapMonth} · Día ${t.tibDay}${leapDay}`;
 }
