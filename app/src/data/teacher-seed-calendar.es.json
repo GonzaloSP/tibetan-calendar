@@ -26,13 +26,13 @@
       "description": "Festival que marca el ‘ingreso del Buda al vientre de su madre’ según el calendario Phugpa (Tibetan Library).\n\nDetalles:\n- Nombre nativo: སངས་རྒྱས་ཤཱཀྱ་ཐུབ་པ། / सिद्धार्थ गौतम\n- Fuentes: https://www.tibetanlibrary.com/calendar\n- Confianza: 0.75"
     },
     {
-      "id": "seed-teacher-dalai14-birth-5-5",
+      "id": "seed-teacher-dalai14-birth-7-6",
       "name": "Aniversario de nacimiento — Tenzin Gyatso (14.º Dalai Lama)",
       "type": "OTHER",
       "rule": {
-        "calendar": "tibetan-lunar",
-        "tibMonth": 5,
-        "tibDay": 5
+        "calendar": "gregorian",
+        "month": 7,
+        "day": 6
       },
       "description": "Aniversario (tib.) de nacimiento de Tenzin Gyatso, 14.º Dalai Lama.\n\nDetalles:\n- Nombre nativo: འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)\n- Fuente: https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/birth-to-exile\n- Confianza: 0.95\n- Nota: si el día tibetano es duplicado (lhag), algunas guías de observancia ubican aniversarios en la primera ocurrencia."
     },
