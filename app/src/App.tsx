@@ -75,18 +75,11 @@ export default function App() {
         </div>
 
         {/* Mobile bottom-sheet details */}
-        <BottomSheet
-          open={isSmall && sheetOpen}
-          onClose={() => setSheetOpen(false)}
-        >
+        <BottomSheet open={isSmall && sheetOpen} onClose={() => setSheetOpen(false)}>
           <div className="lg:hidden">
             <DayDetails date={selected} tib={tib} onClose={() => setSheetOpen(false)} />
           </div>
         </BottomSheet>
-
-        <div className="mt-6 text-center text-xs text-ink-800/50">
-          Hecho con Vite + React + TypeScript. Diseño adaptable a celular.
-        </div>
       </div>
     </div>
   );
