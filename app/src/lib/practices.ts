@@ -1,6 +1,7 @@
 import steinertDates from "../data/important-dates.json";
 import localDates from "../data/local-dates.json";
 import teacherSeedCalendar from "../data/teacher-seed-calendar.es.json";
+import teachers from "../data/teachers.json";
 import type { ImportantDatesData, Practice, TibetanDate } from "./types";
 
 type Source = ImportantDatesData;
@@ -64,6 +65,7 @@ function mergeSources(sources: Source[]): ImportantDatesData {
 const data = mergeSources([
   steinertDates as ImportantDatesData,
   teacherSeedCalendar as ImportantDatesData,
+  teachers as ImportantDatesData,
   localDates as ImportantDatesData,
 ]);
 

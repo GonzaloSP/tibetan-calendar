@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "source": {
+    "id": "teachers-seed-es",
+    "title": "Maestras/os — dataset semilla (es)",
+    "notes": "Eventos de maestras/os (no Budas), traducidos al español y expresados como reglas anuales (gregorianas o lunar-tibetanas) para integrar en el calendario."
+  },
+  "notes": [
+    "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
+    "Se prefieren reglas gregorianas fijas cuando la fecha es ampliamente citada."
+  ],
+  "importantCelebratoryDates": [
+    {
+      "id": "teacher-chatral-birth-6-18",
+      "name": "Aniversario de nacimiento — Chatral Sangye Dorje",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 6,
+        "day": 18
+      },
+      "description": "Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma.\n\nDetalles:\n- Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ།\n- Nacimiento (greg.): 1913-06-18\n- Lugar: Valle de Nyak (Kham), Tíbet\n- Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+    },
+    {
+      "id": "teacher-chatral-parinirvana-12-30",
+      "name": "Aniversario de parinirvana — Chatral Sangye Dorje",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 12,
+        "day": 30
+      },
+      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche).\n\nDetalles:\n- Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ།\n- Parinirvana (greg.): 2015-12-30\n- Lugar: Pharping (Yangleshö), Nepal\n- Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+    },
+    {
+      "id": "teacher-tulku-urgyen-parinirvana-2-13",
+      "name": "Aniversario de parinirvana — Tulku Urgyen Rinpoche",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 2,
+        "day": 13
+      },
+      "description": "Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen).\n\nDetalles:\n- Nombre tibetano: སྤྲུལ་སྐུ་ཨོ་རྒྱན་རིན་པོ་ཆེ།\n- Parinirvana (greg.): 1996-02-13\n- Lugar: Nepal\n- Fuente: https://treasuryoflives.org/biographies/view/ugyen-rinpoche/12839"
+    },
+    {
+      "id": "teacher-jigme-phuntsok-parinirvana-1-7",
+      "name": "Aniversario de parinirvana — Khenpo Jigme Phuntsok",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 1,
+        "day": 7
+      },
+      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok).\n\nDetalles:\n- Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས།\n- Parinirvana (greg.): 2004-01-07\n- Lugar: China (reportado en múltiples fuentes)\n- Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457"
+    },
+    {
+      "id": "teacher-dilgo-khyentse-parinirvana-9-28",
+      "name": "Aniversario de parinirvana — Dilgo Khyentse Rinpoche",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 9,
+        "day": 28
+      },
+      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor).\n\nDetalles:\n- Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།)\n- Parinirvana (greg.): 1991-09-28\n- Lugar: Bután (reportado)\n- Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825"
+    },
+    {
+      "id": "teacher-dalai13-birth-2-12",
+      "name": "Aniversario de nacimiento — Thubten Gyatso (13.º Dalai Lama)",
+      "type": "OTHER",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 2,
+        "day": 12
+      },
+      "description": "Aniversario de nacimiento de Thubten Gyatso (13.º Dalai Lama).\n\nDetalles:\n- Nombre tibetano: ཐུབ་བསྟན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1876-02-12\n- Lugar: Ü-Tsang, Tíbet\n- Fuente: https://en.wikipedia.org/wiki/13th_Dalai_Lama"
+    },
+    {
+      "id": "teacher-dalai13-parinirvana-12-17",
+      "name": "Aniversario de parinirvana — Thubten Gyatso (13.º Dalai Lama)",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 12,
+        "day": 17
+      },
+      "description": "Aniversario de parinirvana de Thubten Gyatso (13.º Dalai Lama).\n\nDetalles:\n- Nombre tibetano: ཐུབ་བསྟན་རྒྱ་མཚོ།\n- Parinirvana (greg.): 1933-12-17\n- Lugar: Lhasa, Tíbet\n- Fuente: https://en.wikipedia.org/wiki/13th_Dalai_Lama"
+    }
+  ],
+  "monthlyPracticeDays": []
+}
