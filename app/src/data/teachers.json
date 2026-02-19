@@ -19,7 +19,8 @@
     "filledMissingPhotosManualAt": "2026-02-19T19:28:28.351Z",
     "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z",
     "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z",
-    "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z"
+    "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z",
+    "khandroTseringPhotoFixedAt": "2026-02-19T19:49:48.106Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -2304,9 +2305,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/330px-The_Dalai_Lama_in_2012.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+        "url": "https://www.rigpawiki.org/images/8/81/Khandro.JPG",
+        "creditEs": "Créditos: Rigpa Wiki",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Ch%C3%B6dr%C3%B6n"
       }
     },
     {
