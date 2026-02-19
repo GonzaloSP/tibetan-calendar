@@ -36,8 +36,8 @@ function iconForType(type: string) {
   }
 }
 
-function PracticeBody(props: { description: string; image?: PracticeImage }) {
-  const { description, image } = props;
+function PracticeBody(props: { description: string; tibetanName?: string; image?: PracticeImage }) {
+  const { description, tibetanName, image } = props;
   const [imgOk, setImgOk] = useState(true);
 
   const paragraphs = useMemo(() => {
@@ -49,6 +49,13 @@ function PracticeBody(props: { description: string; image?: PracticeImage }) {
 
   return (
     <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
+      {tibetanName ? (
+        <div className="mb-2 text-xs text-ink-900">
+          <span className="font-semibold">Nombre tibetano:</span>{" "}
+          <span className="font-tibetan">{tibetanName}</span>
+        </div>
+      ) : null}
+
       {image?.url && imgOk ? (
         <div className="mb-3">
           <img
@@ -190,7 +197,7 @@ export function DayDetails(props: {
                   </span>
                 </div>
 
-                <PracticeBody description={p.description} image={p.image} />
+                <PracticeBody description={p.description} tibetanName={p.tibetanName} image={p.image} />
               </motion.div>
             ))}
           </div>

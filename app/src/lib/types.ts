@@ -28,6 +28,7 @@ export type Practice = {
   type: PracticeType;
   name: string;
   description: string;
+  tibetanName?: string;
   image?: PracticeImage;
 };
 
@@ -42,6 +43,7 @@ export type ImportantDatesData = {
       | { calendar: "gregorian"; month: number; day: number }
       | { calendar: "tibetan-lunar"; tibMonth: number; tibDay: number };
     description: string;
+    tibetanName?: string;
     photo?: PracticeImage;
     alsoAdds?: Practice[];
   }>;
