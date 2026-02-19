@@ -51,7 +51,14 @@ function PracticeBody(props: { description: string; image?: PracticeImage }) {
     <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
       {image?.url && imgOk ? (
         <div className="mb-3">
-          <div className="text-[11px] text-ink-800/60">
+          <img
+            src={image.url}
+            alt=""
+            loading="lazy"
+            className="w-full max-w-[360px] rounded-xl border border-black/10"
+            onError={() => setImgOk(false)}
+          />
+          <div className="mt-1 text-[11px] text-ink-800/60">
             {image.creditEs}
             {image.creditUrl ? (
               <>
@@ -67,13 +74,6 @@ function PracticeBody(props: { description: string; image?: PracticeImage }) {
               </>
             ) : null}
           </div>
-          <img
-            src={image.url}
-            alt=""
-            loading="lazy"
-            className="mt-1 w-full max-w-[360px] rounded-xl border border-black/10"
-            onError={() => setImgOk(false)}
-          />
         </div>
       ) : null}
 

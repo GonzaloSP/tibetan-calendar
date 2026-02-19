@@ -8,7 +8,8 @@
     "shambhalaInput": "app/shambhala_calendar.json",
     "removedWesternDateBoilerplateAt": "2026-02-19T15:24:42.539Z",
     "reformattedAt": "2026-02-19T15:33:03.900Z",
-    "teacherPhotosAddedAt": "2026-02-19T17:35:28.218Z"
+    "teacherPhotosAddedAt": "2026-02-19T17:35:28.218Z",
+    "removedTibetanNameFromDescriptionsAt": "2026-02-19T18:17:35.731Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -24,7 +25,7 @@
         "month": 6,
         "day": 18
       },
-      "description": "Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma. Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Nacimiento (greg.): 1913-06-18 - Lugar: Valle de Nyak (Kham), Tíbet - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      "description": "Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma. Detalles:"
     },
     {
       "id": "teacher-chatral-parinirvana-12-30",
@@ -35,7 +36,7 @@
         "month": 12,
         "day": 30
       },
-      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Parinirvana (greg.): 2015-12-30 - Lugar: Pharping (Yangleshö), Nepal - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
+      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles:",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -51,7 +52,7 @@
         "month": 9,
         "day": 28
       },
-      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles: - Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།) - Parinirvana (greg.): 1991-09-28 - Lugar: Bután (reportado) - Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825",
+      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles:",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -67,7 +68,7 @@
         "month": 1,
         "day": 6
       },
-      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles: - Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས། - Parinirvana (greg.): 2004-01-06 - Lugar: China (reportado en múltiples fuentes) - Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457",
+      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles:",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -83,7 +84,7 @@
         "month": 2,
         "day": 13
       },
-      "description": "Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen). Detalles: - Nombre tibetano: སྤྲུལ་སྐུ་ཨོ་རྒྱན་རིན་པོ་ཆེ། - Parinirvana (greg.): 1996-02-13 - Lugar: Nepal - Fuente: https://treasuryoflives.org/biographies/view/ugyen-rinpoche/12839"
+      "description": "Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen). Detalles:"
     },
     {
       "id": "shambhala-atisha-tib9-18",
@@ -1149,7 +1150,7 @@
           1
         ]
       },
-      "description": "- Calendario lunar tibetano: día 15 del mes 1.\n- Aniversario de Garab Dorje. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano. Nombre tibetano: - དགའ་རབ་རྡོ་རྗེ་",
+      "description": "- Calendario lunar tibetano: día 15 del mes 1.\n- Aniversario de Garab Dorje. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano.",
       "tibetanName": "དགའ་རབ་རྡོ་རྗེ་",
       "rawRecords": [
         {
@@ -4526,7 +4527,7 @@
           1
         ]
       },
-      "description": "- Calendario lunar tibetano: día 10 del mes 1.\n- Aniversario de Terton Sogyal. En el calendario lunar tibetano se observa el día 10 del mes 1. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano. Nombre tibetano: - གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
+      "description": "- Calendario lunar tibetano: día 10 del mes 1.\n- Aniversario de Terton Sogyal. En el calendario lunar tibetano se observa el día 10 del mes 1. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano.",
       "tibetanName": "གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "rawRecords": [
         {
