@@ -14,7 +14,11 @@
     "biosAddedAt": "2026-02-19T14:37:41.242Z",
     "biosOverriddenAt": "2026-02-19T14:38:57.894Z",
     "biosIntegratedAt": "2026-02-19T14:58:55.895Z",
-    "biosLanguage": "es-419"
+    "biosLanguage": "es-419",
+    "tibetanNamesAddedAt": "2026-02-19T15:12:16.516Z",
+    "tibetanNamesFetchedAt": "2026-02-19T15:13:19.001Z",
+    "tibetanNamesOverridesAt": "2026-02-19T15:14:39.145Z",
+    "garabDorjeDescriptionFixedAt": "2026-02-19T15:15:03.017Z"
   },
   "entries": [
     {
@@ -74,7 +78,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "སྤྲུལ་སྐུ་དོན་གྲུབ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -265,7 +270,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Khenpo_Shenga"
         ]
-      }
+      },
+      "tibetanName": "མཁན་པོ་གཞན་དགའ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -303,7 +309,8 @@
           "https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
           "https://rywiki.tsadra.org/index.php/Rigdzin_Kunzang_Sherab"
         ]
-      }
+      },
+      "tibetanName": "རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -337,16 +344,25 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
+          "description": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
           "attachments": []
         }
       },
       "titleEn": "Anniversay of Terton Sogyal",
       "titleEs": "Aniversario de Terton Sogyal",
-      "descriptionEn": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
-      "descriptionEs": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
       "flags": {
-        "teacherAnniversary": false
+        "teacherAnniversary": true
+      },
+      "tibetanName": "གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 10,
+        "isLeapDay": false
       }
     },
     {
@@ -384,7 +400,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -421,7 +439,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Milarepa"
         ]
-      }
+      },
+      "tibetanName": "མི་ལ་རས་པ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -481,7 +500,8 @@
           "https://www.rigpawiki.org/index.php?title=Marpa",
           "https://treasuryoflives.org/biographies/view/Marpa/TBRC_p2636"
         ]
-      }
+      },
+      "tibetanName": "མར་པ་ཆོས་ཀྱི་བློ་གྲོས་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -493,17 +513,27 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The birth of Garab Dorje one of the principal figures in the Dzogchen tradition.",
+          "description": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
           "attachments": []
         }
       },
       "titleEn": "The Birth of Garab Dorje",
-      "titleEs": "Nacimiento de Garab Dorje",
-      "descriptionEn": "The birth of Garab Dorje one of the principal figures in the Dzogchen tradition.",
-      "descriptionEs": "The nacimiento of Garab Dorje one of the principal figures in the Dzogchen tradition.",
+      "titleEs": "Aniversario de Garab Dorje",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
       "flags": {
-        "teacherAnniversary": false
-      }
+        "teacherAnniversary": true
+      },
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 15,
+        "isLeapDay": false
+      },
+      "tibetanName": "དགའ་རབ་རྡོ་རྗེ་",
+      "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Garab_Dorje"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -540,7 +570,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo"
         ]
-      }
+      },
+      "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -600,7 +631,8 @@
           "https://www.rigpawiki.org/index.php?title=Penor_Rinpoche",
           "https://en.wikipedia.org/wiki/Penor_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "པད་ནོར་རིན་པོ་ཆེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -637,7 +669,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Terdak_Lingpa"
         ]
-      }
+      },
+      "tibetanName": "སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -674,7 +707,9 @@
         "sources": [
           "https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646"
         ]
-      }
+      },
+      "tibetanName": "འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -734,7 +769,9 @@
           "https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614",
           "https://en.wikipedia.org/wiki/Jetsun_Dragpa_Gyaltsen"
         ]
-      }
+      },
+      "tibetanName": "རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -793,7 +830,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "ཡཏྲུལ་ཪིནཔོཆེ"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -830,7 +868,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Do_Khyentse"
         ]
-      }
+      },
+      "tibetanName": "མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -889,7 +928,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Taranatha"
         ]
-      }
+      },
+      "tibetanName": "རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -926,7 +966,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "ཀར་ལུ་རིན་པོ་ཆེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1007,7 +1048,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje"
         ]
-      }
+      },
+      "tibetanName": "གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1044,7 +1087,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron"
         ]
-      }
+      },
+      "tibetanName": "མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1103,7 +1147,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama"
         ]
-      }
+      },
+      "tibetanName": "ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་",
+      "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1140,7 +1186,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Sangye_Lingpa"
         ]
-      }
+      },
+      "tibetanName": "སངས་རྒྱས་གླིང་པ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1265,7 +1312,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "ཁྲ་འགུ་རིན་པོ་ཆེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1302,7 +1350,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1339,7 +1388,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Virupa"
         ]
-      }
+      },
+      "tibetanName": "བི་རུ་པ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1398,7 +1448,8 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n"
         ]
-      }
+      },
+      "tibetanName": "འཇིག་རྟེན་གསུམ་མགོན"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1435,7 +1486,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "འཇུ་མི་ཕམ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1472,7 +1524,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa"
         ]
-      }
+      },
+      "tibetanName": "མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་",
+      "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1509,7 +1563,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6"
         ]
-      }
+      },
+      "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1612,7 +1668,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal"
         ]
-      }
+      },
+      "tibetanName": "ཞེ་ཆེན་རྒྱལ་ཚབ།"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1649,7 +1706,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung"
         ]
-      }
+      },
+      "tibetanName": "མཁན་པོ་ངག་དབང་དཔལ་བཟང་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1774,7 +1832,9 @@
         "sources": [
           "https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama"
         ]
-      }
+      },
+      "tibetanName": "རང་བྱུང་རྡོ་རྗེ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1833,7 +1893,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Gampopa"
         ]
-      }
+      },
+      "tibetanName": "སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1914,7 +1975,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Pema_Karpo"
         ]
-      }
+      },
+      "tibetanName": "ཀུན་མཁྱེན་པདྨ་དཀར་པོ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -1995,7 +2057,9 @@
         "sources": [
           "https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127"
         ]
-      }
+      },
+      "tibetanName": "ཕག་མོ་གྲུ་པ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2076,7 +2140,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་",
+      "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2135,7 +2201,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza"
         ]
-      }
+      },
+      "tibetanName": "རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2172,7 +2240,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Jigme_Lingpa"
         ]
-      }
+      },
+      "tibetanName": "འཇིགས་མེད་གླིང་པ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2253,7 +2322,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor"
         ]
-      }
+      },
+      "tibetanName": "ཁྱུང་པོ་རྣལ་འབྱོར་",
+      "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2312,7 +2383,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Atisha"
         ]
-      }
+      },
+      "tibetanName": "ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2459,7 +2531,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Tsongkhapa"
         ]
-      }
+      },
+      "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2496,7 +2569,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2555,7 +2630,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Sonam_Tsemo"
         ]
-      }
+      },
+      "tibetanName": "བསོད་ནམས་རྩེ་མོ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2592,7 +2668,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Sakya_Pandita"
         ]
-      }
+      },
+      "tibetanName": "ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2651,7 +2728,9 @@
         "sources": [
           "https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne"
         ]
-      }
+      },
+      "tibetanName": "མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2688,7 +2767,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2725,7 +2806,8 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche"
         ]
-      }
+      },
+      "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2762,7 +2844,9 @@
         "sources": [
           "https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa"
         ]
-      }
+      },
+      "tibetanName": "ཆོས་རྒྱལ་འཕགས་པ་",
+      "tibetanNameSource": "manual_override"
     },
     {
       "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
@@ -2799,7 +2883,9 @@
         "sources": [
           "https://commons.tsadra.org/index.php/Dodrupchen,_4th"
         ]
-      }
+      },
+      "tibetanName": "རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།",
+      "tibetanNameSource": "manual_override"
     }
   ]
 }
