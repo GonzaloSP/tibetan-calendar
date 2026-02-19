@@ -28,9 +28,9 @@ export default function App() {
   // Read the selected day from the URL on first load.
   // Supported:
   // - /?date=YYYY-MM-DD
-  // - /day/YYYY-MM-DD
+  // - /fecha/YYYY-MM-DD
   useEffect(() => {
-    const fromPath = window.location.pathname.match(/\/day\/(\d{4}-\d{2}-\d{2})/i)?.[1];
+    const fromPath = window.location.pathname.match(/\/fecha\/(\d{4}-\d{2}-\d{2})/i)?.[1];
     const params = new URLSearchParams(window.location.search);
     const fromQuery = params.get("date") || undefined;
     const d = fromPath || fromQuery;
@@ -48,7 +48,7 @@ export default function App() {
   }, []);
 
   // Keep URL in sync so the selected day is shareable.
-  // We keep it as a query param while browsing, but prerendered pages can use /day/YYYY-MM-DD.
+  // We keep it as a query param while browsing, but prerendered pages can use /fecha/YYYY-MM-DD.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     params.set("date", format(selected, "yyyy-MM-dd"));

@@ -92,7 +92,7 @@ async function main() {
 
       const html = await page.content();
 
-      const outDir = path.join(DIST, 'day', iso);
+      const outDir = path.join(DIST, 'fecha', iso);
       fs.mkdirSync(outDir, { recursive: true });
       fs.writeFileSync(path.join(outDir, 'index.html'), html, 'utf-8');
       count++;

@@ -198,7 +198,7 @@ export function DayDetails(props: {
     // Prefer pretty, prerendered path for social previews.
     const d = format(date, "yyyy-MM-dd");
     const u = new URL(window.location.href);
-    u.pathname = `/day/${d}`;
+    u.pathname = `/fecha/${d}`;
     u.search = "";
     u.hash = "";
     return u.toString();
