@@ -7,7 +7,8 @@
     "generatedFrom": "src/data/teacher-seed-dataset.es.json",
     "generatedAt": "2026-02-14",
     "notes": "Este archivo contiene SOLO las entradas del dataset semilla que se pueden expresar como reglas anuales (gregorianas o lunar-tibetanas) para mostrarlas en el calendario.",
-    "extractedTibetanNamesAt": "2026-02-19T19:16:15.908Z"
+    "extractedTibetanNamesAt": "2026-02-19T19:16:15.908Z",
+    "removedMiphamDuplicateAt": "2026-02-19T19:24:15.527Z"
   },
   "notes": [
     "Dedupe: si una fecha ya existe en la fuente principal (Steinert), no se repite acá.",
@@ -74,18 +75,6 @@
       },
       "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa).\n\nDetalles:\n- Parinirvana (greg.): 1987-04-04\n- Lugar: Halifax, Nueva Escocia, Canadá\n- Fuente: https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa",
       "tibetanName": "ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)"
-    },
-    {
-      "id": "seed-teacher-mipham-parinirvana-4-29",
-      "name": "Aniversario de parinirvana — Ju Mipham Rinpoche",
-      "type": "PARINIRVANA",
-      "rule": {
-        "calendar": "tibetan-lunar",
-        "tibMonth": 4,
-        "tibDay": 29
-      },
-      "description": "Aniversario (tib.) de parinirvana de Ju Mipham Rinpoche (Jamgön Mipham Gyatso, 1846–1912).\n\nDetalles:\n- Parinirvana (greg.): 1912-06-10\n- Nota: muchas sanghas lo observan el día 29 del 4.º mes tibetano (Saga Dawa).\n- Fuente: https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche_Timeline",
-      "tibetanName": "འཇམ་དགོན་མི་ཕམ་རྒྱ་མཚོ།"
     }
   ],
   "monthlyPracticeDays": []

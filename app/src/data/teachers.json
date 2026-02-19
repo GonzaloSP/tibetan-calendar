@@ -13,7 +13,8 @@
     "removedDateMechanicsFromDescriptionsAt": "2026-02-19T19:11:18.880Z",
     "removedIncorrectDodrubchenPhotoAt": "2026-02-19T19:14:17.417Z",
     "doKhyentsePhotoUpdatedAt": "2026-02-19T19:21:41.405Z",
-    "removedSangyeLingpaPhotoAt": "2026-02-19T19:22:23.742Z"
+    "removedSangyeLingpaPhotoAt": "2026-02-19T19:22:23.742Z",
+    "mergedMiphamEntriesAt": "2026-02-19T19:24:15.525Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -3024,8 +3025,8 @@
     },
     {
       "id": "shambhala-mipham-rinpoche-tib4-29",
-      "name": "Aniversario — Mipham Rinpoche",
-      "type": "OTHER",
+      "name": "Aniversario de parinirvana — Ju Mipham Rinpoche",
+      "type": "PARINIRVANA",
       "rule": {
         "calendar": "tibetan-lunar",
         "tibMonth": 4,
@@ -3036,8 +3037,8 @@
           1
         ]
       },
-      "description": "- Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche",
-      "tibetanName": "འཇུ་མི་ཕམ་",
+      "description": "- Ju Mipham (Jamgön Mipham Gyatso, 1846–1912), gran erudito y maestro nyingma del movimiento Rimé; autor monumental que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n- Parinirvana (greg.): 1912-06-10.\n- Nota: muchas sanghas lo observan el día 29 del 4.º mes tibetano (Saga Dawa).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche_Timeline",
+      "tibetanName": "འཇམ་དགོན་མི་ཕམ་རྒྱ་མཚོ།",
       "bio": {
         "es": "Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.",
         "sources": [
@@ -3126,7 +3127,8 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/MiphamNew.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso"
-      }
+      },
+      "photoBlocked": false
     },
     {
       "id": "shambhala-pakmodrukpa-tib7-25",
