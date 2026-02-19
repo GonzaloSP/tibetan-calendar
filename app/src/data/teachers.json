@@ -17,7 +17,8 @@
     "mergedMiphamEntriesAt": "2026-02-19T19:24:15.525Z",
     "filledMissingPhotosAt": "2026-02-19T19:27:35.853Z",
     "filledMissingPhotosManualAt": "2026-02-19T19:28:28.351Z",
-    "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z"
+    "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z",
+    "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -1456,7 +1457,7 @@
           1
         ]
       },
-      "description": "- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
+      "description": "- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y figura clave del movimiento Rimé; un maestro de enorme erudición y realización, que reunió, transmitió y revitalizó linajes de todas las escuelas tibetanas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་",
       "bio": {
         "es": "Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.",
