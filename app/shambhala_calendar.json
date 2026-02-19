@@ -9,7 +9,10 @@
     "notes": [
       "Removed Shambhala-specific references and URLs from titles/descriptions.",
       "Added flags.teacherAnniversary + computed tibetanLunar date for teacher anniversaries (based on 2026 start date)."
-    ]
+    ],
+    "rewrittenTeacherDescriptionsAt": "2026-02-19T14:31:53.519Z",
+    "biosAddedAt": "2026-02-19T14:37:41.242Z",
+    "biosOverriddenAt": "2026-02-19T14:38:57.894Z"
   },
   "entries": [
     {
@@ -44,14 +47,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Tulku Thondup Rinpoche (the date according to the western calendar is December 29th).",
+          "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Tulku Thondup Rinpoche (Lunar Calendar)",
       "titleEs": "Aniversario de Tulku Thondup Rinpoche (calendario lunar)",
-      "descriptionEn": "The anniversary of Tulku Thondup Rinpoche (the date according to the western calendar is December 29th).",
-      "descriptionEs": "El aniversario de Tulku Thondup Rinpoche (the date según el calendario occidental is December 29th).",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 39,
@@ -63,6 +66,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro y erudito nyingma del linaje de Dodrupchen, conocido por sus enseñanzas claras y sus libros de práctica y meditación para el público moderno.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
+          "https://rywiki.tsadra.org/index.php/Tulku_Thondup_Rinpoche"
+        ]
       }
     },
     {
@@ -229,14 +239,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
+          "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khenpo Shenga",
       "titleEs": "Aniversario de Khenpo Shenga",
-      "descriptionEn": "The anniversary of Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
-      "descriptionEs": "El aniversario de Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -248,6 +258,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Erudito clave del movimiento Rimé; renovó el estudio monástico en el este del Tíbet y estableció un currículo centrado en los grandes tratados clásicos de India.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Khenpo_Shenga",
+          "https://www.rigpawiki.org/index.php?title=Khenpo_Shenga"
+        ]
       }
     },
     {
@@ -260,14 +277,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
+          "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Rigdzin Kunzang Sherab",
       "titleEs": "Aniversario de Rigdzin Kunzang Sherab",
-      "descriptionEn": "The anniversary of Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
-      "descriptionEs": "El aniversario de Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -279,6 +296,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Primer titular del trono de Palyul y fundador de su monasterio; figura central en el establecimiento y transmisión del linaje Palyul (Nyingma).",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
+          "https://rywiki.tsadra.org/index.php/Rigdzin_Kunzang_Sherab"
+        ]
       }
     },
     {
@@ -335,14 +359,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
+          "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the First Dodrubchen Rinpoche",
       "titleEs": "Aniversario del First Dodrubchen Rinpoche",
-      "descriptionEn": "The anniversary of the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
-      "descriptionEs": "El aniversario de the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -354,6 +378,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Gran maestro nyingma del linaje de Dodrupchen, asociado a la transmisión de Dzogchen y a la consolidación de la tradición en torno a su monasterio.",
+        "sources": []
       }
     },
     {
@@ -366,14 +394,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Milarepa. our guide for Readers about this saint from Tibet:",
+          "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Milarepa",
       "titleEs": "Aniversario de Milarepa",
-      "descriptionEn": "The anniversary of Milarepa. our guide for Readers about this saint from Tibet:",
-      "descriptionEs": "El aniversario de Milarepa. our guide for Readers about this saint from Tibet:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -385,6 +413,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Yogui y poeta del linaje Kagyu, célebre por sus “cantos” de realización y por la transmisión de instrucciones de meditación como el mahamudra.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Milarepa",
+          "https://www.rigpawiki.org/index.php?title=Milarepa"
+        ]
       }
     },
     {
@@ -419,14 +454,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
+          "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Marpa",
       "titleEs": "Aniversario de Marpa",
-      "descriptionEn": "The anniversary of Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
-      "descriptionEs": "El aniversario de Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -438,6 +473,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Traductor (lotsawa) y maestro tibetano que trajo y transmitió enseñanzas vajrayana de India (especialmente de Nāropa), fundador temprano del linaje Kagyu en el Tíbet.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Marpa",
+          "https://www.rigpawiki.org/index.php?title=Marpa"
+        ]
       }
     },
     {
@@ -472,14 +514,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Jamyang Khyentse Wangpo.",
+          "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jamyang Khyentse Wangpo",
       "titleEs": "Aniversario de Jamyang Khyentse Wangpo",
-      "descriptionEn": "The anniversary of Jamyang Khyentse Wangpo.",
-      "descriptionEs": "El aniversario de Jamyang Khyentse Wangpo.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -491,6 +533,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro rimé del siglo XIX, gran tertön y compilador; impulsó una transmisión no sectaria reuniendo y preservando linajes y enseñanzas de múltiples escuelas.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jamyang_Khyentse_Wangpo",
+          "https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo"
+        ]
       }
     },
     {
@@ -525,14 +574,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. According to the western calendar the date was March 25th.",
+          "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Penor Rinpoche",
       "titleEs": "Aniversario de Penor Rinpoche",
-      "descriptionEn": "The anniversary of Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. According to the western calendar the date was March 25th.",
-      "descriptionEs": "El aniversario de Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. según el calendario occidental the date was March 25th.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -544,6 +593,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "11.º titular del trono de Palyul (Nyingma); maestro influyente que expandió centros y formación monástica, preservando la transmisión del linaje Palyul.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Penor_Rinpoche",
+          "https://www.rigpawiki.org/index.php?title=Penor_Rinpoche"
+        ]
       }
     },
     {
@@ -556,14 +612,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
+          "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Terdak Lingpa",
       "titleEs": "Aniversario de Terdak Lingpa",
-      "descriptionEn": "The anniversary of the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
-      "descriptionEs": "El aniversario de the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -575,6 +631,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Revelador de tesoros (tertön) y fundador de Mindrolling, uno de los grandes monasterios nyingma; figura decisiva para el desarrollo de ritual, liturgia y enseñanza en Nyingma.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
+          "https://rywiki.tsadra.org/index.php/Terdak_Lingpa"
+        ]
       }
     },
     {
@@ -588,13 +651,13 @@
         "timeZone": "America/New_York",
         "extendedProps": {
           "attachments": [],
-          "description": ""
+          "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año."
         }
       },
       "titleEn": "Anniversary of Jamyang Shepa",
       "titleEs": "Aniversario de Jamyang Shepa",
       "descriptionEn": "",
-      "descriptionEs": "",
+      "descriptionEs": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -606,6 +669,12 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Erudito gelug y fundador/figura principal de Labrang; reconocido por sus aportes al estudio filosófico y la consolidación de instituciones monásticas en Amdo.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jamyang_Zhepa"
+        ]
       }
     },
     {
@@ -640,14 +709,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
+          "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jetsun Drakpa Gyaltsen",
       "titleEs": "Aniversario de Jetsun Drakpa Gyaltsen",
-      "descriptionEn": "The anniversary of the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
-      "descriptionEs": "El aniversario de the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -659,6 +728,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro Sakya y uno de los “Cinco Fundadores”; influyó en la consolidación doctrinal de Sakya y en la transmisión de sus ciclos de enseñanza.",
+        "sources": []
       }
     },
     {
@@ -693,14 +766,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Gyatrul Rinpoche (the date according to the western calendar is April 8th). Read our guide to his works:",
+          "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Gyatrul Rinpoche",
       "titleEs": "Aniversario de Gyatrul Rinpoche",
-      "descriptionEn": "The anniversary of Gyatrul Rinpoche (the date according to the western calendar is April 8th). Read our guide to his works:",
-      "descriptionEs": "El aniversario de Gyatrul Rinpoche (the date según el calendario occidental is April 8th). Read our guide to his works:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -712,6 +785,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma asociado a la difusión de Dzogchen en Occidente; conocido por su enseñanza directa y por sostener linajes de práctica y retiro.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
+          "https://rywiki.tsadra.org/index.php/Gyatrul_Rinpoche"
+        ]
       }
     },
     {
@@ -724,14 +804,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
+          "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Do Khyentse",
       "titleEs": "Aniversario de Do Khyentse",
-      "descriptionEn": "The anniversary of the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
-      "descriptionEs": "El aniversario de the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -743,6 +823,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma del siglo XIX, ligado al movimiento Rimé; reconocido por su realización y su influencia como maestro itinerante y no convencional.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Do_Khyentse",
+          "https://rywiki.tsadra.org/index.php/Do_Khyentse"
+        ]
       }
     },
     {
@@ -777,14 +864,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
+          "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Taranatha",
       "titleEs": "Aniversario de Taranatha",
-      "descriptionEn": "The anniversary of Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
-      "descriptionEs": "El aniversario de Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -796,6 +883,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Erudito y maestro jonang, célebre por sus historias y textos; tuvo un papel crucial en la preservación de la tradición Jonang y de enseñanzas de Kalachakra.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Taranatha",
+          "https://www.rigpawiki.org/index.php?title=Taranatha"
+        ]
       }
     },
     {
@@ -808,14 +902,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Kalu Rinpoche. According to the western calendar the date was May 10th.",
+          "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kalu Rinpoche",
       "titleEs": "Aniversario de Kalu Rinpoche",
-      "descriptionEn": "The anniversary of Kalu Rinpoche. According to the western calendar the date was May 10th.",
-      "descriptionEs": "El aniversario de Kalu Rinpoche. según el calendario occidental the date was May 10th.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -827,6 +921,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro kagyu del linaje Shangpa/Karma Kagyu, conocido por introducir retiros de tres años y por la difusión internacional de práctica y enseñanza.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kalu_Rinpoche",
+          "https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche"
+        ]
       }
     },
     {
@@ -883,14 +984,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
+          "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Terton Mingyur Dorje",
       "titleEs": "Aniversario de Terton Mingyur Dorje",
-      "descriptionEn": "The anniversary of Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
-      "descriptionEs": "El aniversario de Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -902,6 +1003,12 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Tertön nyingma; reveló ciclos de práctica y transmitió linajes de tesoros que nutrieron la tradición, especialmente en Kham.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Namch%C3%B6_Mingyur_Dorje"
+        ]
       }
     },
     {
@@ -914,14 +1021,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Khandro Tsering Chodron. This is according to the Tibetan calendar. According to the western calendar the date was May 16th. For more",
+          "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khandro Tsering Chodron",
       "titleEs": "Aniversario de Khandro Tsering Chodron",
-      "descriptionEn": "The anniversary of Khandro Tsering Chodron. This is according to the Tibetan calendar. According to the western calendar the date was May 16th. For more",
-      "descriptionEs": "El aniversario de Khandro Tsering Chodron. This is according to the Tibetan calendar. según el calendario occidental the date was May 16th. For more",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -933,6 +1040,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Practicante y referente del linaje nyingma, reconocida por su vida de práctica y por apoyar la preservación y transmisión de enseñanzas en tiempos difíciles.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
+          "https://rywiki.tsadra.org/index.php/Khandro_Tsering_Chodron"
+        ]
       }
     },
     {
@@ -967,14 +1081,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
+          "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of The Fifth Dalai Lama",
       "titleEs": "Aniversario del Fifth Dalai Lama",
-      "descriptionEn": "The anniversary of the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
-      "descriptionEs": "El aniversario de the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -986,6 +1100,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Líder religioso y político que consolidó el gobierno del Ganden Phodrang; importante autor y figura de síntesis en tradición gelug y el budismo tibetano en general.",
+        "sources": []
       }
     },
     {
@@ -998,14 +1116,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Sangye Lingpa one of the great tertons included in many works including these:",
+          "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sangye Lingpa",
       "titleEs": "Aniversario de Sangye Lingpa",
-      "descriptionEn": "The anniversary of Sangye Lingpa one of the great tertons included in many works including these:",
-      "descriptionEs": "El aniversario de Sangye Lingpa one of the great tertons included in many works including these:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1017,6 +1135,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Tertön nyingma famoso por revelar el ciclo Lama Gongdü y otros tesoros; su obra marcó la transmisión de prácticas ligadas a Guru Rinpoché.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
+          "https://rywiki.tsadra.org/index.php/Sangye_Lingpa"
+        ]
       }
     },
     {
@@ -1117,14 +1242,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
+          "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Thrangu Rinpoche",
       "titleEs": "Aniversario de Thrangu Rinpoche",
-      "descriptionEn": "The anniversary of Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
-      "descriptionEs": "El aniversario de Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1136,6 +1261,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro y erudito kagyu, conocido por sus comentarios accesibles sobre mahamudra y filosofía budista, y por su labor educativa contemporánea.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Thrangu_Rinpoche",
+          "https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche"
+        ]
       }
     },
     {
@@ -1148,14 +1280,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Patrul Rinpoche. our Readers Guide here:",
+          "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Patrul Rinpoche",
       "titleEs": "Aniversario de Patrul Rinpoche",
-      "descriptionEn": "The anniversary of Patrul Rinpoche. our Readers Guide here:",
-      "descriptionEs": "El aniversario de Patrul Rinpoche. our Readers Guide here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1167,6 +1299,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma y autor de “Las palabras de mi maestro perfecto”; figura central en la enseñanza de lamrim nyingma y en la transmisión de Dzogchen en la era Rimé.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Patrul_Rinpoche",
+          "https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche"
+        ]
       }
     },
     {
@@ -1179,14 +1318,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
+          "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Virupa",
       "titleEs": "Aniversario de Virupa",
-      "descriptionEn": "The anniversary of Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
-      "descriptionEs": "El aniversario de Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1198,6 +1337,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Mahāsiddha indio asociado a la transmisión de Lamdré en Sakya; una de las figuras clave de los linajes vajrayana indios que llegaron al Tíbet.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Vir%C5%ABpa",
+          "https://www.rigpawiki.org/index.php?title=Virupa"
+        ]
       }
     },
     {
@@ -1232,14 +1378,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the Drikung Kagyu founder Jigten Sumgon.",
+          "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigten Sumgon",
       "titleEs": "Aniversario de Jigten Sumgon",
-      "descriptionEn": "The anniversary of the Drikung Kagyu founder Jigten Sumgon.",
-      "descriptionEs": "El aniversario de the Drikung Kagyu founder Jigten Sumgon.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1251,6 +1397,12 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Fundador de Drikung Kagyu, conocido por su énfasis en disciplina, compasión y práctica; estableció un linaje con gran influencia en Kagyu.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n"
+        ]
       }
     },
     {
@@ -1263,14 +1415,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buddha Puja (Treasure of Blessings of the Ritual of Buddha) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
+          "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Mipham Rinpoche",
       "titleEs": "Aniversario de Mipham Rinpoche",
-      "descriptionEn": "The anniversary of Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buddha Puja (Treasure of Blessings of the Ritual of Buddha) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
-      "descriptionEs": "El aniversario de Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buda Puja (Treasure of Blessings of the Ritual of Buda) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1282,6 +1434,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Gran erudito nyingma del movimiento Rimé; autor prolífico de textos filosóficos y exegéticos que siguen siendo centrales en el estudio y la práctica.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso",
+          "https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche"
+        ]
       }
     },
     {
@@ -1294,14 +1453,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Chogyur Lingpa. our profile and resource guide here:",
+          "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chogyur Lingpa",
       "titleEs": "Aniversario de Chogyur Lingpa",
-      "descriptionEn": "The anniversary of Chogyur Lingpa. our profile and resource guide here:",
-      "descriptionEs": "El aniversario de Chogyur Lingpa. our profile and resource guide here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1313,6 +1472,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Tertön nyingma del siglo XIX, revelador de numerosos tesoros (terma) ampliamente practicados; figura esencial para la revitalización de ciclos de Guru Rinpoché.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Orgyen_Chokgyur_Lingpa",
+          "https://rywiki.tsadra.org/index.php/Chogyur_Lingpa"
+        ]
       }
     },
     {
@@ -1325,14 +1491,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Jamyang Khyentse Chokyi Lodro. his incredible biography at",
+          "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jamyang Khyentse Chokyi Lodro",
       "titleEs": "Aniversario de Jamyang Khyentse Chokyi Lodro",
-      "descriptionEn": "The anniversary of Jamyang Khyentse Chokyi Lodro. his incredible biography at",
-      "descriptionEs": "El aniversario de Jamyang Khyentse Chokyi Lodro. his incredible biography at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1344,6 +1510,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro rimé del siglo XX, gran sostenedor de múltiples linajes; conocido por su influencia como maestro de maestros y por preservar transmisiones clave en el exilio.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Dzongsar_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
+          "https://rywiki.tsadra.org/index.php/Jamyang_Khyentse_Chokyi_Lodro"
+        ]
       }
     },
     {
@@ -1422,14 +1595,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
+          "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Shechen Gyaltsap",
       "titleEs": "Aniversario de Shechen Gyaltsap",
-      "descriptionEn": "The anniversary of Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
-      "descriptionEs": "El aniversario de Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1441,6 +1614,12 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma asociado al monasterio Shechen; conocido por sostener la transmisión y formación monástica dentro de la tradición.",
+        "sources": [
+          "https://rywiki.tsadra.org/index.php/Shechen_Gyaltsap"
+        ]
       }
     },
     {
@@ -1453,14 +1632,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
+          "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khenpo Ngakchung",
       "titleEs": "Aniversario de Khenpo Ngakchung",
-      "descriptionEn": "The anniversary of Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
-      "descriptionEs": "El aniversario de Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1472,6 +1651,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Khenpo (abad/erudito) nyingma recordado por su enseñanza y transmisión de estudios y práctica en el este del Tíbet.",
+        "sources": [
+          "https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
+          "https://rywiki.tsadra.org/index.php/Khenpo_Ngakchung"
+        ]
       }
     },
     {
@@ -1572,14 +1758,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
+          "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the Third Karmapa",
       "titleEs": "Aniversario del Third Karmapa",
-      "descriptionEn": "The anniversary of the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
-      "descriptionEs": "El aniversario de the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1591,6 +1777,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "3.º Karmapa del linaje Karma Kagyu; figura temprana en el desarrollo institucional y la transmisión del linaje Kagyu.",
+        "sources": []
       }
     },
     {
@@ -1625,14 +1815,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Gampopa. Find many book by or about him at",
+          "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Gampopa",
       "titleEs": "Aniversario de Gampopa",
-      "descriptionEn": "The anniversary of Gampopa. Find many book by or about him at",
-      "descriptionEs": "El aniversario de Gampopa. Find many book by or about him at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1644,6 +1834,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Discípulo principal de Milarepa y sistematizador del Kagyu; integró enseñanzas de Kadam y mahamudra, dando forma a la tradición monástica Kagyu.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Gampopa",
+          "https://www.rigpawiki.org/index.php?title=Gampopa"
+        ]
       }
     },
     {
@@ -1700,14 +1897,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The Drukpa Kagyu master Pema Karpos anniversary is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
+          "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Pema Karpo",
       "titleEs": "Aniversario de Pema Karpo",
-      "descriptionEn": "The Drukpa Kagyu master Pema Karpos anniversary is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
-      "descriptionEs": "The Drukpa Kagyu master Pema Karpos aniversario is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1719,6 +1916,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Gran maestro drukpa kagyu; reconocido por su erudición, comentarios y por consolidar la tradición Drukpa con una obra literaria extensa.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Kunkhyen_Pema_Karpo",
+          "https://www.rigpawiki.org/index.php?title=Pema_Karpo"
+        ]
       }
     },
     {
@@ -1775,14 +1979,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
+          "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Pakmodrukpa",
       "titleEs": "Aniversario de Pakmodrukpa",
-      "descriptionEn": "The anniversary of Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
-      "descriptionEs": "El aniversario de Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1794,6 +1998,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro kagyu del siglo XII, discípulo de Gampopa; su linaje dio origen a varias subescuelas kagyu influyentes en el Tíbet.",
+        "sources": []
       }
     },
     {
@@ -1850,14 +2058,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
+          "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Dilgo Khyenytse Rinpoche",
       "titleEs": "Aniversario de Dilgo Khyenytse Rinpoche",
-      "descriptionEn": "The anniversary of Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
-      "descriptionEs": "El aniversario de Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1869,6 +2077,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma y pilar del movimiento Rimé en el siglo XX; autor y maestro de Dzogchen, clave en la preservación y difusión moderna de linajes.",
+        "sources": []
       }
     },
     {
@@ -1903,14 +2115,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Rigdzin Kumaradza,the teacher of Longchenpa.",
+          "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Rigdzin Kumarazda",
       "titleEs": "Aniversario de Rigdzin Kumarazda",
-      "descriptionEn": "The anniversary of Rigdzin Kumaradza,the teacher of Longchenpa.",
-      "descriptionEs": "El aniversario de Rigdzin Kumaradza,the teacher of Longchenpa.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1922,6 +2134,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro dzogchen (Nyingma), conocido por su influencia en discípulos como Patrul Rinpoché y por transmitir instrucciones esenciales de Dzogchen.",
+        "sources": []
       }
     },
     {
@@ -1934,14 +2150,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Jigme Lingpas anniversary falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
+          "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigme Lingpa",
       "titleEs": "Aniversario de Jigme Lingpa",
-      "descriptionEn": "Jigme Lingpas anniversary falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
-      "descriptionEs": "Jigme Lingpas aniversario falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1953,6 +2169,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Tertön y maestro nyingma, revelador del Longchen Nyingtik; figura fundamental para la práctica dzogchen y la continuidad de ese linaje.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jigme_Lingpa",
+          "https://www.rigpawiki.org/index.php?title=Jigme_Lingpa"
+        ]
       }
     },
     {
@@ -2009,14 +2232,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The 14th day of the ninth month marks the anniversary of Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
+          "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khyungpo Nalkdjor",
       "titleEs": "Aniversario de Khyungpo Nalkdjor",
-      "descriptionEn": "The 14th day of the ninth month marks the anniversary of Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
-      "descriptionEs": "The 14th day of the ninth month marks El aniversario de Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2028,6 +2251,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Yogui y fundador del linaje Shangpa Kagyu; transmitió enseñanzas recibidas en India (incl. Niguma), estableciendo una línea de práctica distintiva.",
+        "sources": []
       }
     },
     {
@@ -2062,14 +2289,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Atishas anniversary falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
+          "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Atisha",
       "titleEs": "Aniversario de Atisha",
-      "descriptionEn": "Atishas anniversary falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
-      "descriptionEs": "Atishas aniversario falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2081,6 +2308,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro indio que influyó decisivamente en el budismo tibetano; su obra y enseñanza inspiraron el enfoque kadam y el desarrollo del lamrim.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Ati%C5%9Ba",
+          "https://www.rigpawiki.org/index.php?title=Atisha"
+        ]
       }
     },
     {
@@ -2203,14 +2437,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
+          "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Tsongkhapa",
       "titleEs": "Aniversario de Tsongkhapa",
-      "descriptionEn": "The anniversary of Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
-      "descriptionEs": "El aniversario de Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2222,6 +2456,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Fundador de la escuela Gelug; gran reformador y erudito, autor de obras fundamentales sobre ética, filosofía madhyamaka y práctica gradual.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Je_Tsongkhapa",
+          "https://www.rigpawiki.org/index.php?title=Tsongkhapa"
+        ]
       }
     },
     {
@@ -2234,14 +2475,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
+          "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kyabje Thinley Norbu Rinpoche",
       "titleEs": "Aniversario de Kyabje Thinley Norbu Rinpoche",
-      "descriptionEn": "The anniversary of Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
-      "descriptionEs": "El aniversario de Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2253,6 +2494,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma (linaje Dudjom), autor de textos de práctica y visión; conocido por su enseñanza de Dzogchen y el mantenimiento de transmisión familiar/linaje.",
+        "sources": []
       }
     },
     {
@@ -2287,14 +2532,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
+          "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sonam Tsemo",
       "titleEs": "Aniversario de Sonam Tsemo",
-      "descriptionEn": "The anniversary of Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
-      "descriptionEs": "El aniversario de Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2306,6 +2551,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro Sakya y uno de los “Cinco Fundadores”; contribuyó a la formación doctrinal y al establecimiento institucional temprano de Sakya.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sonam_Tsemo",
+          "https://www.rigpawiki.org/index.php?title=Sonam_Tsemo"
+        ]
       }
     },
     {
@@ -2318,14 +2570,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Sakya Pandita. our short biography here:",
+          "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sakya Pandita",
       "titleEs": "Aniversario de Sakya Pandita",
-      "descriptionEn": "The anniversary of Sakya Pandita. our short biography here:",
-      "descriptionEs": "El aniversario de Sakya Pandita. our short biography here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2337,6 +2589,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Gran erudito sakya, autor y diplomático; figura clave en lógica y filosofía, y en la consolidación del prestigio intelectual de Sakya.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Sakya_Pandita",
+          "https://www.rigpawiki.org/index.php?title=Sakya_Pandita"
+        ]
       }
     },
     {
@@ -2371,14 +2630,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Jigme Phuntsok Rinpoche. For more",
+          "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigme Phuntsok Rinpoche",
       "titleEs": "Aniversario de Jigme Phuntsok Rinpoche",
-      "descriptionEn": "The anniversary of Jigme Phuntsok Rinpoche. For more",
-      "descriptionEs": "El aniversario de Jigme Phuntsok Rinpoche. For more",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2390,6 +2649,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma y fundador de Larung Gar; impulsó un renacimiento contemporáneo del estudio y la práctica, formando a miles de practicantes.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Jigme_Phuntsok",
+          "https://rywiki.tsadra.org/index.php/Jigme_Phuntsok_Rinpoche"
+        ]
       }
     },
     {
@@ -2402,14 +2668,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
+          "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kyabje Dudjom Rinpoche",
       "titleEs": "Aniversario de Kyabje Dudjom Rinpoche",
-      "descriptionEn": "The anniversary of Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
-      "descriptionEs": "El aniversario de Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2421,6 +2687,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Cabeza de la escuela Nyingma en el siglo XX; gran tertön y autor de una influyente historia de la tradición Nyingma, además de textos y prácticas.",
+        "sources": []
       }
     },
     {
@@ -2433,14 +2703,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of Chatral Rinpoche.. For more",
+          "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chatral Rinpoche",
       "titleEs": "Aniversario de Chatral Rinpoche",
-      "descriptionEn": "The anniversary of Chatral Rinpoche.. For more",
-      "descriptionEs": "El aniversario de Chatral Rinpoche.. For more",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2452,6 +2722,13 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma/dzogchen conocido por su vida de retiro y ética estricta; influyente transmisor de Dzogchen y prácticas de Guru Rinpoché.",
+        "sources": [
+          "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
+          "https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche"
+        ]
       }
     },
     {
@@ -2464,14 +2741,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Chogyal Phakpas anniversary in 2023 this year is Tuesday January 21. our Guide for Readers here:",
+          "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chogyal Phakpa",
       "titleEs": "Aniversario de Chogyal Phakpa",
-      "descriptionEn": "Chogyal Phakpas anniversary in 2023 this year is Tuesday January 21. our Guide for Readers here:",
-      "descriptionEs": "Chogyal Phakpas aniversario in 2023 this year is Tuesday January 21. our Guide for Readers here:",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2483,6 +2760,12 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro Sakya del siglo XIII; figura clave en la relación Sakya–Imperio Yuan y en la difusión institucional del budismo tibetano.",
+        "sources": [
+          "https://rywiki.tsadra.org/index.php/Chogyal_Phakpa"
+        ]
       }
     },
     {
@@ -2495,14 +2778,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "The anniversary of the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
+          "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the Fourth Dodrubchen Rinpoche",
       "titleEs": "Aniversario del Fourth Dodrubchen Rinpoche",
-      "descriptionEn": "The anniversary of the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
-      "descriptionEs": "El aniversario de the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
+      "descriptionEn": "",
+      "descriptionEs": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2514,6 +2797,10 @@
       "flags": {
         "teacherAnniversary": true,
         "kind": "teacher_anniversary"
+      },
+      "bio": {
+        "es": "Maestro nyingma del linaje de Dodrupchen; reconocido por su erudición y su papel en sostener y transmitir prácticas y estudios del linaje.",
+        "sources": []
       }
     }
   ]
