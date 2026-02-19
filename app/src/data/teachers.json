@@ -35,7 +35,8 @@
     "replacedPortadorPrincipalAt": "2026-02-19T20:16:36.494Z",
     "fixedJigmePhuntsokFuenteAt": "2026-02-19T20:17:18.764Z",
     "fixedJigmePhuntsokFuenteUrlAt": "2026-02-19T20:17:32.514Z",
-    "dudjomPhotoFixedAt": "2026-02-19T20:18:27.305Z"
+    "dudjomPhotoFixedAt": "2026-02-19T20:18:27.305Z",
+    "mergedChatralEntriesAt": "2026-02-19T20:19:14.132Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -56,22 +57,6 @@
         "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
-      }
-    },
-    {
-      "id": "teacher-chatral-parinirvana-12-30",
-      "name": "Aniversario de parinirvana — Chatral Sangye Dorje",
-      "type": "PARINIRVANA",
-      "rule": {
-        "calendar": "gregorian",
-        "month": 12,
-        "day": 30
-      },
-      "description": "- Chatral Sangye Dorje (1913–2015), maestro nyingma/dzogchen conocido por su vida de práctica intensiva, retiro y disciplina.\n- Figura muy respetada por su énfasis en la simplicidad, el retiro y la transmisión directa de la práctica.\n\nFuente:\n- https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
-      "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Dudjom_Jigdral_Yeshe_Dorje"
       }
     },
     {
@@ -223,111 +208,6 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atisha.jpg/330px-Atisha.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Ati%C5%9Ba"
-      }
-    },
-    {
-      "id": "shambhala-chatral-rinpoche-tib11-20",
-      "name": "Aniversario — Chatral Rinpoche",
-      "type": "OTHER",
-      "rule": {
-        "calendar": "tibetan-lunar",
-        "tibMonth": 11,
-        "tibDay": 20
-      },
-      "conditions": {
-        "doubleDayFlagNot": [
-          1
-        ]
-      },
-      "description": "- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
-      "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་",
-      "bio": {
-        "es": "Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.",
-        "sources": [
-          "https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche"
-        ]
-      },
-      "rawRecords": [
-        {
-          "source": "shambhala_calendar.json",
-          "keys": {
-            "teacherKey": "chatral-rinpoche",
-            "groupKey": "chatral-rinpoche::tib11-20"
-          },
-          "sources": [
-            "https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
-            "h",
-            "t",
-            "p",
-            "s",
-            ":",
-            "/",
-            "w",
-            ".",
-            "r",
-            "i",
-            "g",
-            "a",
-            "k",
-            "o",
-            "n",
-            "d",
-            "e",
-            "x",
-            "?",
-            "l",
-            "=",
-            "C",
-            "_",
-            "R",
-            "c"
-          ],
-          "records": [
-            {
-              "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
-              "event": {
-                "id": "4stgva4c6flv9ol94pn4kfb6up",
-                "title": "Anniversary of Chatral Rinpoche",
-                "start": "2026-12-28",
-                "end": "2026-12-29",
-                "allDay": true,
-                "timeZone": "America/New_York",
-                "extendedProps": {
-                  "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11.",
-                  "attachments": []
-                }
-              },
-              "titleEn": "Anniversary of Chatral Rinpoche",
-              "titleEs": "Aniversario de Chatral Rinpoche",
-              "descriptionEn": "",
-              "descriptionEs": "Aniversario de Chatral Rinpoche.",
-              "tibetanLunar": {
-                "rabjung": 17,
-                "tibYear": 40,
-                "tibMonth": 11,
-                "isLeapMonth": false,
-                "tibDay": 20,
-                "isLeapDay": false
-              },
-              "flags": {
-                "teacherAnniversary": true,
-                "kind": "teacher_anniversary"
-              },
-              "bio": {
-                "es": "Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.",
-                "sources": [
-                  "https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche"
-                ]
-              },
-              "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་"
-            }
-          ]
-        }
-      ],
-      "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
       }
     },
     {
@@ -4948,6 +4828,23 @@
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Vir%C5%ABpa"
       }
+    },
+    {
+      "id": "teacher-chatral-parinirvana-12-28",
+      "name": "Aniversario de parinirvana — Chatral Sangye Dorje",
+      "type": "PARINIRVANA",
+      "rule": {
+        "calendar": "gregorian",
+        "month": 12,
+        "day": 28
+      },
+      "description": "- Chatral Sangye Dorje (1913–2015), maestro nyingma/dzogchen conocido por su vida de práctica intensiva, retiro y disciplina.\n- Figura muy respetada por su énfasis en la simplicidad, el retiro y la transmisión directa de la práctica.\n\nFuente:\n- https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      },
+      "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ།"
     }
   ],
   "monthlyPracticeDays": []
