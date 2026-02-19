@@ -9,7 +9,6 @@ import {
   Shield,
   Heart,
   ScrollText,
-  Share2,
 } from "lucide-react";
 import { useEffect, useMemo, useState } from "react";
 import type { TibetanDate, PracticeImage } from "../lib/types";
@@ -35,6 +34,23 @@ function iconForType(type: string) {
     default:
       return <CalendarDays className="h-4 w-4" />;
   }
+}
+
+function WhatsAppLogo(props: { className?: string }) {
+  return (
+    <svg viewBox="0 0 32 32" fill="currentColor" aria-hidden className={props.className}>
+      <path d="M19.11 17.07c-.29-.14-1.72-.85-1.98-.95-.26-.1-.45-.14-.64.14-.19.29-.74.95-.91 1.15-.17.19-.33.21-.62.07-.29-.14-1.21-.45-2.31-1.43-.86-.76-1.44-1.7-1.61-1.99-.17-.29-.02-.45.13-.59.13-.13.29-.33.43-.5.14-.17.19-.29.29-.48.1-.19.05-.36-.02-.5-.07-.14-.64-1.54-.88-2.11-.23-.55-.47-.48-.64-.49l-.55-.01c-.19 0-.5.07-.76.36-.26.29-1 0.98-1 2.38 0 1.39 1.02 2.74 1.16 2.93.14.19 2.01 3.07 4.87 4.31.68.29 1.21.46 1.63.59.69.22 1.32.19 1.82.12.55-.08 1.72-.7 1.96-1.38.24-.67.24-1.25.17-1.38-.07-.12-.26-.19-.55-.33z" />
+      <path d="M16 2.67C8.64 2.67 2.67 8.64 2.67 16c0 2.34.61 4.62 1.78 6.64L3.33 29.33l6.87-1.08A13.26 13.26 0 0 0 16 29.33c7.36 0 13.33-5.97 13.33-13.33S23.36 2.67 16 2.67zm0 24.33c-2.02 0-3.99-.54-5.7-1.56l-.41-.24-4.08.64.72-3.97-.26-.41A11.26 11.26 0 0 1 4.75 16C4.75 9.79 9.79 4.75 16 4.75S27.25 9.79 27.25 16 22.21 27 16 27z" />
+    </svg>
+  );
+}
+
+function FacebookLogo(props: { className?: string }) {
+  return (
+    <svg viewBox="0 0 32 32" fill="currentColor" aria-hidden className={props.className}>
+      <path d="M16 2.67C8.64 2.67 2.67 8.64 2.67 16c0 6.66 4.88 12.18 11.25 13.2V19.83h-3.4V16h3.4v-2.92c0-3.36 2-5.22 5.07-5.22 1.47 0 3.01.26 3.01.26v3.31h-1.7c-1.68 0-2.2 1.04-2.2 2.11V16h3.74l-.6 3.83h-3.14v9.37C24.45 28.18 29.33 22.66 29.33 16c0-7.36-5.97-13.33-13.33-13.33z" />
+    </svg>
+  );
 }
 
 function PracticeBody(props: { description: string; tibetanName?: string; image?: PracticeImage }) {
@@ -211,28 +227,19 @@ export function DayDetails(props: {
     });
   }, [date, primary, shareUrl]);
 
-  async function onShare() {
+  function onShareWhatsApp() {
     const title = primary?.name || "Calendario Tibetano en Español";
-    const text = primary?.description?.split("\n")[0] || "";
-
-    if (navigator.share) {
-      try {
-        await navigator.share({ title, text, url: shareUrl });
-        return;
-      } catch {
-        // fall through to links
-      }
-    }
-
-    // Fallback: open a simple share menu via new tabs.
-    const encodedUrl = encodeURIComponent(shareUrl);
     const encodedText = encodeURIComponent(`${title}\n${shareUrl}`);
-
-    // WhatsApp
     window.open(`https://wa.me/?text=${encodedText}`, "_blank", "noopener,noreferrer");
+  }
 
-    // Facebook (share URL only)
-    window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`, "_blank", "noopener,noreferrer");
+  function onShareFacebook() {
+    const encodedUrl = encodeURIComponent(shareUrl);
+    window.open(
+      `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+      "_blank",
+      "noopener,noreferrer"
+    );
   }
 
   return (
@@ -248,15 +255,26 @@ export function DayDetails(props: {
           </div>
         </div>
 
-        <div className="flex items-center gap-2">
+        <div className="flex flex-wrap items-center justify-end gap-2">
           <button
-            onClick={onShare}
-            className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/30 shadow-sm"
-            title="Compartir en redes sociales"
+            onClick={onShareWhatsApp}
+            className="rounded-2xl bg-emerald-600 px-3 py-2 text-sm font-semibold text-white hover:bg-emerald-500 ring-1 ring-emerald-200/30 shadow-sm"
+            title="Compartir por WhatsApp"
           >
             <span className="inline-flex items-center gap-2">
-              <Share2 className="h-4 w-4" />
-              Compartir en redes sociales
+              <WhatsAppLogo className="h-4 w-4" />
+              WhatsApp
+            </span>
+          </button>
+
+          <button
+            onClick={onShareFacebook}
+            className="rounded-2xl bg-blue-600 px-3 py-2 text-sm font-semibold text-white hover:bg-blue-500 ring-1 ring-blue-200/30 shadow-sm"
+            title="Compartir en Facebook"
+          >
+            <span className="inline-flex items-center gap-2">
+              <FacebookLogo className="h-4 w-4" />
+              Facebook
             </span>
           </button>
 
