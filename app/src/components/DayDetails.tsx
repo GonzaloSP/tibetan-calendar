@@ -251,7 +251,7 @@ export function DayDetails(props: {
         <div className="flex items-center gap-2">
           <button
             onClick={onShare}
-            className="rounded-2xl bg-white/10 px-3 py-2 text-sm font-semibold text-white hover:bg-white/15 ring-1 ring-white/15"
+            className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/30 shadow-sm"
             title="Compartir en redes sociales"
           >
             <span className="inline-flex items-center gap-2">
