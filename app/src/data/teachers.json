@@ -11,7 +11,8 @@
     "teacherPhotosAddedAt": "2026-02-19T17:35:28.218Z",
     "removedTibetanNameFromDescriptionsAt": "2026-02-19T18:17:35.731Z",
     "removedDateMechanicsFromDescriptionsAt": "2026-02-19T19:11:18.880Z",
-    "removedIncorrectDodrubchenPhotoAt": "2026-02-19T19:14:17.417Z"
+    "removedIncorrectDodrubchenPhotoAt": "2026-02-19T19:14:17.417Z",
+    "doKhyentsePhotoUpdatedAt": "2026-02-19T19:21:41.405Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -715,9 +716,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dzongsar_Jamyang_Khyentse_Rinpoche.jpg/330px-Dzongsar_Jamyang_Khyentse_Rinpoche.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Khyentse_Norbu"
+        "url": "https://www.rigpawiki.org/images/b/b9/DzT11-Do_Khyentse.JPG",
+        "creditEs": "Créditos: Rigpa Wiki",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Do_Khyentse_Yeshe_Dorje"
       }
     },
     {
