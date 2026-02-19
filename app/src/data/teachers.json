@@ -22,7 +22,8 @@
     "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z",
     "khandroTseringPhotoFixedAt": "2026-02-19T19:49:48.106Z",
     "removedDetallesAt": "2026-02-19T19:53:12.086Z",
-    "shechenGyaltsapPhotoFixedAt": "2026-02-19T19:54:39.055Z"
+    "shechenGyaltsapPhotoFixedAt": "2026-02-19T19:54:39.055Z",
+    "khenpoNgakchungPhotoFixedAt": "2026-02-19T19:56:52.813Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -2413,9 +2414,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surya_Das_and_friend.jpg/330px-Surya_Das_and_friend.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Nyoshul_Khenpo_Rinpoche"
+        "url": "https://www.rigpawiki.org/images/8/8c/Khenpo_Ngakchung.JPG",
+        "creditEs": "Créditos: Rigpa Wiki",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Khenpo_Ngawang_Palzang"
       }
     },
     {
