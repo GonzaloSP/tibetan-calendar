@@ -21,7 +21,8 @@
     "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z",
     "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z",
     "khandroTseringPhotoFixedAt": "2026-02-19T19:49:48.106Z",
-    "removedDetallesAt": "2026-02-19T19:53:12.086Z"
+    "removedDetallesAt": "2026-02-19T19:53:12.086Z",
+    "shechenGyaltsapPhotoFixedAt": "2026-02-19T19:54:39.055Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -4124,9 +4125,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Dilgo_Khyentse"
+        "url": "https://www.rigpawiki.org/images/a/a1/Shechen_Gyaltsap.jpg",
+        "creditEs": "Créditos: Rigpa Wiki (cortesía de Shechen Monastery)",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Gyurme_Pema_Namgyal"
       }
     },
     {
