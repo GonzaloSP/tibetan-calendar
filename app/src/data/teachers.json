@@ -16,7 +16,8 @@
     "removedSangyeLingpaPhotoAt": "2026-02-19T19:22:23.742Z",
     "mergedMiphamEntriesAt": "2026-02-19T19:24:15.525Z",
     "filledMissingPhotosAt": "2026-02-19T19:27:35.853Z",
-    "filledMissingPhotosManualAt": "2026-02-19T19:28:28.351Z"
+    "filledMissingPhotosManualAt": "2026-02-19T19:28:28.351Z",
+    "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -48,7 +49,7 @@
         "month": 12,
         "day": 30
       },
-      "description": "- Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles:",
+      "description": "- Chatral Sangye Dorje (1913–2015), maestro nyingma/dzogchen conocido por su vida de práctica intensiva, retiro y disciplina.\n- Figura muy respetada por su énfasis en la simplicidad, el retiro y la transmisión directa de la práctica.\n\nFuente:\n- https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -64,7 +65,7 @@
         "month": 9,
         "day": 28
       },
-      "description": "- Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles:",
+      "description": "- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros del linaje nyingma y del movimiento Rimé, poeta y autor.\n- Maestro de muchos lamas contemporáneos y guía clave en la preservación y transmisión del Dharma en el siglo XX.\n\nFuente:\n- https://en.wikipedia.org/wiki/Dilgo_Khyentse",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -80,7 +81,7 @@
         "month": 1,
         "day": 6
       },
-      "description": "- Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles:",
+      "description": "- Khenpo Jigme Phuntsok (1933–2004), maestro nyingma y fundador/figura central de Larung Gar, influyente en la revitalización del estudio y práctica en la era moderna.\n- Conocido por su actividad educativa y por formar a una gran cantidad de practicantes y eruditos.\n\nFuente:\n- https://en.wikipedia.org/wiki/Jigme_Phuntsok",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -96,7 +97,7 @@
         "month": 2,
         "day": 13
       },
-      "description": "- Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen). Detalles:",
+      "description": "- Tulku Urgyen Rinpoche (1920–1996), maestro de las tradiciones Kagyu y Nyingma, reconocido por sus enseñanzas de Mahamudra y Dzogchen.\n- Residió y enseñó en Nepal, especialmente en el entorno de Nagi Gompa, y fue un gran referente para estudiantes tibetanos y occidentales.\n- Su linaje y actividad continúan a través de sus hijos, entre ellos Chökyi Nyima Rinpoche, Tsoknyi Rinpoche y Mingyur Rinpoche.\n- Autor/relatos: *Blazing Splendor* (memorias) y series de enseñanzas introductorias a la naturaleza de la mente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tulku_Urgyen_Rinpoche",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Tulku_Urgyen_Rinpoche.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",

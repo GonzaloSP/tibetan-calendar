@@ -202,7 +202,11 @@ export function DayDetails(props: {
 
                   <span className={"chip " + practiceBadgeColor(p.type)}>
                     {iconForType(p.type)}
-                    {p.kind === "celebration" ? "Celebración" : "Práctica"}
+                    {p.kind === "celebration"
+                      ? p.type === "PARINIRVANA"
+                        ? "Parinirvana"
+                        : "Celebración"
+                      : "Práctica"}
                   </span>
                 </div>
 
