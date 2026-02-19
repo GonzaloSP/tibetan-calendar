@@ -15,7 +15,8 @@
     "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.194Z",
     "karmapa16BirthPhotoEnsuredAt": "2026-02-19T20:03:40.988Z",
     "karmapa16BirthPhotoFixedAt": "2026-02-19T20:05:43.851Z",
-    "karmapa16ParinirvanaPhotoAlignedAt": "2026-02-19T20:12:59.898Z"
+    "karmapa16ParinirvanaPhotoAlignedAt": "2026-02-19T20:12:59.898Z",
+    "normalizedFuenteAt": "2026-02-19T20:14:05.314Z"
   },
   "notes": [
     "Dedupe: si una fecha ya existe en la fuente principal (Steinert), no se repite acá.",
@@ -44,7 +45,7 @@
         "tibMonth": 6,
         "tibDay": 15
       },
-      "description": "Aniversario (tib.) de nacimiento de Rangjung Rigpe Dorje, 16.º Karmapa. - Nacimiento (greg.): 1924-08-14 - Lugar: Denkhok, Derge, Kham, Tíbet - Fuente: https://www.karmapa.org/karma-kagyu/lives/16th-karmapa-rangjung-rigpe-dorje/",
+      "description": "Aniversario (tib.) de nacimiento de Rangjung Rigpe Dorje, 16.º Karmapa.\n- Nacimiento (greg.): 1924-08-14\n- Lugar: Denkhok, Derge, Kham, Tíbet\n- Fuente:\n\nFuente:\n- https://www.karmapa.org/karma-kagyu/lives/16th-karmapa-rangjung-rigpe-dorje/",
       "tibetanName": "རང་བྱུང་རིག་པའི་རྡོ་རྗེ།",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Karmapa16_3_gross.jpg",
@@ -61,7 +62,7 @@
         "tibMonth": 9,
         "tibDay": 8
       },
-      "description": "Aniversario (tib.) de parinirvana de Rangjung Rigpe Dorje, 16.º Karmapa. - Parinirvana (greg.): 1981-11-05 - Lugar: Zion, Illinois, EE.UU. - Fuente: https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje",
+      "description": "Aniversario (tib.) de parinirvana de Rangjung Rigpe Dorje, 16.º Karmapa.\n- Parinirvana (greg.): 1981-11-05\n- Lugar: Zion, Illinois, EE.UU.\n- Fuente:\n\nFuente:\n- https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje",
       "tibetanName": "རང་བྱུང་རིག་པའི་རྡོ་རྗེ།",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Karmapa16_3_gross.jpg",
@@ -78,7 +79,7 @@
         "tibMonth": 1,
         "tibDay": 15
       },
-      "description": "Aniversario (tib.) de nacimiento de Chögyam Trungpa (11.º Zurmang Trungpa). - Nacimiento (greg.): 1939-03-05 - Lugar: Nangchen, Kham, Tíbet (campamento nómada) - Fuente: https://treasuryoflives.org/biographies/view/Eleventh-Trungpa-Chogyam-Trungpa/11231",
+      "description": "Aniversario (tib.) de nacimiento de Chögyam Trungpa (11.º Zurmang Trungpa).\n- Nacimiento (greg.): 1939-03-05\n- Lugar: Nangchen, Kham, Tíbet (campamento nómada)\n- Fuente:\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Eleventh-Trungpa-Chogyam-Trungpa/11231",
       "tibetanName": "ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chogyam_Trungpa_Rinpoche.jpg/330px-Chogyam_Trungpa_Rinpoche.jpg",
@@ -95,7 +96,7 @@
         "month": 4,
         "day": 4
       },
-      "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa). - Parinirvana (greg.): 1987-04-04 - Lugar: Halifax, Nueva Escocia, Canadá - Fuente: https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa",
+      "description": "Aniversario (tib.) de parinirvana de Chögyam Trungpa (11.º Zurmang Trungpa).\n- Parinirvana (greg.): 1987-04-04\n- Lugar: Halifax, Nueva Escocia, Canadá\n- Fuente:\n\nFuente:\n- https://en.wikipedia.org/wiki/Ch%C3%B6gyam_Trungpa",
       "tibetanName": "ཆོས་རྒྱམ་དྲུང་པ། (ཟུར་མང་དྲུང་པ་ ༡༡ ཆོས་ཀྱི་རྒྱ་མཚོ)",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Chogyam_Trungpa_Rinpoche.jpg/330px-Chogyam_Trungpa_Rinpoche.jpg",

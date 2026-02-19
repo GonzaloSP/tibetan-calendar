@@ -29,7 +29,8 @@
     "rewrotePakmodrupaAt": "2026-02-19T20:09:11.792Z",
     "mergedDilgoEntriesAt": "2026-02-19T20:11:02.983Z",
     "dedupedIdsAt": "2026-02-19T20:11:17.551Z",
-    "cleanedDilgoMergedDescriptionAt": "2026-02-19T20:12:04.900Z"
+    "cleanedDilgoMergedDescriptionAt": "2026-02-19T20:12:04.900Z",
+    "normalizedFuenteAt": "2026-02-19T20:14:05.310Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -61,7 +62,7 @@
         "month": 12,
         "day": 30
       },
-      "description": "- Chatral Sangye Dorje (1913–2015), maestro nyingma/dzogchen conocido por su vida de práctica intensiva, retiro y disciplina. - Figura muy respetada por su énfasis en la simplicidad, el retiro y la transmisión directa de la práctica. Fuente: - https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
+      "description": "- Chatral Sangye Dorje (1913–2015), maestro nyingma/dzogchen conocido por su vida de práctica intensiva, retiro y disciplina.\n- Figura muy respetada por su énfasis en la simplicidad, el retiro y la transmisión directa de la práctica.\n\nFuente:\n- https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -94,7 +95,7 @@
         "month": 1,
         "day": 6
       },
-      "description": "- Khenpo Jigme Phuntsok (1933–2004), maestro nyingma y fundador/figura central de Larung Gar, influyente en la revitalización del estudio y práctica en la era moderna. - Conocido por su actividad educativa y por formar a una gran cantidad de practicantes y eruditos. Fuente: - https://en.wikipedia.org/wiki/Jigme_Phuntsok",
+      "description": "- Khenpo Jigme Phuntsok (1933–2004), maestro nyingma y fundador/figura central de Larung Gar, influyente en la revitalización del estudio y práctica en la era moderna.\n- Conocido por su actividad educativa y por formar a una gran cantidad de practicantes y eruditos.\n\nFuente:\n- https://en.wikipedia.org/wiki/Jigme_Phuntsok",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -110,7 +111,7 @@
         "month": 2,
         "day": 13
       },
-      "description": "- Tulku Urgyen Rinpoche (1920–1996), maestro de las tradiciones Kagyu y Nyingma, reconocido por sus enseñanzas de Mahamudra y Dzogchen. - Residió y enseñó en Nepal, especialmente en el entorno de Nagi Gompa, y fue un gran referente para estudiantes tibetanos y occidentales. - Su linaje y actividad continúan a través de sus hijos, entre ellos Chökyi Nyima Rinpoche, Tsoknyi Rinpoche y Mingyur Rinpoche. - Autor/relatos: *Blazing Splendor* (memorias) y series de enseñanzas introductorias a la naturaleza de la mente. Fuente: - https://www.rigpawiki.org/index.php?title=Tulku_Urgyen_Rinpoche",
+      "description": "- Tulku Urgyen Rinpoche (1920–1996), maestro de las tradiciones Kagyu y Nyingma, reconocido por sus enseñanzas de Mahamudra y Dzogchen.\n- Residió y enseñó en Nepal, especialmente en el entorno de Nagi Gompa, y fue un gran referente para estudiantes tibetanos y occidentales.\n- Su linaje y actividad continúan a través de sus hijos, entre ellos Chökyi Nyima Rinpoche, Tsoknyi Rinpoche y Mingyur Rinpoche.\n- Autor/relatos: *Blazing Splendor* (memorias) y series de enseñanzas introductorias a la naturaleza de la mente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tulku_Urgyen_Rinpoche",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/en/a/a3/Tulku_Urgyen_Rinpoche.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -131,7 +132,7 @@
           1
         ]
       },
-      "description": "- Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa. Fuente: - https://www.rigpawiki.org/index.php?title=Atisha",
+      "description": "- Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Atisha",
       "tibetanName": "ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་",
       "bio": {
         "es": "Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.",
@@ -233,7 +234,7 @@
           1
         ]
       },
-      "description": "- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada. Fuente: - https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
+      "description": "- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
       "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་",
       "bio": {
         "es": "Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.",
@@ -338,7 +339,7 @@
           1
         ]
       },
-      "description": "- Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan. Fuente: - https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
+      "description": "- Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
       "tibetanName": "ཆོས་རྒྱལ་འཕགས་པ་",
       "bio": {
         "es": "Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.",
@@ -448,7 +449,7 @@
           1
         ]
       },
-      "description": "- Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel. Fuente: - https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
+      "description": "- Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
       "tibetanName": "མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་",
       "bio": {
         "es": "Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.",
@@ -555,7 +556,7 @@
           1
         ]
       },
-      "description": "- Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche). Fuente: - https://www.rigpawiki.org/index.php?title=Do_Khyentse",
+      "description": "- Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Do_Khyentse",
       "tibetanName": "མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).",
@@ -660,7 +661,7 @@
           1
         ]
       },
-      "description": "- Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma. Fuente: - https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
+      "description": "- Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
       "tibetanName": "ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་",
       "bio": {
         "es": "Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.",
@@ -768,7 +769,7 @@
           1
         ]
       },
-      "description": "- Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá. Fuente: - https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
+      "description": "- Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
       "tibetanName": "འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་",
       "bio": {
         "es": "Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.",
@@ -872,7 +873,7 @@
           1
         ]
       },
-      "description": "- Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI. Fuente: - https://commons.tsadra.org/index.php/Dodrupchen,_4th",
+      "description": "- Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.\n\nFuente:\n- https://commons.tsadra.org/index.php/Dodrupchen,_4th",
       "tibetanName": "རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།",
       "bio": {
         "es": "Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.",
@@ -972,7 +973,7 @@
           1
         ]
       },
-      "description": "- Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü. Fuente: - https://www.rigpawiki.org/index.php?title=Gampopa",
+      "description": "- Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gampopa",
       "tibetanName": "སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་",
       "bio": {
         "es": "Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.",
@@ -1141,7 +1142,7 @@
           1
         ]
       },
-      "description": "- Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación). Fuente: - https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
+      "description": "- Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
       "tibetanName": "ཡཏྲུལ་ཪིནཔོཆེ",
       "bio": {
         "es": "Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).",
@@ -1248,7 +1249,7 @@
           1
         ]
       },
-      "description": "- Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos. Fuente: - https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
+      "description": "- Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.",
@@ -1361,7 +1362,7 @@
           1
         ]
       },
-      "description": "- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y figura clave del movimiento Rimé; un maestro de enorme erudición y realización, que reunió, transmitió y revitalizó linajes de todas las escuelas tibetanas. Fuente: - https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
+      "description": "- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y figura clave del movimiento Rimé; un maestro de enorme erudición y realización, que reunió, transmitió y revitalizó linajes de todas las escuelas tibetanas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་",
       "bio": {
         "es": "Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.",
@@ -1468,7 +1469,7 @@
           1
         ]
       },
-      "description": "- Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug. Fuente: - https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
+      "description": "- Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
       "tibetanName": "འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་",
       "bio": {
         "es": "Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.",
@@ -1578,7 +1579,7 @@
           1
         ]
       },
-      "description": "- Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya. Fuente: - https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614",
+      "description": "- Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614",
       "tibetanName": "རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.",
@@ -1696,7 +1697,7 @@
           1
         ]
       },
-      "description": "- Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual. Fuente: - https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
+      "description": "- Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
       "tibetanName": "འཇིགས་མེད་གླིང་པ་",
       "bio": {
         "es": "Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.",
@@ -1801,7 +1802,7 @@
           1
         ]
       },
-      "description": "- Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo. Fuente: - https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
+      "description": "- Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.\n\nFuente:\n- https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
       "tibetanName": "མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་",
       "bio": {
         "es": "Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.",
@@ -1908,7 +1909,7 @@
           1
         ]
       },
-      "description": "- Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención). Fuente: - https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
+      "description": "- Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).\n\nFuente:\n- https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
       "tibetanName": "འཇིག་རྟེན་གསུམ་མགོན",
       "bio": {
         "es": "Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).",
@@ -2015,7 +2016,7 @@
           1
         ]
       },
-      "description": "- Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge). Fuente: - https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
+      "description": "- Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
       "tibetanName": "ཀར་ལུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).",
@@ -2121,7 +2122,7 @@
           1
         ]
       },
-      "description": "- Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas. Fuente: - https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
+      "description": "- Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
       "tibetanName": "མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་",
       "bio": {
         "es": "Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.",
@@ -2226,7 +2227,7 @@
           1
         ]
       },
-      "description": "- Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul). Fuente: - https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
+      "description": "- Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
       "tibetanName": "མཁན་པོ་ངག་དབང་དཔལ་བཟང་",
       "bio": {
         "es": "Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).",
@@ -2332,7 +2333,7 @@
           1
         ]
       },
-      "description": "- Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India. Fuente: - https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
+      "description": "- Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
       "tibetanName": "མཁན་པོ་གཞན་དགའ་",
       "bio": {
         "es": "Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.",
@@ -2436,7 +2437,7 @@
           1
         ]
       },
-      "description": "- Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas. Fuente: - https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
+      "description": "- Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
       "tibetanName": "ཁྱུང་པོ་རྣལ་འབྱོར་",
       "bio": {
         "es": "Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.",
@@ -2544,7 +2545,7 @@
           1
         ]
       },
-      "description": "- Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente. Fuente: - https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
+      "description": "- Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
       "tibetanName": "བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.",
@@ -2653,7 +2654,7 @@
           1
         ]
       },
-      "description": "- Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente. Fuente: - https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
+      "description": "- Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
       "tibetanName": "གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་",
       "bio": {
         "es": "Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.",
@@ -2763,7 +2764,7 @@
           1
         ]
       },
-      "description": "- Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü. Fuente: - https://www.rigpawiki.org/index.php?title=Marpa",
+      "description": "- Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Marpa",
       "tibetanName": "མར་པ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.",
@@ -2868,7 +2869,7 @@
           1
         ]
       },
-      "description": "- Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü. Fuente: - https://www.rigpawiki.org/index.php?title=Milarepa",
+      "description": "- Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Milarepa",
       "tibetanName": "མི་ལ་རས་པ་",
       "bio": {
         "es": "Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.",
@@ -2970,7 +2971,7 @@
           1
         ]
       },
-      "description": "- Ju Mipham (Jamgön Mipham Gyatso, 1846–1912), gran erudito y maestro nyingma del movimiento Rimé; autor monumental que revitalizó el estudio y la práctica de Dzogchen y filosofía. - Parinirvana (greg.): 1912-06-10. - Nota: muchas sanghas lo observan el día 29 del 4.º mes tibetano (Saga Dawa). Fuente: - https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche_Timeline",
+      "description": "- Ju Mipham (Jamgön Mipham Gyatso, 1846–1912), gran erudito y maestro nyingma del movimiento Rimé; autor monumental que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n- Parinirvana (greg.): 1912-06-10.\n- Nota: muchas sanghas lo observan el día 29 del 4.º mes tibetano (Saga Dawa).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche_Timeline",
       "tibetanName": "འཇམ་དགོན་མི་ཕམ་རྒྱ་མཚོ།",
       "bio": {
         "es": "Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.",
@@ -3190,7 +3191,7 @@
           1
         ]
       },
-      "description": "- Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik. Fuente: - https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
+      "description": "- Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
       "tibetanName": "རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.",
@@ -3296,7 +3297,7 @@
           1
         ]
       },
-      "description": "- Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra. Fuente: - https://www.rigpawiki.org/index.php?title=Pema_Karpo",
+      "description": "- Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Pema_Karpo",
       "tibetanName": "ཀུན་མཁྱེན་པདྨ་དཀར་པོ་",
       "bio": {
         "es": "Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.",
@@ -3401,7 +3402,7 @@
           1
         ]
       },
-      "description": "- H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling. Fuente: - https://www.rigpawiki.org/index.php?title=Penor_Rinpoche",
+      "description": "- H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Penor_Rinpoche",
       "tibetanName": "པད་ནོར་རིན་པོ་ཆེ་",
       "bio": {
         "es": "H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.",
@@ -3509,7 +3510,7 @@
           1
         ]
       },
-      "description": "- Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik. Fuente: - https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
+      "description": "- Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
       "tibetanName": "རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་",
       "bio": {
         "es": "Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.",
@@ -3617,7 +3618,7 @@
           1
         ]
       },
-      "description": "- Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham. Fuente: - https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
+      "description": "- Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
       "tibetanName": "རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་",
       "bio": {
         "es": "Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.",
@@ -3728,7 +3729,7 @@
           1
         ]
       },
-      "description": "- Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé). Fuente: - https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
+      "description": "- Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
       "tibetanName": "ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).",
@@ -3833,7 +3834,7 @@
           1
         ]
       },
-      "description": "- Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada). Fuente: - https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
+      "description": "- Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
       "tibetanName": "སངས་རྒྱས་གླིང་པ་",
       "bio": {
         "es": "Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).",
@@ -3934,7 +3935,7 @@
           1
         ]
       },
-      "description": "- Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma. Fuente: - https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
+      "description": "- Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
       "tibetanName": "ཞེ་ཆེན་རྒྱལ་ཚབ།",
       "bio": {
         "es": "Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.",
@@ -4044,7 +4045,7 @@
           1
         ]
       },
-      "description": "- Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya. Fuente: - https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
+      "description": "- Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
       "tibetanName": "བསོད་ནམས་རྩེ་མོ་",
       "bio": {
         "es": "Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.",
@@ -4149,7 +4150,7 @@
           1
         ]
       },
-      "description": "- Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas. Fuente: - https://www.rigpawiki.org/index.php?title=Taranatha",
+      "description": "- Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Taranatha",
       "tibetanName": "རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་",
       "bio": {
         "es": "Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.",
@@ -4251,7 +4252,7 @@
           1
         ]
       },
-      "description": "- Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma. Fuente: - https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
+      "description": "- Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
       "tibetanName": "སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་",
       "bio": {
         "es": "Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.",
@@ -4355,7 +4356,7 @@
           1
         ]
       },
-      "description": "- Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma). Fuente: - https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
+      "description": "- Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
       "tibetanName": "གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་",
       "bio": {
         "es": "Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).",
@@ -4534,7 +4535,7 @@
           1
         ]
       },
-      "description": "- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu. Fuente: - https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
+      "description": "- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu.\n\nFuente:\n- https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
       "tibetanName": "རང་བྱུང་རྡོ་རྗེ་",
       "bio": {
         "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
@@ -4642,7 +4643,7 @@
           1
         ]
       },
-      "description": "- Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa). Fuente: - https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
+      "description": "- Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
       "tibetanName": "ཁྲ་འགུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).",
@@ -4748,7 +4749,7 @@
           1
         ]
       },
-      "description": "- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático. Fuente: - https://www.rigpawiki.org/index.php?title=Tsongkhapa",
+      "description": "- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
       "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
       "bio": {
         "es": "Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.",
@@ -4850,7 +4851,7 @@
           1
         ]
       },
-      "description": "- Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente. Fuente: - https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
+      "description": "- Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
       "tibetanName": "སྤྲུལ་སྐུ་དོན་གྲུབ་",
       "bio": {
         "es": "Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.",
@@ -4956,7 +4957,7 @@
           1
         ]
       },
-      "description": "- Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India. Fuente: - https://www.rigpawiki.org/index.php?title=Virupa",
+      "description": "- Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Virupa",
       "tibetanName": "བི་རུ་པ་",
       "bio": {
         "es": "Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.",
