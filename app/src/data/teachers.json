@@ -36,7 +36,8 @@
     "fixedJigmePhuntsokFuenteAt": "2026-02-19T20:17:18.764Z",
     "fixedJigmePhuntsokFuenteUrlAt": "2026-02-19T20:17:32.514Z",
     "dudjomPhotoFixedAt": "2026-02-19T20:18:27.305Z",
-    "mergedChatralEntriesAt": "2026-02-19T20:19:14.132Z"
+    "mergedChatralEntriesAt": "2026-02-19T20:19:14.132Z",
+    "fourthDodrubchenPhotoAddedAt": "2026-02-19T20:20:29.029Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -842,7 +843,12 @@
           ]
         }
       ],
-      "photoBlocked": true
+      "photoBlocked": false,
+      "photo": {
+        "url": "https://www.rigpawiki.org/images/f/f3/Dodrup_Rinpoche.JPG",
+        "creditEs": "Créditos: Rigpa Wiki",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Dodrupchen_Rinpoche"
+      }
     },
     {
       "id": "shambhala-gampopa-tib6-15",
