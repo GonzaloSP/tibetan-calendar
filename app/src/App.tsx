@@ -25,11 +25,17 @@ export default function App() {
   const [selected, setSelected] = useState(() => new Date());
   const [sheetOpen, setSheetOpen] = useState(false);
 
-  // Read the selected day from the URL on first load: ?date=YYYY-MM-DD
+  // Read the selected day from the URL on first load.
+  // Supported:
+  // - /?date=YYYY-MM-DD
+  // - /day/YYYY-MM-DD
   useEffect(() => {
+    const fromPath = window.location.pathname.match(/\/day\/(\d{4}-\d{2}-\d{2})/i)?.[1];
     const params = new URLSearchParams(window.location.search);
-    const d = params.get("date");
+    const fromQuery = params.get("date") || undefined;
+    const d = fromPath || fromQuery;
     if (!d) return;
+
     try {
       const parsed = parseISO(d);
       if (!isNaN(parsed.getTime())) {
@@ -42,6 +48,7 @@ export default function App() {
   }, []);
 
   // Keep URL in sync so the selected day is shareable.
+  // We keep it as a query param while browsing, but prerendered pages can use /day/YYYY-MM-DD.
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     params.set("date", format(selected, "yyyy-MM-dd"));

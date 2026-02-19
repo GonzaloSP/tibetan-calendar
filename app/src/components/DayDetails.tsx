@@ -179,8 +179,12 @@ export function DayDetails(props: {
   const practices = getPracticesForDate(date, tib);
 
   const shareUrl = useMemo(() => {
+    // Prefer pretty, prerendered path for social previews.
+    const d = format(date, "yyyy-MM-dd");
     const u = new URL(window.location.href);
-    // App.tsx already keeps ?date=YYYY-MM-DD in sync, so we keep it.
+    u.pathname = `/day/${d}`;
+    u.search = "";
+    u.hash = "";
     return u.toString();
   }, [date]);
 
