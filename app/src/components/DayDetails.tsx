@@ -52,7 +52,7 @@ function PracticeBody(props: { description: string; tibetanName?: string; image?
       {tibetanName ? (
         <div className="mb-2 text-xs text-ink-900">
           <span className="font-semibold">Nombre tibetano:</span>{" "}
-          <span className="font-tibetan text-sm">{tibetanName}</span>
+          <span className="font-tibetan text-base">{tibetanName}</span>
         </div>
       ) : null}
 
@@ -88,12 +88,21 @@ function PracticeBody(props: { description: string; tibetanName?: string; image?
         const lines = para.split("\n");
         return (
           <p key={i}>
-            {lines.map((line, j) => (
-              <span key={j}>
-                {line}
-                {j < lines.length - 1 ? <br /> : null}
-              </span>
-            ))}
+            {lines.map((line, j) => {
+              const isBullet = /^-\s+/.test(line);
+              const text = line.replace(/^-\s+/, "");
+              return (
+                <span key={j}>
+                  {isBullet ? (
+                    <span className="mr-1 inline-block align-baseline text-[0.9em] text-gold-700">
+                      ☸
+                    </span>
+                  ) : null}
+                  {text}
+                  {j < lines.length - 1 ? <br /> : null}
+                </span>
+              );
+            })}
           </p>
         );
       })}
