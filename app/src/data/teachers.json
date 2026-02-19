@@ -7,7 +7,7 @@
     "mergedShambhalaAt": "2026-02-19T15:19:36.936Z",
     "shambhalaInput": "app/shambhala_calendar.json",
     "removedWesternDateBoilerplateAt": "2026-02-19T15:24:42.539Z",
-    "reformattedAt": "2026-02-19T15:30:02.581Z"
+    "reformattedAt": "2026-02-19T15:33:03.900Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -83,7 +83,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་\n\n- Calendario lunar tibetano: día 18 del mes 9.\n- Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Atisha",
+      "description": "- Calendario lunar tibetano: día 18 del mes 9.\n- Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Atisha",
       "tibetanName": "ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་",
       "bio": {
         "es": "Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.",
@@ -180,7 +180,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 20 del mes 11.\n- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 20 del mes 11.\n- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
       "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་",
       "bio": {
         "es": "Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.",
@@ -280,7 +280,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཆོས་རྒྱལ་འཕགས་པ་\n\n- Calendario lunar tibetano: día 22 del mes 11.\n- Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
+      "description": "- Calendario lunar tibetano: día 22 del mes 11.\n- Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
       "tibetanName": "ཆོས་རྒྱལ་འཕགས་པ་",
       "bio": {
         "es": "Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.",
@@ -385,7 +385,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་\n\n- Calendario lunar tibetano: día 1 del mes 5.\n- Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
+      "description": "- Calendario lunar tibetano: día 1 del mes 5.\n- Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
       "tibetanName": "མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་",
       "bio": {
         "es": "Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.",
@@ -487,7 +487,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་\n\n- Calendario lunar tibetano: día 19 del mes 8.\n- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 19 del mes 8.\n- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
       "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.",
@@ -590,7 +590,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 20 del mes 2.\n- Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Do_Khyentse",
+      "description": "- Calendario lunar tibetano: día 20 del mes 2.\n- Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Do_Khyentse",
       "tibetanName": "མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).",
@@ -690,7 +690,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་\n\n- Calendario lunar tibetano: día 25 del mes 3.\n- Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
+      "description": "- Calendario lunar tibetano: día 25 del mes 3.\n- Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
       "tibetanName": "ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་",
       "bio": {
         "es": "Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.",
@@ -793,7 +793,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་\n\n- Calendario lunar tibetano: día 13 del mes 1.\n- Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 13 del mes 1.\n- Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
       "tibetanName": "འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་",
       "bio": {
         "es": "Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.",
@@ -896,7 +896,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།\n\n- Calendario lunar tibetano: día 23 del mes 11.\n- Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.\n\nFuente:\n- https://commons.tsadra.org/index.php/Dodrupchen,_4th",
+      "description": "- Calendario lunar tibetano: día 23 del mes 11.\n- Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.\n\nFuente:\n- https://commons.tsadra.org/index.php/Dodrupchen,_4th",
       "tibetanName": "རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།",
       "bio": {
         "es": "Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.",
@@ -995,7 +995,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་\n\n- Calendario lunar tibetano: día 15 del mes 6.\n- Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gampopa",
+      "description": "- Calendario lunar tibetano: día 15 del mes 6.\n- Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gampopa",
       "tibetanName": "སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་",
       "bio": {
         "es": "Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.",
@@ -1093,7 +1093,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- དགའ་རབ་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 15 del mes 1.\n- Aniversario de Garab Dorje. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano. Nombre tibetano: - དགའ་རབ་རྡོ་རྗེ་",
+      "description": "- Calendario lunar tibetano: día 15 del mes 1.\n- Aniversario de Garab Dorje. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano. Nombre tibetano: - དགའ་རབ་རྡོ་རྗེ་",
       "tibetanName": "དགའ་རབ་རྡོ་རྗེ་",
       "rawRecords": [
         {
@@ -1154,7 +1154,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཡཏྲུལ་ཪིནཔོཆེ\n\n- Calendario lunar tibetano: día 16 del mes 2.\n- Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 16 del mes 2.\n- Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
       "tibetanName": "ཡཏྲུལ་ཪིནཔོཆེ",
       "bio": {
         "es": "Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).",
@@ -1256,7 +1256,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་\n\n- Calendario lunar tibetano: día 6 del mes 5.\n- Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
+      "description": "- Calendario lunar tibetano: día 6 del mes 5.\n- Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.",
@@ -1364,7 +1364,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་\n\n- Calendario lunar tibetano: día 21 del mes 1.\n- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
+      "description": "- Calendario lunar tibetano: día 21 del mes 1.\n- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་",
       "bio": {
         "es": "Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.",
@@ -1466,7 +1466,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 5 del mes 2.\n- Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
+      "description": "- Calendario lunar tibetano: día 5 del mes 2.\n- Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
       "tibetanName": "འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་",
       "bio": {
         "es": "Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.",
@@ -1571,7 +1571,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་\n\n- Calendario lunar tibetano: día 13 del mes 2.\n- Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614",
+      "description": "- Calendario lunar tibetano: día 13 del mes 2.\n- Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614",
       "tibetanName": "རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.",
@@ -1684,7 +1684,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇིགས་མེད་གླིང་པ་\n\n- Calendario lunar tibetano: día 3 del mes 9.\n- Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
+      "description": "- Calendario lunar tibetano: día 3 del mes 9.\n- Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
       "tibetanName": "འཇིགས་མེད་གླིང་པ་",
       "bio": {
         "es": "Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.",
@@ -1784,7 +1784,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་\n\n- Calendario lunar tibetano: día 16 del mes 11.\n- Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.\n\nFuente:\n- https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
+      "description": "- Calendario lunar tibetano: día 16 del mes 11.\n- Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.\n\nFuente:\n- https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
       "tibetanName": "མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་",
       "bio": {
         "es": "Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.",
@@ -1886,7 +1886,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇིག་རྟེན་གསུམ་མགོན\n\n- Calendario lunar tibetano: día 25 del mes 4.\n- Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).\n\nFuente:\n- https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
+      "description": "- Calendario lunar tibetano: día 25 del mes 4.\n- Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).\n\nFuente:\n- https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
       "tibetanName": "འཇིག་རྟེན་གསུམ་མགོན",
       "bio": {
         "es": "Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).",
@@ -1988,7 +1988,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཀར་ལུ་རིན་པོ་ཆེ་\n\n- Calendario lunar tibetano: día 6 del mes 3.\n- Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 6 del mes 3.\n- Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
       "tibetanName": "ཀར་ལུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).",
@@ -2089,7 +2089,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་\n\n- Calendario lunar tibetano: día 24 del mes 3.\n- Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
+      "description": "- Calendario lunar tibetano: día 24 del mes 3.\n- Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
       "tibetanName": "མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་",
       "bio": {
         "es": "Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.",
@@ -2189,7 +2189,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མཁན་པོ་ངག་དབང་དཔལ་བཟང་\n\n- Calendario lunar tibetano: día 19 del mes 5.\n- Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
+      "description": "- Calendario lunar tibetano: día 19 del mes 5.\n- Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
       "tibetanName": "མཁན་པོ་ངག་དབང་དཔལ་བཟང་",
       "bio": {
         "es": "Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).",
@@ -2290,7 +2290,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མཁན་པོ་གཞན་དགའ་\n\n- Calendario lunar tibetano: día 5 del mes 1.\n- Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
+      "description": "- Calendario lunar tibetano: día 5 del mes 1.\n- Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
       "tibetanName": "མཁན་པོ་གཞན་དགའ་",
       "bio": {
         "es": "Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.",
@@ -2389,7 +2389,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཁྱུང་པོ་རྣལ་འབྱོར་\n\n- Calendario lunar tibetano: día 14 del mes 9.\n- Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
+      "description": "- Calendario lunar tibetano: día 14 del mes 9.\n- Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
       "tibetanName": "ཁྱུང་པོ་རྣལ་འབྱོར་",
       "bio": {
         "es": "Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.",
@@ -2492,7 +2492,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 18 del mes 11.\n- Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 18 del mes 11.\n- Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
       "tibetanName": "བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.",
@@ -2596,7 +2596,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་\n\n- Calendario lunar tibetano: día 2 del mes 11.\n- Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 2 del mes 11.\n- Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
       "tibetanName": "གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་",
       "bio": {
         "es": "Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.",
@@ -2701,7 +2701,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མར་པ་ཆོས་ཀྱི་བློ་གྲོས་\n\n- Calendario lunar tibetano: día 15 del mes 1.\n- Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Marpa",
+      "description": "- Calendario lunar tibetano: día 15 del mes 1.\n- Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Marpa",
       "tibetanName": "མར་པ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.",
@@ -2801,7 +2801,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- མི་ལ་རས་པ་\n\n- Calendario lunar tibetano: día 14 del mes 1.\n- Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Milarepa",
+      "description": "- Calendario lunar tibetano: día 14 del mes 1.\n- Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Milarepa",
       "tibetanName": "མི་ལ་རས་པ་",
       "bio": {
         "es": "Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.",
@@ -2898,7 +2898,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- འཇུ་མི་ཕམ་\n\n- Calendario lunar tibetano: día 29 del mes 4.\n- Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 29 del mes 4.\n- Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche",
       "tibetanName": "འཇུ་མི་ཕམ་",
       "bio": {
         "es": "Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.",
@@ -2999,7 +2999,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཕག་མོ་གྲུ་པ་\n\n- Calendario lunar tibetano: día 25 del mes 7.\n- Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
+      "description": "- Calendario lunar tibetano: día 25 del mes 7.\n- Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
       "tibetanName": "ཕག་མོ་གྲུ་པ་",
       "bio": {
         "es": "Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).",
@@ -3107,7 +3107,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་\n\n- Calendario lunar tibetano: día 18 del mes 4.\n- Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 18 del mes 4.\n- Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
       "tibetanName": "རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.",
@@ -3208,7 +3208,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཀུན་མཁྱེན་པདྨ་དཀར་པོ་\n\n- Calendario lunar tibetano: día 14 del mes 7.\n- Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Pema_Karpo",
+      "description": "- Calendario lunar tibetano: día 14 del mes 7.\n- Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Pema_Karpo",
       "tibetanName": "ཀུན་མཁྱེན་པདྨ་དཀར་པོ་",
       "bio": {
         "es": "Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.",
@@ -3308,7 +3308,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- པད་ནོར་རིན་པོ་ཆེ་\n\n- Calendario lunar tibetano: día 1 del mes 2.\n- H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Penor_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 1 del mes 2.\n- H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Penor_Rinpoche",
       "tibetanName": "པད་ནོར་རིན་པོ་ཆེ་",
       "bio": {
         "es": "H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.",
@@ -3411,7 +3411,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་\n\n- Calendario lunar tibetano: día 25 del mes 8.\n- Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
+      "description": "- Calendario lunar tibetano: día 25 del mes 8.\n- Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
       "tibetanName": "རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་",
       "bio": {
         "es": "Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.",
@@ -3514,7 +3514,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་\n\n- Calendario lunar tibetano: día 5 del mes 1.\n- Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
+      "description": "- Calendario lunar tibetano: día 5 del mes 1.\n- Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab",
       "tibetanName": "རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་",
       "bio": {
         "es": "Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.",
@@ -3620,7 +3620,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་\n\n- Calendario lunar tibetano: día 14 del mes 11.\n- Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
+      "description": "- Calendario lunar tibetano: día 14 del mes 11.\n- Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
       "tibetanName": "ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).",
@@ -3720,7 +3720,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- སངས་རྒྱས་གླིང་པ་\n\n- Calendario lunar tibetano: día 30 del mes 3.\n- Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
+      "description": "- Calendario lunar tibetano: día 30 del mes 3.\n- Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
       "tibetanName": "སངས་རྒྱས་གླིང་པ་",
       "bio": {
         "es": "Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).",
@@ -3820,7 +3820,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཞེ་ཆེན་རྒྱལ་ཚབ།\n\n- Calendario lunar tibetano: día 18 del mes 5.\n- Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
+      "description": "- Calendario lunar tibetano: día 18 del mes 5.\n- Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
       "tibetanName": "ཞེ་ཆེན་རྒྱལ་ཚབ།",
       "bio": {
         "es": "Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.",
@@ -3925,7 +3925,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- བསོད་ནམས་རྩེ་མོ་\n\n- Calendario lunar tibetano: día 11 del mes 11.\n- Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
+      "description": "- Calendario lunar tibetano: día 11 del mes 11.\n- Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
       "tibetanName": "བསོད་ནམས་རྩེ་མོ་",
       "bio": {
         "es": "Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.",
@@ -4025,7 +4025,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་\n\n- Calendario lunar tibetano: día 26 del mes 2.\n- Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Taranatha",
+      "description": "- Calendario lunar tibetano: día 26 del mes 2.\n- Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Taranatha",
       "tibetanName": "རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་",
       "bio": {
         "es": "Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.",
@@ -4122,7 +4122,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 2 del mes 2.\n- Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
+      "description": "- Calendario lunar tibetano: día 2 del mes 2.\n- Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
       "tibetanName": "སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་",
       "bio": {
         "es": "Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.",
@@ -4221,7 +4221,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 16 del mes 3.\n- Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
+      "description": "- Calendario lunar tibetano: día 16 del mes 3.\n- Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
       "tibetanName": "གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་",
       "bio": {
         "es": "Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).",
@@ -4330,7 +4330,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་\n\n- Calendario lunar tibetano: día 10 del mes 1.\n- Aniversario de Terton Sogyal. En el calendario lunar tibetano se observa el día 10 del mes 1. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano. Nombre tibetano: - གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
+      "description": "- Calendario lunar tibetano: día 10 del mes 1.\n- Aniversario de Terton Sogyal. En el calendario lunar tibetano se observa el día 10 del mes 1. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano. Nombre tibetano: - གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "tibetanName": "གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "rawRecords": [
         {
@@ -4390,7 +4390,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- རང་བྱུང་རྡོ་རྗེ་\n\n- Calendario lunar tibetano: día 14 del mes 6.\n- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.\n\nFuente:\n- https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
+      "description": "- Calendario lunar tibetano: día 14 del mes 6.\n- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.\n\nFuente:\n- https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
       "tibetanName": "རང་བྱུང་རྡོ་རྗེ་",
       "bio": {
         "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
@@ -4493,7 +4493,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཁྲ་འགུ་རིན་པོ་ཆེ་\n\n- Calendario lunar tibetano: día 15 del mes 4.\n- Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 15 del mes 4.\n- Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
       "tibetanName": "ཁྲ་འགུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).",
@@ -4594,7 +4594,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་\n\n- Calendario lunar tibetano: día 25 del mes 10.\n- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
+      "description": "- Calendario lunar tibetano: día 25 del mes 10.\n- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
       "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
       "bio": {
         "es": "Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.",
@@ -4691,7 +4691,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- སྤྲུལ་སྐུ་དོན་གྲུབ་\n\n- Calendario lunar tibetano: día 18 del mes 11.\n- Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
+      "description": "- Calendario lunar tibetano: día 18 del mes 11.\n- Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
       "tibetanName": "སྤྲུལ་སྐུ་དོན་གྲུབ་",
       "bio": {
         "es": "Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.",
@@ -4792,7 +4792,7 @@
           1
         ]
       },
-      "description": "Nombre tibetano:\n- བི་རུ་པ་\n\n- Calendario lunar tibetano: día 23 del mes 4.\n- Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Virupa",
+      "description": "- Calendario lunar tibetano: día 23 del mes 4.\n- Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Virupa",
       "tibetanName": "བི་རུ་པ་",
       "bio": {
         "es": "Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.",

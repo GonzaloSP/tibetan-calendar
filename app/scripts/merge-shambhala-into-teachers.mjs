@@ -40,12 +40,8 @@ function mergeUnique(arrA, arrB) {
 function buildDescriptionEs({ name, tibetanName, lunar, bioEs, bioSources, originalDescriptionEs, records }) {
   const lines = [];
 
-  // Put the Tibetan name right at the top so it shows directly beneath the title in the UI.
-  if (tibetanName) {
-    lines.push('Nombre tibetano:');
-    lines.push(`- ${tibetanName}`);
-    lines.push('');
-  }
+  // Note: tibetanName is stored structurally on the entry (teachers.json field `tibetanName`).
+  // If the UI shows it separately, we don't repeat it in the description body.
 
   const bullets: string[] = [];
 

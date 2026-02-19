@@ -33,11 +33,7 @@ function buildDescription(entry) {
   const lunar = entry.rule?.calendar === 'tibetan-lunar' ? entry.rule : null;
 
   const lines = [];
-  if (tibetanName) {
-    lines.push('Nombre tibetano:');
-    lines.push(`- ${tibetanName}`);
-    lines.push('');
-  }
+  // tibetanName is displayed separately in the UI; do not repeat it in the body text.
 
   const bullets = [];
   if (lunar) {
