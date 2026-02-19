@@ -25,7 +25,8 @@
     "shechenGyaltsapPhotoFixedAt": "2026-02-19T19:54:39.055Z",
     "khenpoNgakchungPhotoFixedAt": "2026-02-19T19:56:52.813Z",
     "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.202Z",
-    "replacedBudaNaturalezaAt": "2026-02-19T20:02:49.249Z"
+    "replacedBudaNaturalezaAt": "2026-02-19T20:02:49.249Z",
+    "rewrotePakmodrupaAt": "2026-02-19T20:09:11.792Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -3180,7 +3181,7 @@
           1
         ]
       },
-      "description": "- Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung). Fuente: - https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
+      "description": "- Pakmodrupa Dorje Gyelpo (1110–1170), discípulo de Gampopa y una de las figuras clave en la expansión del linaje Kagyu.\n- Su asiento en Densatil (Densa Thil) se volvió un centro muy influyente, del que surgieron varias ramas y sublinajes Kagyu, incluyendo la tradición Drikung.\n\nFuente:\n- https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
       "tibetanName": "ཕག་མོ་གྲུ་པ་",
       "bio": {
         "es": "Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).",
@@ -3275,8 +3276,8 @@
       ],
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Phagmo_Drupa_Dorje_Gyalpo.jpg/330px-Phagmo_Drupa_Dorje_Gyalpo.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Phagmo_Drupa_Dorje_Gyalpo"
+        "creditEs": "Créditos: Treasury of Lives",
+        "creditUrl": "https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127"
       }
     },
     {
