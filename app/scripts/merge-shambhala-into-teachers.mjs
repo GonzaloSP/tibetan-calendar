@@ -39,46 +39,46 @@ function mergeUnique(arrA, arrB) {
 
 function buildDescriptionEs({ name, tibetanName, lunar, bioEs, bioSources, originalDescriptionEs, records }) {
   const lines = [];
-  lines.push(`Aniversario de ${name}.`);
+
+  // Put the Tibetan name right at the top so it shows directly beneath the title in the UI.
+  if (tibetanName) {
+    lines.push('Nombre tibetano:');
+    lines.push(`- ${tibetanName}`);
+    lines.push('');
+  }
+
+  const bullets: string[] = [];
 
   if (lunar) {
     const leapMonth = lunar.isLeapMonth ? ' (mes duplicado)' : '';
     const leapDay = lunar.isLeapDay ? ' (día repetido)' : '';
-    lines.push(`En el calendario lunar tibetano se observa el día ${lunar.tibDay}${leapDay} del mes ${lunar.tibMonth}${leapMonth}. La fecha en el calendario occidental varía cada año.`);
-  }
-
-  // Prefer the rewritten Spanish description if it adds nuance.
-  if (originalDescriptionEs && originalDescriptionEs.trim()) {
-    // Avoid repeating the opening "Aniversario de ..." if we already wrote it.
-    const cleaned = originalDescriptionEs
-      .replace(/^Aniversario de\s+[^.]+\.?\s*/i, '')
-      .trim();
-    if (cleaned) {
-      lines.push('');
-      lines.push(`Detalles: ${cleaned}`);
-    }
-  }
-
-  if (tibetanName) {
-    lines.push('');
-    lines.push('Nombre tibetano:');
-    lines.push(`- ${tibetanName}`);
+    bullets.push(`Calendario lunar tibetano: día ${lunar.tibDay}${leapDay} del mes ${lunar.tibMonth}${leapMonth}.`);
   }
 
   if (bioEs) {
-    lines.push('');
-    lines.push('Bio (resumen):');
-    lines.push(`- ${bioEs}`);
+    bullets.push(bioEs);
+  }
+
+  // If there is extra nuance in the shambhala-derived description, keep it as another bullet.
+  if (originalDescriptionEs && originalDescriptionEs.trim()) {
+    const cleaned = originalDescriptionEs
+      .replace(/^Aniversario de\s+[^.]+\.?\s*/i, '')
+      .trim();
+    if (cleaned) bullets.push(cleaned);
+  }
+
+  if (bullets.length) {
+    for (const b of bullets) lines.push(`- ${b}`);
   }
 
   const sources = mergeUnique(records?.sources || [], bioSources || []);
   if (sources.length) {
     lines.push('');
-    lines.push('Fuentes:');
-    for (const u of sources) lines.push(`- ${u}`);
+    lines.push('Fuente:');
+    // Keep a single clickable link (first source) as requested.
+    lines.push(`- ${sources[0]}`);
   }
 
-  // Keep raw records in a dedicated field, not inside description.
   return lines.join('\n');
 }
 
