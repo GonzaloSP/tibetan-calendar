@@ -6,7 +6,8 @@
     "extractionDate": "2026-02-13",
     "extractedTibetanNamesAt": "2026-02-19T19:16:15.906Z",
     "removedDetallesAt": "2026-02-19T19:53:12.092Z",
-    "dalaiLamaPhotoAddedAt": "2026-02-19T19:57:55.694Z"
+    "dalaiLamaPhotoAddedAt": "2026-02-19T19:57:55.694Z",
+    "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.199Z"
   },
   "notes": [
     "Este archivo captura las observancias del calendario lunar tibetano basadas en reglas, codificadas en PracticeDatesService.getPractices().",
@@ -36,7 +37,7 @@
         "month": 7,
         "day": 6
       },
-      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)",
+      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama. - Nacimiento (greg.): 1935-07-06 - Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)",
       "conditions": {
         "onlyIfNotSkippedTibetanDay": true
       },
