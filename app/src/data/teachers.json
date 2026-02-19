@@ -24,7 +24,8 @@
     "removedDetallesAt": "2026-02-19T19:53:12.086Z",
     "shechenGyaltsapPhotoFixedAt": "2026-02-19T19:54:39.055Z",
     "khenpoNgakchungPhotoFixedAt": "2026-02-19T19:56:52.813Z",
-    "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.202Z"
+    "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.202Z",
+    "replacedBudaNaturalezaAt": "2026-02-19T20:02:49.249Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -4636,10 +4637,10 @@
           1
         ]
       },
-      "description": "- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu. Fuente: - https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
+      "description": "- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu. Fuente: - https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
       "tibetanName": "རང་བྱུང་རྡོ་རྗེ་",
       "bio": {
-        "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
+        "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
         "sources": [
           "https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama"
         ]
@@ -4713,7 +4714,7 @@
                 "kind": "teacher_anniversary"
               },
               "bio": {
-                "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
+                "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de naturaleza búdica y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
                 "sources": [
                   "https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama"
                 ]
