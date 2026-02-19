@@ -52,7 +52,7 @@ function PracticeBody(props: { description: string; tibetanName?: string; image?
       {tibetanName ? (
         <div className="mb-2 text-xs text-ink-900">
           <span className="font-semibold">Nombre tibetano:</span>{" "}
-          <span className="font-tibetan">{tibetanName}</span>
+          <span className="font-tibetan text-sm">{tibetanName}</span>
         </div>
       ) : null}
 
