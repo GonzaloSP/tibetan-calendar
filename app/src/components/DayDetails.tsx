@@ -171,7 +171,7 @@ export function DayDetails(props: {
 
         {practices.length === 0 ? (
           <div className="mt-3 rounded-2xl border border-black/5 bg-white p-4 text-sm text-ink-800/70">
-            No hay prácticas especiales listadas para este día según las reglas extraídas.
+            No hay prácticas especiales listadas para este día, tal vez es un buen día para realizar tu práctica habitual.
           </div>
         ) : (
           <div className="mt-3 space-y-3">
