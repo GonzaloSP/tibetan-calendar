@@ -26,7 +26,9 @@
     "khenpoNgakchungPhotoFixedAt": "2026-02-19T19:56:52.813Z",
     "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.202Z",
     "replacedBudaNaturalezaAt": "2026-02-19T20:02:49.249Z",
-    "rewrotePakmodrupaAt": "2026-02-19T20:09:11.792Z"
+    "rewrotePakmodrupaAt": "2026-02-19T20:09:11.792Z",
+    "mergedDilgoEntriesAt": "2026-02-19T20:11:02.983Z",
+    "dedupedIdsAt": "2026-02-19T20:11:17.551Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -66,15 +68,15 @@
       }
     },
     {
-      "id": "teacher-dilgo-khyentse-parinirvana-9-28",
+      "id": "teacher-dilgo-khyentse-parinirvana-9-30",
       "name": "Aniversario de parinirvana — Dilgo Khyentse Rinpoche",
       "type": "PARINIRVANA",
       "rule": {
         "calendar": "gregorian",
         "month": 9,
-        "day": 28
+        "day": 30
       },
-      "description": "- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros del linaje nyingma y del movimiento Rimé, poeta y autor. - Maestro de muchos lamas contemporáneos y guía clave en la preservación y transmisión del Dharma en el siglo XX. Fuente: - https://en.wikipedia.org/wiki/Dilgo_Khyentse",
+      "description": "- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros del linaje nyingma y del movimiento Rimé, poeta y autor. - Maestro de muchos lamas contemporáneos y guía clave en la preservación y transmisión del Dharma en el siglo XX. Fuente: - https://en.wikipedia.org/wiki/Dilgo_Khyentse\n- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales. Fuente: - https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche\n\nFuente:\n- https://en.wikipedia.org/wiki/Dilgo_Khyentse",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -535,114 +537,6 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ChogyurLingpa.jpg/330px-ChogyurLingpa.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Orgyen_Chokgyur_Lingpa"
-      }
-    },
-    {
-      "id": "shambhala-dilgo-khyenytse-rinpoche-tib8-19",
-      "name": "Aniversario — Dilgo Khyenytse Rinpoche",
-      "type": "OTHER",
-      "rule": {
-        "calendar": "tibetan-lunar",
-        "tibMonth": 8,
-        "tibDay": 19
-      },
-      "conditions": {
-        "doubleDayFlagNot": [
-          1
-        ]
-      },
-      "description": "- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales. Fuente: - https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
-      "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་",
-      "bio": {
-        "es": "Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.",
-        "sources": [
-          "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
-        ]
-      },
-      "rawRecords": [
-        {
-          "source": "shambhala_calendar.json",
-          "keys": {
-            "teacherKey": "dilgo-khyenytse-rinpoche",
-            "groupKey": "dilgo-khyenytse-rinpoche::tib8-19"
-          },
-          "sources": [
-            "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
-            "h",
-            "t",
-            "p",
-            "s",
-            ":",
-            "/",
-            "w",
-            ".",
-            "r",
-            "i",
-            "g",
-            "a",
-            "k",
-            "o",
-            "n",
-            "d",
-            "e",
-            "x",
-            "?",
-            "l",
-            "=",
-            "D",
-            "_",
-            "K",
-            "y",
-            "R",
-            "c"
-          ],
-          "records": [
-            {
-              "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
-              "event": {
-                "id": "12htsvueep37lj3074gh4k2tuf",
-                "title": "Anniversary of Dilgo Khyenytse Rinpoche",
-                "start": "2026-09-30",
-                "end": "2026-10-01",
-                "allDay": true,
-                "timeZone": "America/New_York",
-                "extendedProps": {
-                  "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8.",
-                  "attachments": []
-                }
-              },
-              "titleEn": "Anniversary of Dilgo Khyenytse Rinpoche",
-              "titleEs": "Aniversario de Dilgo Khyenytse Rinpoche",
-              "descriptionEn": "",
-              "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche.",
-              "tibetanLunar": {
-                "rabjung": 17,
-                "tibYear": 40,
-                "tibMonth": 8,
-                "isLeapMonth": false,
-                "tibDay": 19,
-                "isLeapDay": false
-              },
-              "flags": {
-                "teacherAnniversary": true,
-                "kind": "teacher_anniversary"
-              },
-              "bio": {
-                "es": "Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.",
-                "sources": [
-                  "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
-                ]
-              },
-              "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་",
-              "tibetanNameSource": "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
-            }
-          ]
-        }
-      ],
-      "photo": {
-        "url": "https://www.rigpawiki.org/images/a/a9/DKRshedra.JPG",
-        "creditEs": "Créditos: Rigpa Wiki",
-        "creditUrl": "https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche"
       }
     },
     {
