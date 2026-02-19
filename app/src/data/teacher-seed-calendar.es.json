@@ -12,7 +12,8 @@
     "filledMissingPhotosAt": "2026-02-19T19:27:39.931Z",
     "filledMissingPhotosManualAt": "2026-02-19T19:28:28.352Z",
     "removedDetallesAt": "2026-02-19T19:53:12.091Z",
-    "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.194Z"
+    "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.194Z",
+    "karmapa16BirthPhotoEnsuredAt": "2026-02-19T20:03:40.988Z"
   },
   "notes": [
     "Dedupe: si una fecha ya existe en la fuente principal (Steinert), no se repite acá.",
