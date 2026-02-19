@@ -36,9 +36,7 @@ function buildDescription(entry) {
   // tibetanName is displayed separately in the UI; do not repeat it in the body text.
 
   const bullets = [];
-  if (lunar) {
-    bullets.push(`Calendario lunar tibetano: día ${lunar.tibDay} del mes ${lunar.tibMonth}.`);
-  }
+  // Do NOT include date mechanics in the body text.
   if (bioEs) bullets.push(bioEs);
 
   // If old description had extra information beyond boilerplate, keep it as bullet (without labels)

@@ -45,11 +45,7 @@ function buildDescriptionEs({ name, tibetanName, lunar, bioEs, bioSources, origi
 
   const bullets: string[] = [];
 
-  if (lunar) {
-    const leapMonth = lunar.isLeapMonth ? ' (mes duplicado)' : '';
-    const leapDay = lunar.isLeapDay ? ' (día repetido)' : '';
-    bullets.push(`Calendario lunar tibetano: día ${lunar.tibDay}${leapDay} del mes ${lunar.tibMonth}${leapMonth}.`);
-  }
+  // Do NOT include date mechanics in the body text (requested). The calendar already places it on the right day.
 
   if (bioEs) {
     bullets.push(bioEs);
