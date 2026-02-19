@@ -5,7 +5,8 @@
     "extractedFrom": "src/main/java/de/christian_steinert/practice_dates/practicedates/dates_service/PracticeDatesService.java",
     "extractionDate": "2026-02-13",
     "extractedTibetanNamesAt": "2026-02-19T19:16:15.906Z",
-    "removedDetallesAt": "2026-02-19T19:53:12.092Z"
+    "removedDetallesAt": "2026-02-19T19:53:12.092Z",
+    "dalaiLamaPhotoAddedAt": "2026-02-19T19:57:55.694Z"
   },
   "notes": [
     "Este archivo captura las observancias del calendario lunar tibetano basadas en reglas, codificadas en PracticeDatesService.getPractices().",
@@ -39,7 +40,12 @@
       "conditions": {
         "onlyIfNotSkippedTibetanDay": true
       },
-      "tibetanName": "འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།"
+      "tibetanName": "འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/330px-The_Dalai_Lama_in_2012.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+      }
     },
     {
       "id": "tibetan-new-year",
