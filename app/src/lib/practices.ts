@@ -105,7 +105,7 @@ export function getPracticesForDate(date: Date, t: TibetanDate): DatedPractice[]
   for (const item of data.importantCelebratoryDates) {
     if (item.rule.calendar === "gregorian") {
       if (isSameGregorianMonthDay(date, item.rule.month, item.rule.day)) {
-        out.push({ id: item.id, kind: "celebration", type: item.type, name: item.name, description: item.description });
+        out.push({ id: item.id, kind: "celebration", type: item.type, name: item.name, description: item.description, image: item.photo });
         for (const extra of item.alsoAdds ?? []) {
           out.push({ id: `${item.id}::${extra.type}::${extra.name}`, kind: "celebration", ...extra });
         }
@@ -117,7 +117,7 @@ export function getPracticesForDate(date: Date, t: TibetanDate): DatedPractice[]
     if (t.tibMonth === item.rule.tibMonth && t.tibDay === item.rule.tibDay) {
       if (!shouldIncludeOnThisDay({ id: item.id, type: item.type }, t)) continue;
 
-      out.push({ id: item.id, kind: "celebration", type: item.type, name: item.name, description: item.description });
+      out.push({ id: item.id, kind: "celebration", type: item.type, name: item.name, description: item.description, image: item.photo });
       for (const extra of item.alsoAdds ?? []) {
         out.push({ id: `${item.id}::${extra.type}::${extra.name}`, kind: "celebration", ...extra });
       }

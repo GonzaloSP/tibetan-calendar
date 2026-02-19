@@ -7,7 +7,8 @@
     "mergedShambhalaAt": "2026-02-19T15:19:36.936Z",
     "shambhalaInput": "app/shambhala_calendar.json",
     "removedWesternDateBoilerplateAt": "2026-02-19T15:24:42.539Z",
-    "reformattedAt": "2026-02-19T15:33:03.900Z"
+    "reformattedAt": "2026-02-19T15:33:03.900Z",
+    "teacherPhotosAddedAt": "2026-02-19T17:35:28.218Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -34,7 +35,12 @@
         "month": 12,
         "day": 30
       },
-      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Parinirvana (greg.): 2015-12-30 - Lugar: Pharping (Yangleshö), Nepal - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Parinirvana (greg.): 2015-12-30 - Lugar: Pharping (Yangleshö), Nepal - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dudjom_Jigdral_Yeshe_Dorje"
+      }
     },
     {
       "id": "teacher-dilgo-khyentse-parinirvana-9-28",
@@ -45,7 +51,12 @@
         "month": 9,
         "day": 28
       },
-      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles: - Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།) - Parinirvana (greg.): 1991-09-28 - Lugar: Bután (reportado) - Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825"
+      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles: - Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།) - Parinirvana (greg.): 1991-09-28 - Lugar: Bután (reportado) - Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dilgo_Khyentse"
+      }
     },
     {
       "id": "teacher-jigme-phuntsok-parinirvana-1-6",
@@ -56,7 +67,12 @@
         "month": 1,
         "day": 6
       },
-      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles: - Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས། - Parinirvana (greg.): 2004-01-06 - Lugar: China (reportado en múltiples fuentes) - Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457"
+      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles: - Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས། - Parinirvana (greg.): 2004-01-06 - Lugar: China (reportado en múltiples fuentes) - Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dudjom_Jigdral_Yeshe_Dorje"
+      }
     },
     {
       "id": "teacher-tulku-urgyen-parinirvana-2-13",
@@ -164,7 +180,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atisha.jpg/330px-Atisha.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Ati%C5%9Ba"
+      }
     },
     {
       "id": "shambhala-chatral-rinpoche-tib11-20",
@@ -264,7 +285,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      }
     },
     {
       "id": "shambhala-chogyal-phakpa-tib11-22",
@@ -369,7 +395,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chogyal.JPG",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Drog%C3%B6n_Ch%C3%B6gyal_Phagpa"
+      }
     },
     {
       "id": "shambhala-chogyur-lingpa-tib5-1",
@@ -471,7 +502,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/ChogyurLingpa.jpg/330px-ChogyurLingpa.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Orgyen_Chokgyur_Lingpa"
+      }
     },
     {
       "id": "shambhala-dilgo-khyenytse-rinpoche-tib8-19",
@@ -674,7 +710,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dzongsar_Jamyang_Khyentse_Rinpoche.jpg/330px-Dzongsar_Jamyang_Khyentse_Rinpoche.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Khyentse_Norbu"
+      }
     },
     {
       "id": "shambhala-fifth-dalai-lama-tib3-25",
@@ -777,7 +818,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/NgawangLozangGyatso.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/5th_Dalai_Lama"
+      }
     },
     {
       "id": "shambhala-first-dodrubchen-rinpoche-tib1-13",
@@ -880,7 +926,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg/330px-Dudjom_Rinpoche_with_Prince_Paljor_Namgyal_and_Maharani_Kunzang_Dechen_Tshomo_Namgyal.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dudjom_Jigdral_Yeshe_Dorje"
+      }
     },
     {
       "id": "shambhala-fourth-dodrubchen-rinpoche-tib11-23",
@@ -1077,7 +1128,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Gampopa.jpg/330px-Gampopa.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Gampopa"
+      }
     },
     {
       "id": "shambhala-garab-dorje-tib1-15",
@@ -1138,7 +1194,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Garab_Dorje.gif",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Garab_Dorje"
+      }
     },
     {
       "id": "shambhala-gyatrul-rinpoche-tib2-16",
@@ -1240,7 +1301,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PenorRinpoche.jpg/330px-PenorRinpoche.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Penor_Rinpoche"
+      }
     },
     {
       "id": "shambhala-jamyang-khyentse-chokyi-lodro-tib5-6",
@@ -1348,7 +1414,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Dzongsar_Khyentse_Chokyi_Lodro.jpg/330px-Dzongsar_Khyentse_Chokyi_Lodro.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dzongsar_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6"
+      }
     },
     {
       "id": "shambhala-jamyang-khyentse-wangpo-tib1-21",
@@ -1450,7 +1521,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Jamyang_Khyentse_Wangpo.jpg/330px-Jamyang_Khyentse_Wangpo.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jamyang_Khyentse_Wangpo"
+      }
     },
     {
       "id": "shambhala-jamyang-shepa-tib2-5",
@@ -1668,7 +1744,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Drakpa_Gyaltsen.jpg/330px-Drakpa_Gyaltsen.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jetsun_Dragpa_Gyaltsen"
+      }
     },
     {
       "id": "shambhala-jigme-lingpa-tib9-3",
@@ -1768,7 +1849,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Nyingma_Jigme_Lingpa.jpg/330px-Nyingma_Jigme_Lingpa.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jigme_Lingpa"
+      }
     },
     {
       "id": "shambhala-jigme-phuntsok-rinpoche-tib11-16",
@@ -1870,7 +1956,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Jigme_Phuntsok.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jigme_Phuntsok"
+      }
     },
     {
       "id": "shambhala-jigten-sumgon-tib4-25",
@@ -1972,7 +2063,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Jigten_Sumgon.jpg/330px-Jigten_Sumgon.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n"
+      }
     },
     {
       "id": "shambhala-kalu-rinpoche-tib3-6",
@@ -2073,7 +2169,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kalou_Rimpoche_Montpellier_1987.jpg/330px-Kalou_Rimpoche_Montpellier_1987.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Kalu_Rinpoche"
+      }
     },
     {
       "id": "shambhala-khandro-tsering-chodron-tib3-24",
@@ -2173,7 +2274,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Dalai_Lama_in_2012.jpg/330px-The_Dalai_Lama_in_2012.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/14th_Dalai_Lama"
+      }
     },
     {
       "id": "shambhala-khenpo-ngakchung-tib5-19",
@@ -2274,7 +2380,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Surya_Das_and_friend.jpg/330px-Surya_Das_and_friend.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Nyoshul_Khenpo_Rinpoche"
+      }
     },
     {
       "id": "shambhala-khenpo-shenga-tib1-5",
@@ -2373,7 +2484,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zhenpen_Chokyi_Nangwa.jpeg/330px-Zhenpen_Chokyi_Nangwa.jpeg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Khenpo_Shenga"
+      }
     },
     {
       "id": "shambhala-khyungpo-nalkdjor-tib9-14",
@@ -2580,7 +2696,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Trulshik_Rinpoch%C3%A9%2C_2008.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Trulshik_Rinpoche"
+      }
     },
     {
       "id": "shambhala-kyabje-thinley-norbu-rinpoche-tib11-2",
@@ -2685,7 +2806,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Thinley_Norbu_Rinpoche_wearing_a_white_shirt%2C_red_zen%2C_pink_curtain_in_background.jpg/330px-Thinley_Norbu_Rinpoche_wearing_a_white_shirt%2C_red_zen%2C_pink_curtain_in_background.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Thinley_Norbu"
+      }
     },
     {
       "id": "shambhala-marpa-tib1-15",
@@ -2785,7 +2911,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Marpa_painting_Holy_isle.jpg/330px-Marpa_painting_Holy_isle.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Marpa_Lotsawa"
+      }
     },
     {
       "id": "shambhala-milarepa-tib1-14",
@@ -2882,7 +3013,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Milarepa-statue-made-by-root-student-rechungpa.jpg/330px-Milarepa-statue-made-by-root-student-rechungpa.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Milarepa"
+      }
     },
     {
       "id": "shambhala-mipham-rinpoche-tib4-29",
@@ -2983,7 +3119,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/MiphamNew.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Jamg%C3%B6n_Ju_Mipham_Gyatso"
+      }
     },
     {
       "id": "shambhala-pakmodrukpa-tib7-25",
@@ -3192,7 +3333,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Patrul_Rinpoche.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Patrul_Rinpoche"
+      }
     },
     {
       "id": "shambhala-pema-karpo-tib7-14",
@@ -3292,7 +3438,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Tibet%2C_religioso_della_scuola_drukpa%2C_xviii_sec.JPG/330px-Tibet%2C_religioso_della_scuola_drukpa%2C_xviii_sec.JPG",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Kunkhyen_Pema_Karpo"
+      }
     },
     {
       "id": "shambhala-penor-rinpoche-tib2-1",
@@ -3395,7 +3546,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PenorRinpoche.jpg/330px-PenorRinpoche.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Penor_Rinpoche"
+      }
     },
     {
       "id": "shambhala-rigdzin-kumarazda-tib8-25",
@@ -3604,7 +3760,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Narshi_Gonpa_Ngawa_Sichuan_China.jpg/330px-Narshi_Gonpa_Ngawa_Sichuan_China.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Bon"
+      }
     },
     {
       "id": "shambhala-sakya-pandita-tib11-14",
@@ -3704,7 +3865,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/MET_2006_285.jpeg/330px-MET_2006_285.jpeg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Sakya_Pandita"
+      }
     },
     {
       "id": "shambhala-sangye-lingpa-tib3-30",
@@ -3804,7 +3970,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      }
     },
     {
       "id": "shambhala-shechen-gyaltsap-tib5-18",
@@ -3909,7 +4080,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Dilgo_Khyentse"
+      }
     },
     {
       "id": "shambhala-sonam-tsemo-tib11-11",
@@ -4009,7 +4185,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sonam_Tsemo_%281142-1182%29_and_His_Lineage_LACMA_M.70.57.jpg/330px-Sonam_Tsemo_%281142-1182%29_and_His_Lineage_LACMA_M.70.57.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Sonam_Tsemo"
+      }
     },
     {
       "id": "shambhala-taranatha-tib2-26",
@@ -4106,7 +4287,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Taranatha.jpg/330px-Taranatha.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Taranatha"
+      }
     },
     {
       "id": "shambhala-terdak-lingpa-tib2-2",
@@ -4205,7 +4391,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GURU_PADMASAMBHAVA_Lhuntse%2C_Bhutan.jpg/330px-GURU_PADMASAMBHAVA_Lhuntse%2C_Bhutan.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Nyingma"
+      }
     },
     {
       "id": "shambhala-terton-mingyur-dorje-tib3-16",
@@ -4314,7 +4505,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Namcho_Mingyur_Dorje.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Namch%C3%B6_Mingyur_Dorje"
+      }
     },
     {
       "id": "shambhala-terton-sogyal-tib1-10",
@@ -4374,7 +4570,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Terton_Sogyal%2C_1913.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Tert%C3%B6n_Sogyal"
+      }
     },
     {
       "id": "shambhala-third-karmapa-tib6-14",
@@ -4477,7 +4678,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Rangjung_Dorje.jpg/330px-Rangjung_Dorje.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/3rd_Karmapa%2C_Rangjung_Dorje"
+      }
     },
     {
       "id": "shambhala-thrangu-rinpoche-tib4-15",
@@ -4578,7 +4784,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/17th_Karmapa_performs_Long_Life_Offering_to_Kenchen_Thrangu_Rinpoche.jpg/330px-17th_Karmapa_performs_Long_Life_Offering_to_Kenchen_Thrangu_Rinpoche.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Thrangu_Rinpoche"
+      }
     },
     {
       "id": "shambhala-tsongkhapa-tib10-25",
@@ -4675,7 +4886,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg/330px-Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Je_Tsongkhapa"
+      }
     },
     {
       "id": "shambhala-tulku-thondup-rinpoche-tib11-18",
@@ -4874,7 +5090,12 @@
             }
           ]
         }
-      ]
+      ],
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Indian_Adept_%28siddha%29_-_Virupa_16_century_Private_coll..jpg/330px-Indian_Adept_%28siddha%29_-_Virupa_16_century_Private_coll..jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Vir%C5%ABpa"
+      }
     }
   ],
   "monthlyPracticeDays": []

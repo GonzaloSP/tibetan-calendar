@@ -18,10 +18,17 @@ export type PracticeType =
   | "PARINIRVANA"
   | "OTHER";
 
+export type PracticeImage = {
+  url: string;
+  creditEs: string;
+  creditUrl?: string;
+};
+
 export type Practice = {
   type: PracticeType;
   name: string;
   description: string;
+  image?: PracticeImage;
 };
 
 export type ImportantDatesData = {
@@ -35,6 +42,7 @@ export type ImportantDatesData = {
       | { calendar: "gregorian"; month: number; day: number }
       | { calendar: "tibetan-lunar"; tibMonth: number; tibDay: number };
     description: string;
+    photo?: PracticeImage;
     alsoAdds?: Practice[];
   }>;
   monthlyPracticeDays: Array<{

@@ -10,7 +10,8 @@ import {
   Heart,
   ScrollText,
 } from "lucide-react";
-import type { TibetanDate } from "../lib/types";
+import { useMemo, useState } from "react";
+import type { TibetanDate, PracticeImage } from "../lib/types";
 import { formatTibetanDate } from "../lib/tibetan";
 import { getPracticesForDate, practiceBadgeColor } from "../lib/practices";
 
@@ -33,6 +34,64 @@ function iconForType(type: string) {
     default:
       return <CalendarDays className="h-4 w-4" />;
   }
+}
+
+function PracticeBody(props: { description: string; image?: PracticeImage }) {
+  const { description, image } = props;
+  const [imgOk, setImgOk] = useState(true);
+
+  const paragraphs = useMemo(() => {
+    return (description || '')
+      .split("\n\n")
+      .map((p) => p.trim())
+      .filter(Boolean);
+  }, [description]);
+
+  return (
+    <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
+      {image?.url && imgOk ? (
+        <div className="mb-3">
+          <div className="text-[11px] text-ink-800/60">
+            {image.creditEs}
+            {image.creditUrl ? (
+              <>
+                {" "}
+                <a
+                  href={image.creditUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="underline"
+                >
+                  (ver fuente)
+                </a>
+              </>
+            ) : null}
+          </div>
+          <img
+            src={image.url}
+            alt=""
+            loading="lazy"
+            className="mt-1 w-full max-w-[360px] rounded-xl border border-black/10"
+            onError={() => setImgOk(false)}
+          />
+        </div>
+      ) : null}
+
+      {paragraphs.map((para, i) => {
+        const lines = para.split("\n");
+        return (
+          <p key={i}>
+            {lines.map((line, j) => (
+              <span key={j}>
+                {line}
+                {j < lines.length - 1 ? <br /> : null}
+              </span>
+            ))}
+          </p>
+        );
+      })}
+    </div>
+  );
 }
 
 function labelForType(type: string) {
@@ -131,23 +190,7 @@ export function DayDetails(props: {
                   </span>
                 </div>
 
-                <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
-                  {p.description
-                    .split("\n\n")
-                    .map((para, i) => {
-                      const lines = para.split("\n");
-                      return (
-                        <p key={i}>
-                          {lines.map((line, j) => (
-                            <span key={j}>
-                              {line}
-                              {j < lines.length - 1 ? <br /> : null}
-                            </span>
-                          ))}
-                        </p>
-                      );
-                    })}
-                </div>
+                <PracticeBody description={p.description} image={p.image} />
               </motion.div>
             ))}
           </div>
