@@ -3,7 +3,8 @@
   "source": {
     "repo": "https://github.com/christiansteinert/TibetanBuddhistPracticeDates",
     "extractedFrom": "src/main/java/de/christian_steinert/practice_dates/practicedates/dates_service/PracticeDatesService.java",
-    "extractionDate": "2026-02-13"
+    "extractionDate": "2026-02-13",
+    "extractedTibetanNamesAt": "2026-02-19T19:16:15.906Z"
   },
   "notes": [
     "Este archivo captura las observancias del calendario lunar tibetano basadas en reglas, codificadas en PracticeDatesService.getPractices().",
@@ -33,10 +34,11 @@
         "month": 7,
         "day": 6
       },
-      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.\n\nDetalles:\n- Nombre tibetano: འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)",
+      "description": "El 6 de julio es el cumpleaños de Su Santidad el 14.º Dalai Lama.\n\nDetalles:\n- Nacimiento (greg.): 1935-07-06\n- Lugar de nacimiento: Taktser, Amdo (noreste del Tíbet)",
       "conditions": {
         "onlyIfNotSkippedTibetanDay": true
-      }
+      },
+      "tibetanName": "འཇམ་དཔལ་ངག་དབང་བློ་བཟང་ཡེ་ཤེས་བསྟན་འཛིན་རྒྱ་མཚོ།"
     },
     {
       "id": "tibetan-new-year",
@@ -49,8 +51,12 @@
       },
       "description": "Inicio del nuevo año tibetano. Durante los primeros quince días se celebran quince ‘Días de los Milagros’, que conmemoran quince milagros que el Buda realizó.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       }
     },
     {
@@ -64,8 +70,12 @@
       },
       "description": "El día quince del nuevo año tibetano es la culminación de los quince ‘Días de los Milagros’, que conmemoran quince milagros que se dice que el Buda realizó. El Día de los Milagros es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       },
       "alsoAdds": [
         {
@@ -86,8 +96,12 @@
       },
       "description": "Celebración del nacimiento, la iluminación y el paranirvana del Buda (Saka Dawa Düchen). Saka Dawa es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       }
     },
     {
@@ -101,8 +115,12 @@
       },
       "description": "Celebración del primer ‘giro de la rueda del Dharma’ del Buda (Chökhor Düchen). En este día se celebra la primera enseñanza del Buda. Chökhor Düchen es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       },
       "alsoAdds": [
         {
@@ -123,8 +141,12 @@
       },
       "description": "Celebración del descenso del Buda desde el reino divino de Tushita (Lhabab Düchen), después de que el Buda enseñara el Dharma allí a su madre. Lhabab Düchen es una de las cuatro festividades tibetanas importantes relacionadas con el Buda.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       },
       "alsoAdds": [
         {
@@ -145,8 +167,12 @@
       },
       "description": "El día 25 del décimo mes lunar tibetano se conmemora el parinirvana de Je Tsongkhapa.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       }
     },
     {
@@ -160,16 +186,27 @@
       },
       "description": "El día 15 del quinto mes lunar tibetano se celebra la domesticación de deidades locales tibetanas por Padmasambhava y la fundación del monasterio de Samye, el primer monasterio budista del Tíbet.",
       "conditions": {
-        "monthFlagNot": [2],
-        "doubleDayFlagNot": [1]
+        "monthFlagNot": [
+          2
+        ],
+        "doubleDayFlagNot": [
+          1
+        ]
       }
     }
   ],
   "monthlyPracticeDays": [
     {
       "id": "day-8",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 8 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 8
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "TARA",
@@ -188,7 +225,9 @@
           "exceptWhen": [
             {
               "tibMonth": 1,
-              "monthFlagNot": [2]
+              "monthFlagNot": [
+                2
+              ]
             }
           ]
         }
@@ -196,8 +235,15 @@
     },
     {
       "id": "day-10-tsog",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 10 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 10
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "TSOG",
@@ -205,7 +251,9 @@
           "description": "Ofrenda de tsog (Daka Tsog). El décimo día de cada mes tibetano es uno de los dos días del mes en los que deberían realizarse ofrendas de tsog.",
           "specialCases": [
             {
-              "when": { "tibMonth": 12 },
+              "when": {
+                "tibMonth": 12
+              },
               "nameOverride": "Tsog (Tsog especial de Heruka)",
               "descriptionOverride": "Ofrenda de tsog (Daka Tsog). El décimo día de cada mes tibetano es uno de los dos días del mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 10 del mes 12 tibetano se considera uno de los dos días de tsog más importantes de todo el año. (En algunos años el mes 12 puede duplicarse; la app de origen agrega un texto de advertencia en ese caso.)"
             }
@@ -215,8 +263,15 @@
     },
     {
       "id": "day-15-full-moon",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 15 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 15
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "MOON",
@@ -235,7 +290,9 @@
           "exceptWhen": [
             {
               "tibMonth": 1,
-              "monthFlagNot": [2]
+              "monthFlagNot": [
+                2
+              ]
             }
           ]
         }
@@ -243,8 +300,15 @@
     },
     {
       "id": "day-25-tsog",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 25 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 25
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "TSOG",
@@ -252,7 +316,9 @@
           "description": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog.",
           "specialCases": [
             {
-              "when": { "tibMonth": 11 },
+              "when": {
+                "tibMonth": 11
+              },
               "nameOverride": "Tsog (Tsog especial de Vajrayogini)",
               "descriptionOverride": "Ofrenda de tsog (Dakini Tsog). El día veinticinco de cada mes tibetano es uno de los dos días por mes en los que deberían realizarse ofrendas de tsog. La ofrenda de tsog del día 25 del mes 11 tibetano se considera uno de los dos días de tsog más importantes de todo el año."
             }
@@ -262,8 +328,15 @@
     },
     {
       "id": "day-29-protector",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 29 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 29
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "PROTECTOR_PUJA",
@@ -274,8 +347,15 @@
     },
     {
       "id": "day-30-new-moon",
-      "rule": { "calendar": "tibetan-lunar", "tibDay": 30 },
-      "conditions": { "doubleDayFlagNot": [1] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibDay": 30
+      },
+      "conditions": {
+        "doubleDayFlagNot": [
+          1
+        ]
+      },
       "practices": [
         {
           "type": "MOON",
@@ -291,8 +371,19 @@
     },
     {
       "id": "first-15-days-precepts",
-      "rule": { "calendar": "tibetan-lunar", "tibMonth": 1, "tibDayRange": { "min": 1, "max": 15 } },
-      "conditions": { "monthFlagNot": [2] },
+      "rule": {
+        "calendar": "tibetan-lunar",
+        "tibMonth": 1,
+        "tibDayRange": {
+          "min": 1,
+          "max": 15
+        }
+      },
+      "conditions": {
+        "monthFlagNot": [
+          2
+        ]
+      },
       "practices": [
         {
           "type": "PRECEPTS",
