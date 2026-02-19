@@ -18,7 +18,8 @@
     "filledMissingPhotosAt": "2026-02-19T19:27:35.853Z",
     "filledMissingPhotosManualAt": "2026-02-19T19:28:28.351Z",
     "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z",
-    "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z"
+    "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z",
+    "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -1325,9 +1326,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/PenorRinpoche.jpg/330px-PenorRinpoche.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Penor_Rinpoche"
+        "url": "https://www.rigpawiki.org/images/1/1d/Gyatrul_Rinpoche2.png",
+        "creditEs": "Créditos: Rigpa Wiki (cortesía de Vimala Treasures)",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche"
       }
     },
     {
