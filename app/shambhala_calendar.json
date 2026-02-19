@@ -1,0 +1,2520 @@
+{
+  "source": {
+    "page": "https://www.shambhala.com/tibetan-lunar-calendar/",
+    "provider": "Styled Calendar embed",
+    "styledCalendarId": "ex8kJGX52Po3e1s7y4Mc",
+    "fetchedAt": "2026-02-19T07:20:43.166Z",
+    "apiUrl": "https://embed.styledcalendar.com/api/get-styled-calendar-events-data/?styledCalendarId=ex8kJGX52Po3e1s7y4Mc",
+    "cleanedAt": "2026-02-19T07:45:17.238Z",
+    "notes": [
+      "Removed Shambhala-specific references and URLs from titles/descriptions.",
+      "Added flags.teacherAnniversary + computed tibetanLunar date for teacher anniversaries (based on 2026 start date)."
+    ]
+  },
+  "entries": [
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0ok1h1qdbtkasm18tqn5pi5pcj",
+        "title": "15th Day - Full Moon Buddha Day",
+        "start": "2026-01-03",
+        "end": "2026-01-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon Buddha Day",
+      "titleEs": "Día 15 - Luna llena Día de Buda",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7id4fg70iha704vh5kluhnltc4",
+        "title": "Anniversary of Tulku Thondup Rinpoche (Lunar Calendar)",
+        "start": "2026-01-06",
+        "end": "2026-01-07",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Tulku Thondup Rinpoche (the date according to the western calendar is December 29th).",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Tulku Thondup Rinpoche (Lunar Calendar)",
+      "titleEs": "Aniversario de Tulku Thondup Rinpoche (calendario lunar)",
+      "descriptionEn": "The anniversary of Tulku Thondup Rinpoche (the date according to the western calendar is December 29th).",
+      "descriptionEs": "El aniversario de Tulku Thondup Rinpoche (the date según el calendario occidental is December 29th).",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 39,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 18,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1s28q3f3jljituv95nhfk1rbt5",
+        "title": "25th: Dakini Day",
+        "start": "2026-01-13",
+        "end": "2026-01-14",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th: Dakini Day",
+      "titleEs": "Día 25: Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7780kp2tpe2hv7epcl0l83lpfb",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-01-28",
+        "end": "2026-01-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "111aovu529mentf97m2s6j24ls",
+        "title": "15th Day - Full Moon Buddha Day",
+        "start": "2026-02-01",
+        "end": "2026-02-02",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon Buddha Day",
+      "titleEs": "Día 15 - Luna llena Día de Buda",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "730nbll1osmbku0otm11gohn6f",
+        "title": "25th: Dakini Day",
+        "start": "2026-02-11",
+        "end": "2026-02-12",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th: Dakini Day",
+      "titleEs": "Día 25: Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "73tgdf95jhk393hpi14cnvdqgt",
+        "title": "Gutor Day",
+        "start": "2026-02-16",
+        "end": "2026-02-17",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "attachments": [],
+          "description": ""
+        }
+      },
+      "titleEn": "Gutor Day",
+      "titleEs": "Día de Gutor",
+      "descriptionEn": "",
+      "descriptionEs": "",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1r7p7q0epotmparqvep1g1caik",
+        "title": "Cleaning Day",
+        "start": "2026-02-17",
+        "end": "2026-02-18",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "attachments": [],
+          "description": ""
+        }
+      },
+      "titleEn": "Cleaning Day",
+      "titleEs": "Día de limpieza",
+      "descriptionEn": "",
+      "descriptionEs": "",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "76hpgo6ncamcpu0l67pskbr32a",
+        "title": "Losar - The Year of the Fire Horse",
+        "start": "2026-02-18",
+        "end": "2026-02-19",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "attachments": [],
+          "description": ""
+        }
+      },
+      "titleEn": "Losar - The Year of the Fire Horse",
+      "titleEs": "Losar — Año del Caballo de Fuego",
+      "descriptionEn": "",
+      "descriptionEs": "",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6867sfi412ti6hni5mfv48dr9a",
+        "title": "Anniversary of Khenpo Shenga",
+        "start": "2026-02-22",
+        "end": "2026-02-23",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Khenpo Shenga",
+      "titleEs": "Aniversario de Khenpo Shenga",
+      "descriptionEn": "The anniversary of Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
+      "descriptionEs": "El aniversario de Khenpo Shenga (1871-1927). His commentaries on the classic Indian Buddhist treatises have become the core curriculum in numerous monastic colleges throughout Tibet and South Asia.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 5,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4prvtgp1rl8hbcmduqlm9i9f3b",
+        "title": "Anniversary of Rigdzin Kunzang Sherab",
+        "start": "2026-02-22",
+        "end": "2026-02-23",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Rigdzin Kunzang Sherab",
+      "titleEs": "Aniversario de Rigdzin Kunzang Sherab",
+      "descriptionEn": "The anniversary of Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
+      "descriptionEs": "El aniversario de Rigdzin Kunzang Sherab (1636-1699) a central figure in the Namcho lineage of the Nyingma tradition and author of the exquisite ngondro commentary featured in Karma Chagmes Sky Dharma.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 5,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5aq4o4itha4p840601o63is4g0",
+        "title": "10th Day - Guru Rinpoche",
+        "start": "2026-02-26",
+        "end": "2026-02-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche",
+      "titleEs": "Día 10 - Guru Rinpoche",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2uhhv35slc8qv80u9snkmb09b4",
+        "title": "Anniversay of Terton Sogyal",
+        "start": "2026-02-26",
+        "end": "2026-02-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversay of Terton Sogyal",
+      "titleEs": "Aniversario de Terton Sogyal",
+      "descriptionEn": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
+      "descriptionEs": "The anniversery of Terton Sogyal (1856-1926). He is discussed in many of our books including The Life and Times of Jamyang Khyentse Chokyi Lodro which related the following:Of Chokyi Lodros many gurus one of the most important was Terton Sogyal. After Patrul Rinpoche passed away Terton Sogyal became a student of Khyentse Wangpo from whom he received many empowerments reading transmissions and pith instructions. Khyentse Wangpo teased and scolded Terton Sogyal a great deal; he hardly ever praised him. After the great terton had moved to Nyakrong where he established his monastery Khyentse Wangpo started calling him Nyakrong Nakrama-dreadlocked black man from Nyakrong. (I think he called him Nakrama because Terton Sogyal had such a dark complexion.) For the majority of his life Terton Sogyal traveled freely around the country as a wandering ascetic. Khyentse Wangpo by contrast directed a vast number of activities and held a position that brought with it enormous merit power and wealth. Yet he too signed many of his writings Manjugosha the Wanderer. Terton Sogyal couldnt understand it at all. Eventually he asked Khyentse Wangpo directly how he of all people could truly describe himself as a wanderer. Its not something you will understand right now replied Khyentse Wangpo. Go to central Tibet towards the end of your life. Then youll understand. As things turned out Terton Sogyal did eventually go to Lhasa. It was there that he became the guru of many of Tibets highest lamas including His Holiness Thubten Gyatso the Thirteenth Dalai Lama and preceptor of the Tibetan government. As Khyentse Wangpo had predicted in the midst of his new and very busy schedule the great terton came to realize how Khyentse Wangpo had truthfully been able to describe himself as a lifelong wanderer and ascetic. In spite of all his responsibilities Khyentse Wangpo had always practiced the Dharma and never indulged in the games worldly people play. For example he never even attempted to be tactful or politically shrewd yet he was held in the highest esteem by great masters scholars members of the aristocracy politicians and the rich. As a result of this realization Terton Sogyal developed even greater confidence in him. I dont know the details or fully understand why but at one of Khyentse Wangpos seats broken samaya caused Terton Sogyal to become so ill that he could barely move. Chokyi Lodro immediately He instructed Dzongsar Monastery to recite Samayavajra and many hundred thousand Vajrasattva mantras promising offerings for the recitations from the donations he collected. He made more offerings to the very best Dzongsar monks asking them to accumulate one hundred thousand Vajrasattva mantras each and even recited a large number himself. As a result Terton Sogyal recovered completely and is known to have declared that he owed Chokyi Lodro a tremendous debt of gratitude. Chokyi Lodro always said that Terton Sogyal was one of his root gurus. They were very close.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7qjopjg73e8o92uudl3dljijfj",
+        "title": "Anniversary of the First Dodrubchen Rinpoche",
+        "start": "2026-03-01",
+        "end": "2026-03-02",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of the First Dodrubchen Rinpoche",
+      "titleEs": "Aniversario del First Dodrubchen Rinpoche",
+      "descriptionEn": "The anniversary of the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
+      "descriptionEs": "El aniversario de the First Dodrubchen Rinpoche. More info can be read in Tulku Thondups Masters of meditation and Miracles",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 13,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2f46qvjdt5rdd8gfajbt7qbnjt",
+        "title": "Anniversary of Milarepa",
+        "start": "2026-03-02",
+        "end": "2026-03-03",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Milarepa. our guide for Readers about this saint from Tibet:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Milarepa",
+      "titleEs": "Aniversario de Milarepa",
+      "descriptionEn": "The anniversary of Milarepa. our guide for Readers about this saint from Tibet:",
+      "descriptionEs": "El aniversario de Milarepa. our guide for Readers about this saint from Tibet:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 14,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "528lqqb6d25fl4vuk7hhu6kr1u",
+        "title": "15th Day - Full Moon",
+        "start": "2026-03-03",
+        "end": "2026-03-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "_8d9lcgrfdpr6asjk6osj6d3674o32dj36sr32dj1cgr32ohj6dgmcoj161h30d366cr0",
+        "title": "Anniversary of Marpa",
+        "start": "2026-03-03",
+        "end": "2026-03-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Marpa",
+      "titleEs": "Aniversario de Marpa",
+      "descriptionEn": "The anniversary of Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
+      "descriptionEs": "El aniversario de Marpa. our biography of this great Kagyu master. our Reader Guide to him here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 15,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1fsn7sr431jvtcisar3vimopp4",
+        "title": "The Birth of Garab Dorje",
+        "start": "2026-03-03",
+        "end": "2026-03-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The birth of Garab Dorje one of the principal figures in the Dzogchen tradition.",
+          "attachments": []
+        }
+      },
+      "titleEn": "The Birth of Garab Dorje",
+      "titleEs": "Nacimiento de Garab Dorje",
+      "descriptionEn": "The birth of Garab Dorje one of the principal figures in the Dzogchen tradition.",
+      "descriptionEs": "The nacimiento of Garab Dorje one of the principal figures in the Dzogchen tradition.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7g41iqvbcpqf9rpj2botjsi43p",
+        "title": "Anniversary of Jamyang Khyentse Wangpo",
+        "start": "2026-03-09",
+        "end": "2026-03-10",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Jamyang Khyentse Wangpo.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jamyang Khyentse Wangpo",
+      "titleEs": "Aniversario de Jamyang Khyentse Wangpo",
+      "descriptionEn": "The anniversary of Jamyang Khyentse Wangpo.",
+      "descriptionEs": "El aniversario de Jamyang Khyentse Wangpo.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 1,
+        "isLeapMonth": false,
+        "tibDay": 21,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4i50met00rrakbk0cdre5dcm44",
+        "title": "25th Day - Dakini Day",
+        "start": "2026-03-13",
+        "end": "2026-03-14",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th Day - Dakini Day",
+      "titleEs": "Día 25 - Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6o99lgt7a9v8qcv6nvq6ja65dd",
+        "title": "Anniversary of Penor Rinpoche",
+        "start": "2026-03-19",
+        "end": "2026-03-20",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. According to the western calendar the date was March 25th.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Penor Rinpoche",
+      "titleEs": "Aniversario de Penor Rinpoche",
+      "descriptionEn": "The anniversary of Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. According to the western calendar the date was March 25th.",
+      "descriptionEs": "El aniversario de Penor Rinpoche. and for the Namcho and Payul traditions This is according to the Tibetan calendar. según el calendario occidental the date was March 25th.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 1,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0u9s96u92tl8rkgl4frqgqkk6g",
+        "title": "Anniversary of Terdak Lingpa",
+        "start": "2026-03-20",
+        "end": "2026-03-21",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Terdak Lingpa",
+      "titleEs": "Aniversario de Terdak Lingpa",
+      "descriptionEn": "The anniversary of the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
+      "descriptionEs": "El aniversario de the great terton teacher and student of the Fifth Dalai Lama and founder of Mindroling Orgyen Terdak Lingpa (1646-1714). What follows is a short biofrom The Autobiography of Jamgon Kongtrul (Orgyen Terdak Lingpa was also known as Pema Garwang Gyurme Dorje. He was born into the clan of Ny- in which an uninterrupted succession of vajra holders appeared. His noble father was Sangdak Thrinley Lhundrup. Terdak Lingpa studied with more that thirty tutors including the great Fifth Dalai Lama and from these masters he received the general range of kama and terma teachings of both the old and new schools of Tibetan Buddhism; in particular he underwent various hardships to receive some very fragile transmissions. He pursued his meditation and spiritual practice to such a consummate limit that his realization flourished in conjunction with the four levels of empowerment and he reached an advanced state of accomplishment. At Sha-uk Takpo Terdak Lingpa brought forth some five terma cycles the most important being The Gathering of Sugatas and practiced them in the proper manner. Due to both his own wishes and the encouragement of others he revivified the spiritual teachings of some minor lineages including the Jonang Shangpa Zhije Chod Bodong and others. In particular with regard to the Early Translation School he composed many excellent works the like of which had never been seen before concerning the sadhana practices mandalas and teaching manuals for the kama tradition primarily those of The Web of Magic The Discourse of United Intent and the Category of Mind and the terma tradition including the former and later cycles of the older termas and his own newer termas. Terdak Lingpa taught on a vast scale giving ripening empowerments and liberating teachings. He also founded the great monastic center of Orgyen Mindroling which became a major wellspring of the theory and practice of the Early Translation School. In such ways Terdak Lingpas activities in spreading the teachings through his teachings practice and spiritual projects were unparalleled. As for his students and the custodians of his teachings these included most of the great gurus famed throughout the Land of Snows the holders of the teachings of the Nyingma tradition in eastern Tibet and the masters living in the main monastic seats. He had so many fine students that it would seem that of all the authentic and venerable lineages of the Early Translation School both its kama and terma traditions there were none that did not stem from this master. The protector Maitreya prophesied to Terdak Lingpa that immediately following that lifetime he would awaken to buddhahood in a pure realm as Pem? Gyenpa Namrol Thay?. On a more general note it is clearly attested to in prophetic termas that Terdak Lingpa was Bairotsana himself and would be the final buddha of the one thousand to appear in this eon the buddha Abhimukta or Vairochana. He was therefore the incredible emanation of a powerful being with mastery of the tenth level of realization.?src=googlecal&rand=30078",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 2,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1qgr961ou9acbm4qp003mn60r6",
+        "title": "Anniversary of Jamyang Shepa",
+        "start": "2026-03-23",
+        "end": "2026-03-24",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "attachments": [],
+          "description": ""
+        }
+      },
+      "titleEn": "Anniversary of Jamyang Shepa",
+      "titleEs": "Aniversario de Jamyang Shepa",
+      "descriptionEn": "",
+      "descriptionEs": "",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 5,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2o3slgmeo9ia3musedecvip2um",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-03-28",
+        "end": "2026-03-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5md17jn5q1p22t1nbb5bbsk851",
+        "title": "Anniversary of Jetsun Drakpa Gyaltsen",
+        "start": "2026-03-30",
+        "end": "2026-03-31",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jetsun Drakpa Gyaltsen",
+      "titleEs": "Aniversario de Jetsun Drakpa Gyaltsen",
+      "descriptionEn": "The anniversary of the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
+      "descriptionEs": "El aniversario de the great Jetsun Drakpa Gyaltsen. Read a commentary on Jetsun Draka Gyaltsens classic Parting from the Four Attachments: and",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 13,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1cp88q5rm42a71lbacct4qt1au",
+        "title": "15th Day - Full Moon",
+        "start": "2026-04-01",
+        "end": "2026-04-02",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "55r05l9pag6qai2vtv6cqdjmfu",
+        "title": "Anniversary of Gyatrul Rinpoche",
+        "start": "2026-04-02",
+        "end": "2026-04-03",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Gyatrul Rinpoche (the date according to the western calendar is April 8th). Read our guide to his works:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Gyatrul Rinpoche",
+      "titleEs": "Aniversario de Gyatrul Rinpoche",
+      "descriptionEn": "The anniversary of Gyatrul Rinpoche (the date according to the western calendar is April 8th). Read our guide to his works:",
+      "descriptionEs": "El aniversario de Gyatrul Rinpoche (the date según el calendario occidental is April 8th). Read our guide to his works:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 16,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6bgraon8mhghge2omom00q3ev2",
+        "title": "Anniversary of Do Khyentse",
+        "start": "2026-04-07",
+        "end": "2026-04-08",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Do Khyentse",
+      "titleEs": "Aniversario de Do Khyentse",
+      "descriptionEn": "The anniversary of the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
+      "descriptionEs": "El aniversario de the great yogi Do Khyentse. To read more about Do Khyentse Tulku Thondup's Masters of Meditation and Miracles or Enlightened Vagabond at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 20,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "14319hpv3udms51i3radpeeibn",
+        "title": "25th,Dakini Day",
+        "start": "2026-04-12",
+        "end": "2026-04-13",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "773li4btj75o710u173qm7cl12",
+        "title": "Anniversary of Taranatha",
+        "start": "2026-04-13",
+        "end": "2026-04-14",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Taranatha",
+      "titleEs": "Aniversario de Taranatha",
+      "descriptionEn": "The anniversary of Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
+      "descriptionEs": "El aniversario de Taranatha. For more on Taranatha our Guide for Readers to this critical master of the Jonang,Sakya Shangpa Kagyu and beyond:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 2,
+        "isLeapMonth": false,
+        "tibDay": 26,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "02kdri9uuhiicklapne7h0ajop",
+        "title": "Anniversary of Kalu Rinpoche",
+        "start": "2026-04-22",
+        "end": "2026-04-23",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Kalu Rinpoche. According to the western calendar the date was May 10th.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Kalu Rinpoche",
+      "titleEs": "Aniversario de Kalu Rinpoche",
+      "descriptionEn": "The anniversary of Kalu Rinpoche. According to the western calendar the date was May 10th.",
+      "descriptionEs": "El aniversario de Kalu Rinpoche. según el calendario occidental the date was May 10th.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 3,
+        "isLeapMonth": false,
+        "tibDay": 6,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "603ksl2fimevpcsg65ii3tdm4k",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-04-26",
+        "end": "2026-04-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3s7qf8s4jqcfbrmfaukkq6utpi",
+        "title": "15th Day - Full Moon",
+        "start": "2026-05-01",
+        "end": "2026-05-02",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "74ruag14ujedu48i19og9crlfl",
+        "title": "Anniversary of Terton Mingyur Dorje",
+        "start": "2026-05-02",
+        "end": "2026-05-03",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Terton Mingyur Dorje",
+      "titleEs": "Aniversario de Terton Mingyur Dorje",
+      "descriptionEn": "The anniversary of Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
+      "descriptionEs": "El aniversario de Terton Mingyur Dorje who revealed the Namcho cycle of Nyingma teachings. His biography is at the heart of Sky Dharma.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 3,
+        "isLeapMonth": false,
+        "tibDay": 16,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4iu03d1h45if1n6uhr1a74mmno",
+        "title": "Anniversary of Khandro Tsering Chodron",
+        "start": "2026-05-11",
+        "end": "2026-05-12",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Khandro Tsering Chodron. This is according to the Tibetan calendar. According to the western calendar the date was May 16th. For more",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Khandro Tsering Chodron",
+      "titleEs": "Aniversario de Khandro Tsering Chodron",
+      "descriptionEn": "The anniversary of Khandro Tsering Chodron. This is according to the Tibetan calendar. According to the western calendar the date was May 16th. For more",
+      "descriptionEs": "El aniversario de Khandro Tsering Chodron. This is according to the Tibetan calendar. según el calendario occidental the date was May 16th. For more",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 3,
+        "isLeapMonth": false,
+        "tibDay": 24,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7el1tsfh05lcdcku9jl5m0bk0i",
+        "title": "25th,Dakini Day",
+        "start": "2026-05-12",
+        "end": "2026-05-13",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7t0f07sdd0p51qqraak5j1c5sk",
+        "title": "Anniversary of The Fifth Dalai Lama",
+        "start": "2026-05-12",
+        "end": "2026-05-13",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of The Fifth Dalai Lama",
+      "titleEs": "Aniversario del Fifth Dalai Lama",
+      "descriptionEn": "The anniversary of the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
+      "descriptionEs": "El aniversario de the Great Fifth Dalai Lama is on Friday May 3. For a wonderful profile",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 3,
+        "isLeapMonth": false,
+        "tibDay": 25,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4hhhvac5klq8ahhe780k5579kr",
+        "title": "Anniversary of Sangye Lingpa",
+        "start": "2026-05-16",
+        "end": "2026-05-17",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Sangye Lingpa one of the great tertons included in many works including these:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Sangye Lingpa",
+      "titleEs": "Aniversario de Sangye Lingpa",
+      "descriptionEn": "The anniversary of Sangye Lingpa one of the great tertons included in many works including these:",
+      "descriptionEs": "El aniversario de Sangye Lingpa one of the great tertons included in many works including these:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 3,
+        "isLeapMonth": false,
+        "tibDay": 30,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0mrhisem44ikh240ak91neui7j",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-05-26",
+        "end": "2026-05-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3ii8mpavh854miabvp18dasgr1",
+        "title": "14th Shamar Rinpoche Anniversary",
+        "start": "2026-05-29",
+        "end": "2026-05-30",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the 14th Shamar Rinpoche. An incredible teaching of his,Instructions on the Fourfold Application of Mindfulness,is included in The Buddha's Gift to the World,.",
+          "attachments": []
+        }
+      },
+      "titleEn": "14th Shamar Rinpoche Anniversary",
+      "titleEs": "14th Shamar Rinpoche Anniversary",
+      "descriptionEn": "The anniversary of the 14th Shamar Rinpoche. An incredible teaching of his,Instructions on the Fourfold Application of Mindfulness,is included in The Buddha's Gift to the World,.",
+      "descriptionEs": "El aniversario de the 14th Shamar Rinpoche. An incredible teaching of his,Instructions on the Fourfold Application of Mindfulness,is included in The Buda's Gift to the World,.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "30h2qk5ok9jp1c6647soir327v",
+        "title": "15th Day - Full moon",
+        "start": "2026-05-31",
+        "end": "2026-06-01",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "_8d9lcgrfdpr6asjkclgm4p9k6kpm4e9i6gq3ae326cs64oj36gq68oj160p68cj270s0",
+        "title": "Saga Dawa",
+        "start": "2026-05-31",
+        "end": "2026-06-01",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Saga Dawa (the Buddhas enlightenment and parinirvana) and the full moon and 15th day of the Tibetan lunar calendar.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Saga Dawa",
+      "titleEs": "Saga Dawa",
+      "descriptionEn": "Saga Dawa (the Buddhas enlightenment and parinirvana) and the full moon and 15th day of the Tibetan lunar calendar.",
+      "descriptionEs": "Saga Dawa (the Buddhas enlightenment and parinirvana) and the Luna llena and 15th day of the Tibetan lunar calendar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "49tu40f23tp00d1onvma91iocr",
+        "title": "Anniversary of Thrangu Rinpoche",
+        "start": "2026-05-31",
+        "end": "2026-06-01",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Thrangu Rinpoche",
+      "titleEs": "Aniversario de Thrangu Rinpoche",
+      "descriptionEn": "The anniversary of Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
+      "descriptionEs": "El aniversario de Thrangu Rinpoche (the western calendar date is June 4th). Learn about this great master here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 4,
+        "isLeapMonth": false,
+        "tibDay": 15,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3qm26136mrqkm9554t1rpol1g1",
+        "title": "Anniversary of Patrul Rinpoche",
+        "start": "2026-06-03",
+        "end": "2026-06-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Patrul Rinpoche. our Readers Guide here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Patrul Rinpoche",
+      "titleEs": "Aniversario de Patrul Rinpoche",
+      "descriptionEn": "The anniversary of Patrul Rinpoche. our Readers Guide here:",
+      "descriptionEs": "El aniversario de Patrul Rinpoche. our Readers Guide here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 4,
+        "isLeapMonth": false,
+        "tibDay": 18,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3aiv2flsodsqdc567nc22fuf16",
+        "title": "Anniversary of Virupa",
+        "start": "2026-06-08",
+        "end": "2026-06-09",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Virupa",
+      "titleEs": "Aniversario de Virupa",
+      "descriptionEn": "The anniversary of Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
+      "descriptionEs": "El aniversario de Virupa. His The Vajra Verses: The Treatise of the Precious Oral Intimate Instruction of the Path with Its Result is included in the first of the pair of Sakya volumes from the Treasury of Precious Instructions (Also or for all books that discuss him",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 4,
+        "isLeapMonth": false,
+        "tibDay": 23,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2ip6f8udau9befhbsjoauoth62",
+        "title": "25th,Dakini Day",
+        "start": "2026-06-10",
+        "end": "2026-06-11",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1hnd663q4ktj9trchrdj150a4a",
+        "title": "Anniversary of Jigten Sumgon",
+        "start": "2026-06-10",
+        "end": "2026-06-11",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the Drikung Kagyu founder Jigten Sumgon.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jigten Sumgon",
+      "titleEs": "Aniversario de Jigten Sumgon",
+      "descriptionEn": "The anniversary of the Drikung Kagyu founder Jigten Sumgon.",
+      "descriptionEs": "El aniversario de the Drikung Kagyu founder Jigten Sumgon.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 4,
+        "isLeapMonth": false,
+        "tibDay": 25,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1s7iu1l06u26ddl5fglof7h98o",
+        "title": "Anniversary of Mipham Rinpoche",
+        "start": "2026-06-14",
+        "end": "2026-06-15",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buddha Puja (Treasure of Blessings of the Ritual of Buddha) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Mipham Rinpoche",
+      "titleEs": "Aniversario de Mipham Rinpoche",
+      "descriptionEn": "The anniversary of Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buddha Puja (Treasure of Blessings of the Ritual of Buddha) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
+      "descriptionEs": "El aniversario de Mipham Rinpoche. our Guide for Readers profiling nearly 30 books by or about him. For practicing on this day consider Buda Puja (Treasure of Blessings of the Ritual of Buda) or Shower of Blessings (Rain of Blessings: Guru Yoga in Connection with the Seven-Line Prayer) in Thinley Norbu Rinpoches Sunlight Speech?src=googlecal&rand=79063",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 4,
+        "isLeapMonth": false,
+        "tibDay": 29,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "543aficp2rcnq1bst7ifp1odav",
+        "title": "Anniversary of Chogyur Lingpa",
+        "start": "2026-06-16",
+        "end": "2026-06-17",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Chogyur Lingpa. our profile and resource guide here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Chogyur Lingpa",
+      "titleEs": "Aniversario de Chogyur Lingpa",
+      "descriptionEn": "The anniversary of Chogyur Lingpa. our profile and resource guide here:",
+      "descriptionEs": "El aniversario de Chogyur Lingpa. our profile and resource guide here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 5,
+        "isLeapMonth": false,
+        "tibDay": 1,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4de4o8e3f6d54c5mekf73o13ah",
+        "title": "Anniversary of Jamyang Khyentse Chokyi Lodro",
+        "start": "2026-06-20",
+        "end": "2026-06-21",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Jamyang Khyentse Chokyi Lodro. his incredible biography at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jamyang Khyentse Chokyi Lodro",
+      "titleEs": "Aniversario de Jamyang Khyentse Chokyi Lodro",
+      "descriptionEn": "The anniversary of Jamyang Khyentse Chokyi Lodro. his incredible biography at",
+      "descriptionEs": "El aniversario de Jamyang Khyentse Chokyi Lodro. his incredible biography at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 5,
+        "isLeapMonth": false,
+        "tibDay": 6,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2cl8rp91fphjh9incoghfdl0p3",
+        "title": "Khenpo Tsultrim Gyamtso Anniversary",
+        "start": "2026-06-22",
+        "end": "2026-06-23",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "",
+          "attachments": []
+        }
+      },
+      "titleEn": "Khenpo Tsultrim Gyamtso Anniversary",
+      "titleEs": "Khenpo Tsultrim Gyamtso Anniversary",
+      "descriptionEn": "",
+      "descriptionEs": "",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2n5u0earn62nu8h6o9o8ehtdaa",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-06-24",
+        "end": "2026-06-25",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7t27oc2lac8hrq18fdrqcrjdci",
+        "title": "15th Day - Full Moon",
+        "start": "2026-06-29",
+        "end": "2026-06-30",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "_8d9lcgrfdpr6asjk6gr3adb369h6cor674rm4cr36opj6d1j65h62chl74oj4dho6gq0",
+        "title": "Anniversary of Shechen Gyaltsap",
+        "start": "2026-07-03",
+        "end": "2026-07-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Shechen Gyaltsap",
+      "titleEs": "Aniversario de Shechen Gyaltsap",
+      "descriptionEn": "The anniversary of Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
+      "descriptionEs": "El aniversario de Shechen Gyaltsap sometimes imprecisely referred to as The Fourth Shechen Gyaltsap. our Guide for Readers here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 5,
+        "isLeapMonth": false,
+        "tibDay": 18,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6red8opir36dqanvsohgf28ntt",
+        "title": "Anniversary of Khenpo Ngakchung",
+        "start": "2026-07-04",
+        "end": "2026-07-05",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Khenpo Ngakchung",
+      "titleEs": "Aniversario de Khenpo Ngakchung",
+      "descriptionEn": "The anniversary of Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
+      "descriptionEs": "El aniversario de Khenpo Ngakchung Chatral Rinpoches teacher and of the true greats. for his autobiography.?src=googlecal&rand=6747",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 5,
+        "isLeapMonth": false,
+        "tibDay": 19,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "14s4b1lthbf1boqv42ukbe10vf",
+        "title": "25th Day Observed,Dakini Day",
+        "start": "2026-07-10",
+        "end": "2026-07-11",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "There is 25th,so observing on thee 26th this month. The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th Day Observed,Dakini Day",
+      "titleEs": "Día 25 Observed,Dakini Día",
+      "descriptionEn": "There is 25th,so observing on thee 26th this month. The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "There is 25th,so observing on thee 26th this month. The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6lgpqcgk09aubh00r5sfemam77",
+        "title": "Chokhor Duchen",
+        "start": "2026-07-18",
+        "end": "2026-07-19",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Chokhor Duchen,the Buddhas first teaching. Chokhor Duchen.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Chokhor Duchen",
+      "titleEs": "Chokhor Duchen",
+      "descriptionEn": "Chokhor Duchen,the Buddhas first teaching. Chokhor Duchen.",
+      "descriptionEs": "Chokhor Duchen,the Buddhas first teaching. Chokhor Duchen.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1ga0i8l9s79cfig4eieoraqkrs",
+        "title": "Birthday of His Holiness Chetsang Rinpoche",
+        "start": "2026-07-18",
+        "end": "2026-07-19",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Friday July 21st is the birthday of His Holiness Chetsang Rinpoche: His Holiness birthday is the 4th day of the 6th month and according to the Western calendar is August 1st. Read his full biography here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Birthday of His Holiness Chetsang Rinpoche",
+      "titleEs": "Birthday of His Holiness Chetsang Rinpoche",
+      "descriptionEn": "Friday July 21st is the birthday of His Holiness Chetsang Rinpoche: His Holiness birthday is the 4th day of the 6th month and according to the Western calendar is August 1st. Read his full biography here:",
+      "descriptionEs": "Friday July 21st is the birthday of His Holiness Chetsang Rinpoche: His Holiness birthday is the 4th day of the 6th month and según el calendario occidental is August 1st. Read his full biography here:",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5t97defg7immcea6udm1vnl2th",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-07-24",
+        "end": "2026-07-25",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7u68mdsvu1nl7jsrf2p5tgah08",
+        "title": "Anniversary of the Third Karmapa",
+        "start": "2026-07-28",
+        "end": "2026-07-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of the Third Karmapa",
+      "titleEs": "Aniversario del Third Karmapa",
+      "descriptionEn": "The anniversary of the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
+      "descriptionEs": "El aniversario de the Third Karmapa Rangjung Dorje. our biography of him here: Note this is according to the Phugpa system whereas Rangjung Dorje likely used the less-used Tsurphu calendar",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 6,
+        "isLeapMonth": false,
+        "tibDay": 14,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7k1sc4445tfrufg1avtlosaudu",
+        "title": "15th Day - Full Moon",
+        "start": "2026-07-29",
+        "end": "2026-07-30",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "581s1o6j2umfac6adh91bct5kd",
+        "title": "Anniversary of Gampopa",
+        "start": "2026-07-29",
+        "end": "2026-07-30",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Gampopa. Find many book by or about him at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Gampopa",
+      "titleEs": "Aniversario de Gampopa",
+      "descriptionEn": "The anniversary of Gampopa. Find many book by or about him at",
+      "descriptionEs": "El aniversario de Gampopa. Find many book by or about him at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 6,
+        "isLeapMonth": false,
+        "tibDay": 15,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2fe8kjagatgsbs3ho15a376v0o",
+        "title": "25th,Dakini Day",
+        "start": "2026-08-08",
+        "end": "2026-08-09",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0bmveq3ql4j7hgscjr6q04rjp6",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-08-22",
+        "end": "2026-08-23",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5b9nmcq2objbchrbcpc3m2g9b3",
+        "title": "Anniversary of Pema Karpo",
+        "start": "2026-08-27",
+        "end": "2026-08-28",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The Drukpa Kagyu master Pema Karpos anniversary is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Pema Karpo",
+      "titleEs": "Aniversario de Pema Karpo",
+      "descriptionEn": "The Drukpa Kagyu master Pema Karpos anniversary is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
+      "descriptionEs": "The Drukpa Kagyu master Pema Karpos aniversario is on the fifteenth day of the seventh month. Four of his works are included in the Supreme Siddhi of Mahamudra: Teachings Poems and Songs of the Drukpa Kagyu Lineage (including Notes on Mahamudra Six Cycles of Equal Taste Distinguishing the Four Yogas with Certainty and Pointing Out the Sublime Essential Meaning.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 7,
+        "isLeapMonth": false,
+        "tibDay": 14,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "465jgktvtkkcqmv4k6bp7sqp5g",
+        "title": "15th Day - Full Moon",
+        "start": "2026-08-28",
+        "end": "2026-08-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "30ksgdqilbm2915n0311d3shtp",
+        "title": "25th,Dakini Day",
+        "start": "2026-09-06",
+        "end": "2026-09-07",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6fesq6l06ec4jeh9r4i1qmrspp",
+        "title": "Anniversary of Pakmodrukpa",
+        "start": "2026-09-06",
+        "end": "2026-09-07",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Pakmodrukpa",
+      "titleEs": "Aniversario de Pakmodrukpa",
+      "descriptionEn": "The anniversary of Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
+      "descriptionEs": "El aniversario de Pakmodrukpa the founder of the eight lesser Kagyu schools enumerated in Jamgon Kongtruls Treasury of Knowledge especially book 8 part 4: A brief biography of Phakmodrukpa is included in Wondrous Ocean of Eloquence:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 7,
+        "isLeapMonth": false,
+        "tibDay": 25,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6h3itur6ec6vlp3887hgurerp9",
+        "title": "10th Day Guru Rinpoche Day",
+        "start": "2026-09-21",
+        "end": "2026-09-22",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day Guru Rinpoche Day",
+      "titleEs": "Día 10 Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4s5vor2m100ebf7b0dli3nbr0i",
+        "title": "15th Day - Full Moon",
+        "start": "2026-09-26",
+        "end": "2026-09-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "12htsvueep37lj3074gh4k2tuf",
+        "title": "Anniversary of Dilgo Khyenytse Rinpoche",
+        "start": "2026-09-30",
+        "end": "2026-10-01",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Dilgo Khyenytse Rinpoche",
+      "titleEs": "Aniversario de Dilgo Khyenytse Rinpoche",
+      "descriptionEn": "The anniversary of Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
+      "descriptionEs": "El aniversario de Dilgo Khyentse Rinpoche falls on the 19th day of the 8th month. Please enjoy our Readers guide to Rinpoches works at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 8,
+        "isLeapMonth": false,
+        "tibDay": 19,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5dnq20jvglo1bf45k0lj1iqnqg",
+        "title": "25th,Dakini Day",
+        "start": "2026-10-05",
+        "end": "2026-10-06",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6h0ip9njg5g45pcdgv3sof5eor",
+        "title": "Anniversary of Rigdzin Kumarazda",
+        "start": "2026-10-05",
+        "end": "2026-10-06",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Rigdzin Kumaradza,the teacher of Longchenpa.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Rigdzin Kumarazda",
+      "titleEs": "Aniversario de Rigdzin Kumarazda",
+      "descriptionEn": "The anniversary of Rigdzin Kumaradza,the teacher of Longchenpa.",
+      "descriptionEs": "El aniversario de Rigdzin Kumaradza,the teacher of Longchenpa.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 8,
+        "isLeapMonth": false,
+        "tibDay": 25,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4vrlu1q93ae8nuqrn5vgq0bhlk",
+        "title": "Anniversary of Jigme Lingpa",
+        "start": "2026-10-13",
+        "end": "2026-10-14",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Jigme Lingpas anniversary falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jigme Lingpa",
+      "titleEs": "Aniversario de Jigme Lingpa",
+      "descriptionEn": "Jigme Lingpas anniversary falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
+      "descriptionEs": "Jigme Lingpas aniversario falls on the 3rd day of the ninth month. our Reader Guide to the works of Jigme Lingpa for a rich set of texts to explore one of the most important figures of Tibetan Buddhism.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 9,
+        "isLeapMonth": false,
+        "tibDay": 3,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1e1muosaih99u890lbccqs0gf1",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-10-21",
+        "end": "2026-10-22",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "7m1kb7uc8kvsu3jk84rhk3qsno",
+        "title": "Anniversaries of Kohn Konchog Gyalpo and Sachen Kunga Nyingpo",
+        "start": "2026-10-25",
+        "end": "2026-10-26",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 14th day of the ninth month marks the anniverseries of two of the most important figures in the Sakya Tradition: Kohn Konchok Gyalpo and Sachen Kunga Nyingpo. The latter has several works included in the Sakya volume of the Treasury of Precious Instructions (including The Verse Summary of the Topics of the Commentary of the Precious Oral Intimate Instruction; The Nyakma Commentary: A Commentary on The Vajra Verses the Treatise of the Path with Its Result the Precious Oral Instruction. Both of them are profiled in Treasures of the Sakya Tradition (",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversaries of Kohn Konchog Gyalpo and Sachen Kunga Nyingpo",
+      "titleEs": "Anniversaries of Kohn Konchog Gyalpo and Sachen Kunga Nyingpo",
+      "descriptionEn": "The 14th day of the ninth month marks the anniverseries of two of the most important figures in the Sakya Tradition: Kohn Konchok Gyalpo and Sachen Kunga Nyingpo. The latter has several works included in the Sakya volume of the Treasury of Precious Instructions (including The Verse Summary of the Topics of the Commentary of the Precious Oral Intimate Instruction; The Nyakma Commentary: A Commentary on The Vajra Verses the Treatise of the Path with Its Result the Precious Oral Instruction. Both of them are profiled in Treasures of the Sakya Tradition (",
+      "descriptionEs": "The 14th day of the ninth month marks the anniverseries of two of the most important figures in the Sakya Tradition: Kohn Konchok Gyalpo and Sachen Kunga Nyingpo. The latter has several works included in the Sakya volume of the Treasury of Precious Instructions (including The Verse Summary of the Topics of the Commentary of the Precious Oral Intimate Instruction; The Nyakma Commentary: A Commentary on The Vajra Verses the Treatise of the Path with Its Result the Precious Oral Instruction. Both of them are profiled in Treasures of the Sakya Tradition (",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1bdi7vuur3f5ec01lvii5gig7n",
+        "title": "Anniversary of Khyungpo Nalkdjor",
+        "start": "2026-10-25",
+        "end": "2026-10-26",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 14th day of the ninth month marks the anniversary of Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Khyungpo Nalkdjor",
+      "titleEs": "Aniversario de Khyungpo Nalkdjor",
+      "descriptionEn": "The 14th day of the ninth month marks the anniversary of Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
+      "descriptionEs": "The 14th day of the ninth month marks El aniversario de Khyungpo Naldjorthe great master who received teachings from Niguma are the basis of the Shangpa Kagyu tradition.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 9,
+        "isLeapMonth": false,
+        "tibDay": 14,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "5svloh6dagoegkdv2r817dn2f1",
+        "title": "Day - Full Moon",
+        "start": "2026-10-26",
+        "end": "2026-10-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Day - Full Moon",
+      "titleEs": "Día - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4jrj745224m7g302ersgtmcruj",
+        "title": "Anniversary of Atisha",
+        "start": "2026-10-28",
+        "end": "2026-10-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Atishas anniversary falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Atisha",
+      "titleEs": "Aniversario de Atisha",
+      "descriptionEn": "Atishas anniversary falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
+      "descriptionEs": "Atishas aniversario falls on the 18th day of the ninth month. Explore our guide to this great master important to all Tibetan traditions:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 9,
+        "isLeapMonth": false,
+        "tibDay": 18,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0qsuipbmpdgoiaucu6h7nlli7c",
+        "title": "Lha Bab Duchen",
+        "start": "2026-11-01",
+        "end": "2026-11-02",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Lha Bab Duchen the Buddhas descent from Tushita after going there to teach his mother Maya falls on the 22nd day of the ninth month.. Tushita or the heaven of the thirty-three is located in the desire realm of the earth dwelling gods and this realm is commonly depicted as the uppermost heaven in the Wheel of Life painting. The name thirty-three is derived from the heaven of the great sky god Indra and his thirty-two subsidiary gods or ministers. In the Indian traditions this number is often multiplied by a million to correspond to the vast pantheon of different gods which are said to number thirty-three million. --From The Encyclopedia of Tibetan Symbols and Motifs?src=googlecal&rand=72218",
+          "attachments": []
+        }
+      },
+      "titleEn": "Lha Bab Duchen",
+      "titleEs": "Lha Bab Duchen",
+      "descriptionEn": "Lha Bab Duchen the Buddhas descent from Tushita after going there to teach his mother Maya falls on the 22nd day of the ninth month.. Tushita or the heaven of the thirty-three is located in the desire realm of the earth dwelling gods and this realm is commonly depicted as the uppermost heaven in the Wheel of Life painting. The name thirty-three is derived from the heaven of the great sky god Indra and his thirty-two subsidiary gods or ministers. In the Indian traditions this number is often multiplied by a million to correspond to the vast pantheon of different gods which are said to number thirty-three million. --From The Encyclopedia of Tibetan Symbols and Motifs?src=googlecal&rand=72218",
+      "descriptionEs": "Lha Bab Duchen the Buddhas descent from Tushita after going there to teach his mother Maya falls on the 22nd day of the ninth month.. Tushita or the heaven of the thirty-three is located in the desire realm of the earth dwelling gods and this realm is commonly depicted as the uppermost heaven in the Wheel of Life painting. The name thirty-three is derived from the heaven of the great sky god Indra and his thirty-two subsidiary gods or ministers. In the Indian traditions this number is often multiplied by a million to correspond to the vast pantheon of different gods which are said to number thirty-three million. --From The Encyclopedia of Tibetan Symbols and Motifs?src=googlecal&rand=72218",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "6faeu4tnt8pdhsln5n662d5pqb",
+        "title": "25th,Dakini Day",
+        "start": "2026-11-04",
+        "end": "2026-11-05",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2dvqbq144iu4arpsdm9iegc1l6",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-11-19",
+        "end": "2026-11-20",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3gm05rtkuvdvqgm3jd81ufnink",
+        "title": "15th Day - Full Moon",
+        "start": "2026-11-24",
+        "end": "2026-11-25",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day - Full Moon",
+      "titleEs": "Día 15 - Luna llena",
+      "descriptionEn": "The full moon and 15th day of the lunar month.",
+      "descriptionEs": "La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "2ojnp3fbeie8qnpu6t2fojmaqj",
+        "title": "25th,Dakini Day",
+        "start": "2026-12-03",
+        "end": "2026-12-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+          "attachments": []
+        }
+      },
+      "titleEn": "25th,Dakini Day",
+      "titleEs": "Día 25,Dakini Día",
+      "descriptionEn": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "descriptionEs": "The 25th day of the lunar month Dakini Day. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3h70anmg1lpv7b1r6s7lrlj3r1",
+        "title": "Anniversary of Tsongkhapa",
+        "start": "2026-12-03",
+        "end": "2026-12-04",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Tsongkhapa",
+      "titleEs": "Aniversario de Tsongkhapa",
+      "descriptionEn": "The anniversary of Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
+      "descriptionEs": "El aniversario de Tsongkhapa falls on 25th day of the 10th month. Please our Readers Guide at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 10,
+        "isLeapMonth": false,
+        "tibDay": 25,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "1uf8dlvgn5n2ogqamt8gsfs676",
+        "title": "Anniversary of Kyabje Thinley Norbu Rinpoche",
+        "start": "2026-12-10",
+        "end": "2026-12-11",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Kyabje Thinley Norbu Rinpoche",
+      "titleEs": "Aniversario de Kyabje Thinley Norbu Rinpoche",
+      "descriptionEn": "The anniversary of Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
+      "descriptionEs": "El aniversario de Kyabje Thinley Norbu Rinpoche. The Western calendar date is December 26. The Tibetan is the 2nd of the 11th month. the books videos and articles about this incredible teacher at",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 2,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "58e4g4e10kchirbsvdq17b8l55",
+        "title": "10th Day - Guru Rinpoche Day",
+        "start": "2026-12-19",
+        "end": "2026-12-20",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+          "attachments": []
+        }
+      },
+      "titleEn": "10th Day - Guru Rinpoche Day",
+      "titleEs": "Día 10 - Día de Gurú Rinpoché",
+      "descriptionEn": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "descriptionEs": "10th day of the lunar month / Guru Rinpoche Day is observed. our description of special practice days at or our overview of the Tsok or Ganachakra ceremony at. You can also out full lunar calendar at. And for all the specifics of each months Guru Rinpoche Day",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3h2cnp2c7frfbljkru1j28s8r5",
+        "title": "Anniversary of Sonam Tsemo",
+        "start": "2026-12-20",
+        "end": "2026-12-21",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Sonam Tsemo",
+      "titleEs": "Aniversario de Sonam Tsemo",
+      "descriptionEn": "The anniversary of Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
+      "descriptionEs": "El aniversario de Sonam Tsemo is on the 12th day of the 11th month. The 4th throne-holder and a major early figure in the Sakya tradition he appears in many of our works. A short bio of him is included in The Treasures of the Sakya Lineage available at also the Sakya volumes of the Treasury of Precious Instructions.",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 11,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "0b65krk0ju8onubjig3d4nkb5s",
+        "title": "Anniversary of Sakya Pandita",
+        "start": "2026-12-23",
+        "end": "2026-12-24",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Sakya Pandita. our short biography here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Sakya Pandita",
+      "titleEs": "Aniversario de Sakya Pandita",
+      "descriptionEn": "The anniversary of Sakya Pandita. our short biography here:",
+      "descriptionEs": "El aniversario de Sakya Pandita. our short biography here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 14,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "136b9iajpj2ktfaq4q73usd7jj",
+        "title": "15th Day Observed - Full Moon",
+        "start": "2026-12-24",
+        "end": "2026-12-25",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Thereis no 15h day this month,so observing the 15th on the 16th. The full moon and 15th day of the lunar month.",
+          "attachments": []
+        }
+      },
+      "titleEn": "15th Day Observed - Full Moon",
+      "titleEs": "Día 15 Observed - Luna llena",
+      "descriptionEn": "Thereis no 15h day this month,so observing the 15th on the 16th. The full moon and 15th day of the lunar month.",
+      "descriptionEs": "Thereis no 15h day this month,so observing the 15th on the 16th. La luna llena y el día 15 del mes lunar.",
+      "flags": {
+        "teacherAnniversary": false
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "3uifr183rd02tt1bnf26hdsj47",
+        "title": "Anniversary of Jigme Phuntsok Rinpoche",
+        "start": "2026-12-24",
+        "end": "2026-12-25",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Jigme Phuntsok Rinpoche. For more",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Jigme Phuntsok Rinpoche",
+      "titleEs": "Aniversario de Jigme Phuntsok Rinpoche",
+      "descriptionEn": "The anniversary of Jigme Phuntsok Rinpoche. For more",
+      "descriptionEs": "El aniversario de Jigme Phuntsok Rinpoche. For more",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 16,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4vromifmmp60903cnbrf0it7oh",
+        "title": "Anniversary of Kyabje Dudjom Rinpoche",
+        "start": "2026-12-26",
+        "end": "2026-12-27",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Kyabje Dudjom Rinpoche",
+      "titleEs": "Aniversario de Kyabje Dudjom Rinpoche",
+      "descriptionEn": "The anniversary of Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
+      "descriptionEs": "El aniversario de Kyabje Dudjom Rinpoche Jigdral Yeshe Dorje. For more",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 18,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "4stgva4c6flv9ol94pn4kfb6up",
+        "title": "Anniversary of Chatral Rinpoche",
+        "start": "2026-12-28",
+        "end": "2026-12-29",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of Chatral Rinpoche.. For more",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Chatral Rinpoche",
+      "titleEs": "Aniversario de Chatral Rinpoche",
+      "descriptionEn": "The anniversary of Chatral Rinpoche.. For more",
+      "descriptionEs": "El aniversario de Chatral Rinpoche.. For more",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 20,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "44ehc63fjdhic6ani1hafmqibq",
+        "title": "Anniversary of Chogyal Phakpa",
+        "start": "2026-12-30",
+        "end": "2026-12-31",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "Chogyal Phakpas anniversary in 2023 this year is Tuesday January 21. our Guide for Readers here:",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of Chogyal Phakpa",
+      "titleEs": "Aniversario de Chogyal Phakpa",
+      "descriptionEn": "Chogyal Phakpas anniversary in 2023 this year is Tuesday January 21. our Guide for Readers here:",
+      "descriptionEs": "Chogyal Phakpas aniversario in 2023 this year is Tuesday January 21. our Guide for Readers here:",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 22,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    },
+    {
+      "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
+      "event": {
+        "id": "69945vjk2o36oln9mdctmp7avm",
+        "title": "Anniversary of the Fourth Dodrubchen Rinpoche",
+        "start": "2026-12-31",
+        "end": "2027-01-01",
+        "allDay": true,
+        "timeZone": "America/New_York",
+        "extendedProps": {
+          "description": "The anniversary of the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
+          "attachments": []
+        }
+      },
+      "titleEn": "Anniversary of the Fourth Dodrubchen Rinpoche",
+      "titleEs": "Aniversario del Fourth Dodrubchen Rinpoche",
+      "descriptionEn": "The anniversary of the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
+      "descriptionEs": "El aniversario de the Fourth Dodrubchen RinpocheTibetan Calendar 23rd of the 11th month) and January 25th (Western Calendar) For more on this extraordinary master",
+      "tibetanLunar": {
+        "rabjung": 17,
+        "tibYear": 40,
+        "tibMonth": 11,
+        "isLeapMonth": false,
+        "tibDay": 23,
+        "isLeapDay": false
+      },
+      "flags": {
+        "teacherAnniversary": true,
+        "kind": "teacher_anniversary"
+      }
+    }
+  ]
+}

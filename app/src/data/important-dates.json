@@ -47,7 +47,7 @@
         "tibMonth": 1,
         "tibDay": 1
       },
-      "description": "Inicio del nuevo año tibetano. Durante los primeros quince días se celebran quince ‘Días de los Milagros’, que conmemoran quince milagros que se dice que el Buda realizó.",
+      "description": "Inicio del nuevo año tibetano. Durante los primeros quince días se celebran quince ‘Días de los Milagros’, que conmemoran quince milagros que el Buda realizó.",
       "conditions": {
         "monthFlagNot": [2],
         "doubleDayFlagNot": [1]
@@ -297,7 +297,7 @@
         {
           "type": "PRECEPTS",
           "name": "Preceptos",
-          "description": "Durante los primeros 15 días del año tibetano, todos los días son días de preceptos (el día 15 también puede ser un Día de Buda según el año)."
+          "description": "Durante los primeros 15 días del año tibetano, todos los días son días de preceptos."
         }
       ]
     }
