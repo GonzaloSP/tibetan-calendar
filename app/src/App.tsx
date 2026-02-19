@@ -1,5 +1,5 @@
-import { useMemo, useState } from "react";
-import { addMonths, startOfMonth } from "date-fns";
+import { useEffect, useMemo, useState } from "react";
+import { addMonths, format, parseISO, startOfMonth } from "date-fns";
 import { MandalaHeader } from "./components/MandalaHeader";
 import { MonthNav } from "./components/MonthNav";
 import { MonthGrid } from "./components/MonthGrid";
@@ -24,6 +24,30 @@ export default function App() {
   const [monthStart, setMonthStart] = useState(() => startOfMonth(new Date()));
   const [selected, setSelected] = useState(() => new Date());
   const [sheetOpen, setSheetOpen] = useState(false);
+
+  // Read the selected day from the URL on first load: ?date=YYYY-MM-DD
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const d = params.get("date");
+    if (!d) return;
+    try {
+      const parsed = parseISO(d);
+      if (!isNaN(parsed.getTime())) {
+        setSelected(parsed);
+        setMonthStart(startOfMonth(parsed));
+      }
+    } catch {
+      // ignore
+    }
+  }, []);
+
+  // Keep URL in sync so the selected day is shareable.
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    params.set("date", format(selected, "yyyy-MM-dd"));
+    const next = `${window.location.pathname}?${params.toString()}`;
+    window.history.replaceState({}, "", next);
+  }, [selected]);
 
   const tib = useMemo(() => toTibetanDate(selected), [selected]);
 

@@ -9,8 +9,9 @@ import {
   Shield,
   Heart,
   ScrollText,
+  Share2,
 } from "lucide-react";
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { TibetanDate, PracticeImage } from "../lib/types";
 import { formatTibetanDate } from "../lib/tibetan";
 import { getPracticesForDate, practiceBadgeColor } from "../lib/practices";
@@ -133,6 +134,42 @@ function labelForType(type: string) {
   }
 }
 
+function upsertMeta(selector: string, attrs: Record<string, string>) {
+  let el = document.head.querySelector(selector) as HTMLMetaElement | null;
+  if (!el) {
+    el = document.createElement("meta");
+    for (const [k, v] of Object.entries(attrs)) {
+      el.setAttribute(k, v);
+    }
+    document.head.appendChild(el);
+    return;
+  }
+  for (const [k, v] of Object.entries(attrs)) {
+    el.setAttribute(k, v);
+  }
+}
+
+function setSocialMeta(params: {
+  title: string;
+  description: string;
+  image?: string;
+  url: string;
+}) {
+  const { title, description, image, url } = params;
+  document.title = title;
+
+  upsertMeta('meta[name="description"]', { name: "description", content: description });
+
+  upsertMeta('meta[property="og:title"]', { property: "og:title", content: title });
+  upsertMeta('meta[property="og:description"]', { property: "og:description", content: description });
+  upsertMeta('meta[property="og:url"]', { property: "og:url", content: url });
+  if (image) upsertMeta('meta[property="og:image"]', { property: "og:image", content: image });
+
+  upsertMeta('meta[name="twitter:title"]', { name: "twitter:title", content: title });
+  upsertMeta('meta[name="twitter:description"]', { name: "twitter:description", content: description });
+  if (image) upsertMeta('meta[name="twitter:image"]', { name: "twitter:image", content: image });
+}
+
 export function DayDetails(props: {
   date: Date;
   tib: TibetanDate;
@@ -140,6 +177,59 @@ export function DayDetails(props: {
 }) {
   const { date, tib } = props;
   const practices = getPracticesForDate(date, tib);
+
+  const shareUrl = useMemo(() => {
+    const u = new URL(window.location.href);
+    // App.tsx already keeps ?date=YYYY-MM-DD in sync, so we keep it.
+    return u.toString();
+  }, [date]);
+
+  const primary = practices[0];
+
+  useEffect(() => {
+    const title = primary
+      ? `${primary.name} — Calendario Tibetano en Español`
+      : `Calendario Tibetano en Español — ${format(date, "d 'de' MMMM 'de' yyyy", { locale: es })}`;
+
+    const rawDesc = primary?.description || "Calendario tibetano en español: días de Buda, tsog, preceptos, aniversarios de maestros y prácticas mensuales.";
+    const description = rawDesc
+      .replace(/\s+/g, " ")
+      .trim()
+      .slice(0, 200);
+
+    const image = primary?.image?.url;
+
+    setSocialMeta({
+      title,
+      description,
+      image,
+      url: shareUrl,
+    });
+  }, [date, primary, shareUrl]);
+
+  async function onShare() {
+    const title = primary?.name || "Calendario Tibetano en Español";
+    const text = primary?.description?.split("\n")[0] || "";
+
+    if (navigator.share) {
+      try {
+        await navigator.share({ title, text, url: shareUrl });
+        return;
+      } catch {
+        // fall through to links
+      }
+    }
+
+    // Fallback: open a simple share menu via new tabs.
+    const encodedUrl = encodeURIComponent(shareUrl);
+    const encodedText = encodeURIComponent(`${title}\n${shareUrl}`);
+
+    // WhatsApp
+    window.open(`https://wa.me/?text=${encodedText}`, "_blank", "noopener,noreferrer");
+
+    // Facebook (share URL only)
+    window.open(`https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`, "_blank", "noopener,noreferrer");
+  }
 
   return (
     <div className="card p-5 sm:p-6">
@@ -154,14 +244,27 @@ export function DayDetails(props: {
           </div>
         </div>
 
-        {props.onClose ? (
+        <div className="flex items-center gap-2">
           <button
-            onClick={props.onClose}
-            className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/20"
+            onClick={onShare}
+            className="rounded-2xl bg-white/10 px-3 py-2 text-sm font-semibold text-white hover:bg-white/15 ring-1 ring-white/15"
+            title="Compartir en redes sociales"
           >
-            Cerrar
+            <span className="inline-flex items-center gap-2">
+              <Share2 className="h-4 w-4" />
+              Compartir en redes sociales
+            </span>
           </button>
-        ) : null}
+
+          {props.onClose ? (
+            <button
+              onClick={props.onClose}
+              className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/20"
+            >
+              Cerrar
+            </button>
+          ) : null}
+        </div>
       </div>
 
       <div className="mt-6">
