@@ -8,7 +8,8 @@
     "removedDetallesAt": "2026-02-19T19:53:12.092Z",
     "dalaiLamaPhotoAddedAt": "2026-02-19T19:57:55.694Z",
     "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.199Z",
-    "normalizedFuenteAt": "2026-02-19T20:14:05.315Z"
+    "normalizedFuenteAt": "2026-02-19T20:14:05.315Z",
+    "mergedTsongkhapaFromTeachersAt": "2026-02-19T20:15:27.521Z"
   },
   "notes": [
     "Este archivo captura las observancias del calendario lunar tibetano basadas en reglas, codificadas en PracticeDatesService.getPractices().",
@@ -168,13 +169,13 @@
     {
       "id": "je-tsongkhapa-day-ganden-ngamcho",
       "name": "Día de Je Tsongkhapa (Ganden Ngamchö)",
-      "type": "OTHER",
+      "type": "PARINIRVANA",
       "rule": {
         "calendar": "tibetan-lunar",
         "tibMonth": 10,
         "tibDay": 25
       },
-      "description": "El día 25 del décimo mes lunar tibetano se conmemora el parinirvana de Je Tsongkhapa.",
+      "description": "- Se conmemora el parinirvana de Je Tsongkhapa (1357–1419), fundador de la escuela Gelug.\n- Es una fecha tradicionalmente observada con lámparas y oraciones (Ganden Ngamchö).\n- Enfatiza el legado de estudio, disciplina y práctica que caracterizó sus enseñanzas.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
       "conditions": {
         "monthFlagNot": [
           2
@@ -182,6 +183,12 @@
         "doubleDayFlagNot": [
           1
         ]
+      },
+      "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
+      "photo": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg/330px-Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg",
+        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
+        "creditUrl": "https://en.wikipedia.org/wiki/Je_Tsongkhapa"
       }
     },
     {

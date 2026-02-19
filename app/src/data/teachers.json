@@ -30,7 +30,8 @@
     "mergedDilgoEntriesAt": "2026-02-19T20:11:02.983Z",
     "dedupedIdsAt": "2026-02-19T20:11:17.551Z",
     "cleanedDilgoMergedDescriptionAt": "2026-02-19T20:12:04.900Z",
-    "normalizedFuenteAt": "2026-02-19T20:14:05.310Z"
+    "normalizedFuenteAt": "2026-02-19T20:14:05.310Z",
+    "removedTsongkhapaDuplicateAt": "2026-02-19T20:15:27.522Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -4733,108 +4734,6 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/17th_Karmapa_performs_Long_Life_Offering_to_Kenchen_Thrangu_Rinpoche.jpg/330px-17th_Karmapa_performs_Long_Life_Offering_to_Kenchen_Thrangu_Rinpoche.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Thrangu_Rinpoche"
-      }
-    },
-    {
-      "id": "shambhala-tsongkhapa-tib10-25",
-      "name": "Aniversario — Tsongkhapa",
-      "type": "OTHER",
-      "rule": {
-        "calendar": "tibetan-lunar",
-        "tibMonth": 10,
-        "tibDay": 25
-      },
-      "conditions": {
-        "doubleDayFlagNot": [
-          1
-        ]
-      },
-      "description": "- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
-      "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
-      "bio": {
-        "es": "Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.",
-        "sources": [
-          "https://www.rigpawiki.org/index.php?title=Tsongkhapa"
-        ]
-      },
-      "rawRecords": [
-        {
-          "source": "shambhala_calendar.json",
-          "keys": {
-            "teacherKey": "tsongkhapa",
-            "groupKey": "tsongkhapa::tib10-25"
-          },
-          "sources": [
-            "https://www.rigpawiki.org/index.php?title=Tsongkhapa",
-            "h",
-            "t",
-            "p",
-            "s",
-            ":",
-            "/",
-            "w",
-            ".",
-            "r",
-            "i",
-            "g",
-            "a",
-            "k",
-            "o",
-            "n",
-            "d",
-            "e",
-            "x",
-            "?",
-            "l",
-            "=",
-            "T"
-          ],
-          "records": [
-            {
-              "sourceCalendarGoogleId": "ki3oql015dbmu6529iuov5o1fc@group.calendar.google.com",
-              "event": {
-                "id": "3h70anmg1lpv7b1r6s7lrlj3r1",
-                "title": "Anniversary of Tsongkhapa",
-                "start": "2026-12-03",
-                "end": "2026-12-04",
-                "allDay": true,
-                "timeZone": "America/New_York",
-                "extendedProps": {
-                  "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10.",
-                  "attachments": []
-                }
-              },
-              "titleEn": "Anniversary of Tsongkhapa",
-              "titleEs": "Aniversario de Tsongkhapa",
-              "descriptionEn": "",
-              "descriptionEs": "Aniversario de Tsongkhapa.",
-              "tibetanLunar": {
-                "rabjung": 17,
-                "tibYear": 40,
-                "tibMonth": 10,
-                "isLeapMonth": false,
-                "tibDay": 25,
-                "isLeapDay": false
-              },
-              "flags": {
-                "teacherAnniversary": true,
-                "kind": "teacher_anniversary"
-              },
-              "bio": {
-                "es": "Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.",
-                "sources": [
-                  "https://www.rigpawiki.org/index.php?title=Tsongkhapa"
-                ]
-              },
-              "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་"
-            }
-          ]
-        }
-      ],
-      "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg/330px-Tsonkapa%2C_16th_century%2C_Collection_of_Rubin_Museum_of_Art.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Je_Tsongkhapa"
       }
     },
     {
