@@ -34,7 +34,8 @@
     "removedTsongkhapaDuplicateAt": "2026-02-19T20:15:27.522Z",
     "replacedPortadorPrincipalAt": "2026-02-19T20:16:36.494Z",
     "fixedJigmePhuntsokFuenteAt": "2026-02-19T20:17:18.764Z",
-    "fixedJigmePhuntsokFuenteUrlAt": "2026-02-19T20:17:32.514Z"
+    "fixedJigmePhuntsokFuenteUrlAt": "2026-02-19T20:17:32.514Z",
+    "dudjomPhotoFixedAt": "2026-02-19T20:18:27.305Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -2639,9 +2640,9 @@
         }
       ],
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Trulshik_Rinpoch%C3%A9%2C_2008.jpg",
-        "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Trulshik_Rinpoche"
+        "url": "https://www.rigpawiki.org/images/0/0e/DudjomShedra.JPG",
+        "creditEs": "Créditos: Rigpa Wiki",
+        "creditUrl": "https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche"
       }
     },
     {
