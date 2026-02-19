@@ -28,7 +28,8 @@
     "replacedBudaNaturalezaAt": "2026-02-19T20:02:49.249Z",
     "rewrotePakmodrupaAt": "2026-02-19T20:09:11.792Z",
     "mergedDilgoEntriesAt": "2026-02-19T20:11:02.983Z",
-    "dedupedIdsAt": "2026-02-19T20:11:17.551Z"
+    "dedupedIdsAt": "2026-02-19T20:11:17.551Z",
+    "cleanedDilgoMergedDescriptionAt": "2026-02-19T20:12:04.900Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -76,12 +77,13 @@
         "month": 9,
         "day": 30
       },
-      "description": "- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros del linaje nyingma y del movimiento Rimé, poeta y autor. - Maestro de muchos lamas contemporáneos y guía clave en la preservación y transmisión del Dharma en el siglo XX. Fuente: - https://en.wikipedia.org/wiki/Dilgo_Khyentse\n- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales. Fuente: - https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche\n\nFuente:\n- https://en.wikipedia.org/wiki/Dilgo_Khyentse",
+      "description": "- Dilgo Khyentse Rinpoche (1910–1991), gran maestro nyingma y figura clave del movimiento Rimé; poeta y autor, y maestro de numerosos lamas contemporáneos.\n- Fue fundamental en la preservación y transmisión del Dharma tibetano en el siglo XX, compartiendo enseñanzas y linajes de distintas escuelas con gran apertura.\n\nFuente:\n- https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Dilgo_Khyentse.jpg/330px-Dilgo_Khyentse.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
         "creditUrl": "https://en.wikipedia.org/wiki/Dilgo_Khyentse"
-      }
+      },
+      "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་"
     },
     {
       "id": "teacher-jigme-phuntsok-parinirvana-1-6",
