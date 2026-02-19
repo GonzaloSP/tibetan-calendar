@@ -5,7 +5,8 @@
     "title": "Maestras/os — dataset semilla (es)",
     "notes": "Eventos de maestras/os (no Budas), traducidos al español y expresados como reglas anuales (gregorianas o lunar-tibetanas) para integrar en el calendario.",
     "mergedShambhalaAt": "2026-02-19T15:19:36.936Z",
-    "shambhalaInput": "app/shambhala_calendar.json"
+    "shambhalaInput": "app/shambhala_calendar.json",
+    "removedWesternDateBoilerplateAt": "2026-02-19T15:24:42.539Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -21,7 +22,7 @@
         "month": 6,
         "day": 18
       },
-      "description": "Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma.\n\nDetalles:\n- Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ།\n- Nacimiento (greg.): 1913-06-18\n- Lugar: Valle de Nyak (Kham), Tíbet\n- Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      "description": "Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma. Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Nacimiento (greg.): 1913-06-18 - Lugar: Valle de Nyak (Kham), Tíbet - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
     },
     {
       "id": "teacher-chatral-parinirvana-12-30",
@@ -32,7 +33,7 @@
         "month": 12,
         "day": 30
       },
-      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche).\n\nDetalles:\n- Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ།\n- Parinirvana (greg.): 2015-12-30\n- Lugar: Pharping (Yangleshö), Nepal\n- Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
+      "description": "Aniversario de parinirvana de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche). Detalles: - Nombre tibetano: བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ། - Parinirvana (greg.): 2015-12-30 - Lugar: Pharping (Yangleshö), Nepal - Fuente: https://en.wikipedia.org/wiki/Chatral_Sangye_Dorje"
     },
     {
       "id": "teacher-dilgo-khyentse-parinirvana-9-28",
@@ -43,7 +44,7 @@
         "month": 9,
         "day": 28
       },
-      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor).\n\nDetalles:\n- Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།)\n- Parinirvana (greg.): 1991-09-28\n- Lugar: Bután (reportado)\n- Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825"
+      "description": "Aniversario de parinirvana de Dilgo Khyentse Rinpoche (Tashi Paljor). Detalles: - Nombre tibetano: དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ། (བཀྲ་ཤིས་དཔལ་འབྱོར།) - Parinirvana (greg.): 1991-09-28 - Lugar: Bután (reportado) - Fuente: https://treasuryoflives.org/biographies/view/Dilgo-Khyentse-Tashi-Peljor/8825"
     },
     {
       "id": "teacher-jigme-phuntsok-parinirvana-1-6",
@@ -54,7 +55,7 @@
         "month": 1,
         "day": 6
       },
-      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok).\n\nDetalles:\n- Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས།\n- Parinirvana (greg.): 2004-01-06\n- Lugar: China (reportado en múltiples fuentes)\n- Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457"
+      "description": "Aniversario de parinirvana de Khenpo Jigme Phuntsok (Jigme Püntsok). Detalles: - Nombre tibetano: མཁན་པོ་འཇིགས་མེད་ཕུན་ཚོགས། - Parinirvana (greg.): 2004-01-06 - Lugar: China (reportado en múltiples fuentes) - Fuente: https://treasuryoflives.org/biographies/view/Khenpo-Jigme-Puntsok/10457"
     },
     {
       "id": "teacher-tulku-urgyen-parinirvana-2-13",
@@ -65,7 +66,7 @@
         "month": 2,
         "day": 13
       },
-      "description": "Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen).\n\nDetalles:\n- Nombre tibetano: སྤྲུལ་སྐུ་ཨོ་རྒྱན་རིན་པོ་ཆེ།\n- Parinirvana (greg.): 1996-02-13\n- Lugar: Nepal\n- Fuente: https://treasuryoflives.org/biographies/view/ugyen-rinpoche/12839"
+      "description": "Aniversario de parinirvana de Tulku Urgyen Rinpoche (maestro de Mahamudra y Dzogchen). Detalles: - Nombre tibetano: སྤྲུལ་སྐུ་ཨོ་རྒྱན་རིན་པོ་ཆེ། - Parinirvana (greg.): 1996-02-13 - Lugar: Nepal - Fuente: https://treasuryoflives.org/biographies/view/ugyen-rinpoche/12839"
     },
     {
       "id": "shambhala-atisha-tib9-18",
@@ -81,7 +82,7 @@
           1
         ]
       },
-      "description": "Aniversario de Atisha.\nEn el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་\n\nBio (resumen):\n- Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Atisha",
+      "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. Detalles: En el calendario lunar tibetano se observa el día 18 del mes 9. Nombre tibetano: - ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་ Bio (resumen): - Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa. Fuentes: - https://www.rigpawiki.org/index.php?title=Atisha",
       "tibetanName": "ཨ་ཏི་ཤ་མར་མེ་མཛད་དཔལ་ཡེ་ཤེས་",
       "bio": {
         "es": "Atiśa Dīpaṃkara Śrījñāna (982–1054), gran maestro indio; su Lámpara para el camino es fundacional del lamrim y su actividad en Tíbet impulsó la escuela kadampa.",
@@ -132,14 +133,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Atisha",
               "titleEs": "Aniversario de Atisha",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -178,7 +179,7 @@
           1
         ]
       },
-      "description": "Aniversario de Chatral Rinpoche.\nEn el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་\n\nBio (resumen):\n- Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
+      "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 20 del mes 11. Nombre tibetano: - བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་ Bio (resumen): - Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada. Fuentes: - https://www.rigpawiki.org/index.php?title=Chatral_Rinpoche",
       "tibetanName": "བྱ་བྲལ་སངས་རྒྱས་རྡོ་རྗེ་",
       "bio": {
         "es": "Kyabjé Chatral Sangye Dorje (1913–2015), yogui dzogchen muy respetado; importante portador del Longchen Nyingtik (y también del Dudjom Tersar), conocido por su disciplina estricta y vida retirada.",
@@ -232,14 +233,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Chatral Rinpoche",
               "titleEs": "Aniversario de Chatral Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -278,7 +279,7 @@
           1
         ]
       },
-      "description": "Aniversario de Chogyal Phakpa.\nEn el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཆོས་རྒྱལ་འཕགས་པ་\n\nBio (resumen):\n- Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
+      "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 22 del mes 11. Nombre tibetano: - ཆོས་རྒྱལ་འཕགས་པ་ Bio (resumen): - Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan. Fuentes: - https://www.rigpawiki.org/index.php?title=Ch%C3%B6gyal_Phakpa",
       "tibetanName": "ཆོས་རྒྱལ་འཕགས་པ་",
       "bio": {
         "es": "Chögyal Pakpa (1235–1280), jerarca sakya reconocido por Kublai Khan; diseñó la escritura 'phags-pa y fue figura clave en la relación Sakya–Yuan.",
@@ -336,14 +337,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Chogyal Phakpa",
               "titleEs": "Aniversario de Chogyal Phakpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -383,7 +384,7 @@
           1
         ]
       },
-      "description": "Aniversario de Chogyur Lingpa.\nEn el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་\n\nBio (resumen):\n- Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
+      "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. Detalles: En el calendario lunar tibetano se observa el día 1 del mes 5. Nombre tibetano: - མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་ Bio (resumen): - Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel. Fuentes: - https://www.rigpawiki.org/index.php?title=Chokgyur_Lingpa",
       "tibetanName": "མཆོག་གྱུར་བདེ་ཆེན་ཞིག་པོ་གླིང་པ་",
       "bio": {
         "es": "Chokgyur Dechen Lingpa (1829–1870), uno de los grandes tertön del siglo XIX; sus revelaciones (Chokling Tersar) incluyen ciclos muy practicados como Tukdrup Barché Kunsel.",
@@ -438,14 +439,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Chogyur Lingpa",
               "titleEs": "Aniversario de Chogyur Lingpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -485,7 +486,7 @@
           1
         ]
       },
-      "description": "Aniversario de Dilgo Khyenytse Rinpoche.\nEn el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་\n\nBio (resumen):\n- Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
+      "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. Detalles: En el calendario lunar tibetano se observa el día 19 del mes 8. Nombre tibetano: - དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་ Bio (resumen): - Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales. Fuentes: - https://www.rigpawiki.org/index.php?title=Dilgo_Khyentse_Rinpoche",
       "tibetanName": "དིལ་མགོ་མཁྱེན་བརྩེ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Dilgo Khyentse Rinpoche (1910–1991), uno de los grandes maestros dzogchen del siglo XX y figura rimé; transmitió linajes de todas las escuelas y fue maestro de numerosos lamas actuales.",
@@ -541,14 +542,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Dilgo Khyenytse Rinpoche",
               "titleEs": "Aniversario de Dilgo Khyenytse Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -588,7 +589,7 @@
           1
         ]
       },
-      "description": "Aniversario de Do Khyentse.\nEn el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་\n\nBio (resumen):\n- Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Do_Khyentse",
+      "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 20 del mes 2. Nombre tibetano: - མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་ Bio (resumen): - Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche). Fuentes: - https://www.rigpawiki.org/index.php?title=Do_Khyentse",
       "tibetanName": "མདོ་མཁྱེན་བརྩེ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Do Khyentse Yeshe Dorje (1800–1866), emanación vinculada a Jikmé Lingpa; maestro tántrico no convencional célebre por instrucciones directas sobre la naturaleza de la mente (incluida su influencia en Patrul Rinpoche).",
@@ -642,14 +643,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Do Khyentse",
               "titleEs": "Aniversario de Do Khyentse",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -688,7 +689,7 @@
           1
         ]
       },
-      "description": "Aniversario de Fifth Dalai Lama.\nEn el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་\n\nBio (resumen):\n- Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
+      "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. Detalles: En el calendario lunar tibetano se observa el día 25 del mes 3. Nombre tibetano: - ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་ Bio (resumen): - Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma. Fuentes: - https://www.rigpawiki.org/index.php?title=Fifth_Dalai_Lama",
       "tibetanName": "ངག་དབང་བློ་བཟང་རྒྱ་མཚོ་",
       "bio": {
         "es": "Ngawang Lobsang Gyatso (1617–1682), el 5.º Dalái Lama: líder crucial en la historia tibetana (consolidación política y religiosa), constructor del Potala y autor prolífico con fuerte vínculo con linajes nyingma/terma.",
@@ -744,14 +745,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of The Fifth Dalai Lama",
               "titleEs": "Aniversario del Fifth Dalai Lama",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -791,7 +792,7 @@
           1
         ]
       },
-      "description": "Aniversario de First Dodrubchen Rinpoche.\nEn el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་\n\nBio (resumen):\n- Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
+      "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 13 del mes 1. Nombre tibetano: - འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་ Bio (resumen): - Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá. Fuentes: - https://www.rigpawiki.org/index.php?title=First_Dodrupchen_Rinpoche",
       "tibetanName": "འཇིགས་མེད་ཕྲིན་ལས་འོད་ཟེར་",
       "bio": {
         "es": "Dodrupchen Jikmé Trinlé Özer (1745–1821), gran maestro nyingma y tertön; principal discípulo y portador de linaje de Jikmé Lingpa, y difusor del Nyingtik (Longchen Nyingtik) en Amdo y más allá.",
@@ -847,14 +848,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of the First Dodrubchen Rinpoche",
               "titleEs": "Aniversario del First Dodrubchen Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -894,7 +895,7 @@
           1
         ]
       },
-      "description": "Aniversario de Fourth Dodrubchen Rinpoche.\nEn el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།\n\nBio (resumen):\n- Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.\n\nFuentes:\n- https://commons.tsadra.org/index.php/Dodrupchen,_4th",
+      "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 23 del mes 11. Nombre tibetano: - རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ། Bio (resumen): - Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI. Fuentes: - https://commons.tsadra.org/index.php/Dodrupchen,_4th",
       "tibetanName": "རྡོ་གྲུབ་ཆེན་རིན་པོ་ཆེ།",
       "bio": {
         "es": "Dodrupchen Tubten Trinlé Pal Zangpo / Jikmé Trinlé Palbar (1927–2022), gran maestro nyingma-dzogchen y principal portador del Longchen Nyingtik en los siglos XX–XXI.",
@@ -946,14 +947,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of the Fourth Dodrubchen Rinpoche",
               "titleEs": "Aniversario del Fourth Dodrubchen Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -993,7 +994,7 @@
           1
         ]
       },
-      "description": "Aniversario de Gampopa.\nEn el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་\n\nBio (resumen):\n- Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Gampopa",
+      "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. Detalles: En el calendario lunar tibetano se observa el día 15 del mes 6. Nombre tibetano: - སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་ Bio (resumen): - Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü. Fuentes: - https://www.rigpawiki.org/index.php?title=Gampopa",
       "tibetanName": "སྒམ་པོ་པ་བསོད་ནམས་རིན་ཆེན་",
       "bio": {
         "es": "Gampopa Sönam Rinchen (1079–1153/1159), principal discípulo de Milarepa; integró Kadam y mahamudra, y su Ornamento de la liberación es un clásico fundacional del Kagyü.",
@@ -1045,14 +1046,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Gampopa",
               "titleEs": "Aniversario de Gampopa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1091,7 +1092,7 @@
           1
         ]
       },
-      "description": "Aniversario de Garab Dorje.\nEn el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.\n\nNombre tibetano:\n- དགའ་རབ་རྡོ་རྗེ་",
+      "description": "Aniversario de Garab Dorje. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano. Nombre tibetano: - དགའ་རབ་རྡོ་རྗེ་",
       "tibetanName": "དགའ་རབ་རྡོ་རྗེ་",
       "rawRecords": [
         {
@@ -1112,14 +1113,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
+                  "description": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano.",
                   "attachments": []
                 }
               },
               "titleEn": "The Birth of Garab Dorje",
               "titleEs": "Aniversario de Garab Dorje",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
+              "descriptionEs": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano.",
               "flags": {
                 "teacherAnniversary": true
               },
@@ -1152,7 +1153,7 @@
           1
         ]
       },
-      "description": "Aniversario de Gyatrul Rinpoche.\nEn el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཡཏྲུལ་ཪིནཔོཆེ\n\nBio (resumen):\n- Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
+      "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 16 del mes 2. Nombre tibetano: - ཡཏྲུལ་ཪིནཔོཆེ Bio (resumen): - Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación). Fuentes: - https://www.rigpawiki.org/index.php?title=Gyatrul_Rinpoche",
       "tibetanName": "ཡཏྲུལ་ཪིནཔོཆེ",
       "bio": {
         "es": "Lama nyingma de Palyul (1925–2023) que, tras el exilio, enseñó extensamente en Norteamérica y fundó centros; conocido por transmitir prácticas y comentarios (por ejemplo, sobre bardos y etapa de generación).",
@@ -1208,14 +1209,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Gyatrul Rinpoche",
               "titleEs": "Aniversario de Gyatrul Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1254,7 +1255,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jamyang Khyentse Chokyi Lodro.\nEn el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་\n\nBio (resumen):\n- Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
+      "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. Detalles: En el calendario lunar tibetano se observa el día 6 del mes 5. Nombre tibetano: - འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་ Bio (resumen): - Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos. Fuentes: - https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Ch%C3%B6kyi_Lodr%C3%B6",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Jamyang Khyentse Chökyi Lodrö (1893–1959), figura mayor del Rimé del siglo XX; maestro de múltiples linajes y formador de grandes lamas contemporáneos.",
@@ -1315,14 +1316,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jamyang Khyentse Chokyi Lodro",
               "titleEs": "Aniversario de Jamyang Khyentse Chokyi Lodro",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1362,7 +1363,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jamyang Khyentse Wangpo.\nEn el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་\n\nBio (resumen):\n- Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
+      "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 21 del mes 1. Nombre tibetano: - འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་ Bio (resumen): - Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas. Fuentes: - https://www.rigpawiki.org/index.php?title=Jamyang_Khyentse_Wangpo",
       "tibetanName": "འཇམ་དབྱངས་མཁྱེན་བརྩེའི་དབང་པོ་",
       "bio": {
         "es": "Jamyang Khyentsé Wangpo (1820–1892), gran tertön y motor del movimiento Rimé; maestro enciclopédico que transmitió y sintetizó linajes de todas las escuelas tibetanas.",
@@ -1418,14 +1419,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jamyang Khyentse Wangpo",
               "titleEs": "Aniversario de Jamyang Khyentse Wangpo",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1464,7 +1465,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jamyang Shepa.\nEn el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་\n\nBio (resumen):\n- Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.\n\nFuentes:\n- https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
+      "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 5 del mes 2. Nombre tibetano: - འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་ Bio (resumen): - Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug. Fuentes: - https://treasuryoflives.org/biographies/view/Jamyang-Zhepai-Dorje/6646",
       "tibetanName": "འཇམ་དབྱངས་ཞེ་པའི་རྡོ་རྗེ་",
       "bio": {
         "es": "Jamyang Zhepai Dorje (primer Jamyang Zhepa, 1648–1721), destacado erudito gelug y autor de obras curriculares; figura central en Labrang y en la tradición de debate filosófico gelug.",
@@ -1523,13 +1524,13 @@
                 "timeZone": "America/New_York",
                 "extendedProps": {
                   "attachments": [],
-                  "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año."
+                  "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2."
                 }
               },
               "titleEn": "Anniversary of Jamyang Shepa",
               "titleEs": "Aniversario de Jamyang Shepa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1569,7 +1570,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jetsun Drakpa Gyaltsen.\nEn el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་\n\nBio (resumen):\n- Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.\n\nFuentes:\n- https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614\n- https://en.wikipedia.org/wiki/Jetsun_Dragpa_Gyaltsen",
+      "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 13 del mes 2. Nombre tibetano: - རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་ Bio (resumen): - Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya. Fuentes: - https://treasuryoflives.org/biographies/view/Drakpa-Gyeltsen/TBRC_P1614 - https://en.wikipedia.org/wiki/Jetsun_Dragpa_Gyaltsen",
       "tibetanName": "རྗེ་བཙུན་གྲགས་པ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Jetsün Drakpa Gyeltsen (1147–1216), tercer patriarca Sakya; maestro y autor influyente en la consolidación doctrinal temprana de la escuela Sakya.",
@@ -1634,14 +1635,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jetsun Drakpa Gyaltsen",
               "titleEs": "Aniversario de Jetsun Drakpa Gyaltsen",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1682,7 +1683,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jigme Lingpa.\nEn el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇིགས་མེད་གླིང་པ་\n\nBio (resumen):\n- Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
+      "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. Detalles: En el calendario lunar tibetano se observa el día 3 del mes 9. Nombre tibetano: - འཇིགས་མེད་གླིང་པ་ Bio (resumen): - Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual. Fuentes: - https://www.rigpawiki.org/index.php?title=Jigme_Lingpa",
       "tibetanName": "འཇིགས་མེད་གླིང་པ་",
       "bio": {
         "es": "Jikmé Lingpa (1730–1798), gran tertön nyingma y revelador del Longchen Nyingtik; impulsó la edición del Nyingma Gyübum y dejó un vasto legado textual.",
@@ -1736,14 +1737,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jigme Lingpa",
               "titleEs": "Aniversario de Jigme Lingpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1782,7 +1783,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jigme Phuntsok Rinpoche.\nEn el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་\n\nBio (resumen):\n- Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.\n\nFuentes:\n- https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
+      "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 16 del mes 11. Nombre tibetano: - མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་ Bio (resumen): - Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo. Fuentes: - https://rywiki.tsadra.org/index.php/Khenchen_Jigme_Phuntsok_Jungne",
       "tibetanName": "མཁན་ཆེན་འཇིགས་མེད་ཕུན་ཚོགས་འབྱུང་གནས་",
       "bio": {
         "es": "Khenchen Jigme Phuntsok (1933–2004), maestro nyingma y figura central de Larung Gar; conocido por revitalizar el estudio y la práctica (incluido Dzogchen) y por su enorme impacto contemporáneo.",
@@ -1837,14 +1838,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jigme Phuntsok Rinpoche",
               "titleEs": "Aniversario de Jigme Phuntsok Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1884,7 +1885,7 @@
           1
         ]
       },
-      "description": "Aniversario de Jigten Sumgon.\nEn el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇིག་རྟེན་གསུམ་མགོན\n\nBio (resumen):\n- Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).\n\nFuentes:\n- https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
+      "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. Detalles: En el calendario lunar tibetano se observa el día 25 del mes 4. Nombre tibetano: - འཇིག་རྟེན་གསུམ་མགོན Bio (resumen): - Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención). Fuentes: - https://en.wikipedia.org/wiki/Jigten_Sumg%C3%B6n",
       "tibetanName": "འཇིག་རྟེན་གསུམ་མགོན",
       "bio": {
         "es": "Jigten Sumgön (1143–1217), fundador del Drikung Kagyu; conocido por sistematizar enseñanzas de mahamudra y por compendios como el Gongchig (dichos/una sola intención).",
@@ -1940,14 +1941,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Jigten Sumgon",
               "titleEs": "Aniversario de Jigten Sumgon",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -1986,7 +1987,7 @@
           1
         ]
       },
-      "description": "Aniversario de Kalu Rinpoche.\nEn el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཀར་ལུ་རིན་པོ་ཆེ་\n\nBio (resumen):\n- Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
+      "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. Detalles: En el calendario lunar tibetano se observa el día 6 del mes 3. Nombre tibetano: - ཀར་ལུ་རིན་པོ་ཆེ་ Bio (resumen): - Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge). Fuentes: - https://www.rigpawiki.org/index.php?title=Kalu_Rinpoche",
       "tibetanName": "ཀར་ལུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Kalu Rinpoche (1905–1989), gran maestro karma kagyü y shangpa kagyü; difundió ampliamente el Dharma en Occidente y promovió grandes proyectos de traducción (por ejemplo, Treasury of Knowledge).",
@@ -2041,14 +2042,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Kalu Rinpoche",
               "titleEs": "Aniversario de Kalu Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2087,7 +2088,7 @@
           1
         ]
       },
-      "description": "Aniversario de Khandro Tsering Chodron.\nEn el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་\n\nBio (resumen):\n- Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
+      "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. Detalles: En el calendario lunar tibetano se observa el día 24 del mes 3. Nombre tibetano: - མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་ Bio (resumen): - Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas. Fuentes: - https://www.rigpawiki.org/index.php?title=Khandro_Tsering_Chodron",
       "tibetanName": "མཁའ་འགྲོ་ཚེ་རིང་ཆོས་སྒྲོན་",
       "bio": {
         "es": "Khandro Tsering Chödrön (1929–2011), practicante destacada y consorte espiritual de Jamyang Khyentse Chökyi Lodrö; considerada una de las grandes yoguinis tibetanas contemporáneas.",
@@ -2141,14 +2142,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Khandro Tsering Chodron",
               "titleEs": "Aniversario de Khandro Tsering Chodron",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2187,7 +2188,7 @@
           1
         ]
       },
-      "description": "Aniversario de Khenpo Ngakchung.\nEn el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མཁན་པོ་ངག་དབང་དཔལ་བཟང་\n\nBio (resumen):\n- Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
+      "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. Detalles: En el calendario lunar tibetano se observa el día 19 del mes 5. Nombre tibetano: - མཁན་པོ་ངག་དབང་དཔལ་བཟང་ Bio (resumen): - Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul). Fuentes: - https://www.rigpawiki.org/index.php?title=Khenpo_Ngakchung",
       "tibetanName": "མཁན་པོ་ངག་དབང་དཔལ་བཟང་",
       "bio": {
         "es": "Khenpo Ngawang Palzang (1879–1941), influyente maestro dzogchen; conocido por su guía oral y comentarios a Las palabras de mi maestro perfecto (linaje Patrul–Nyoshul).",
@@ -2242,14 +2243,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Khenpo Ngakchung",
               "titleEs": "Aniversario de Khenpo Ngakchung",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2288,7 +2289,7 @@
           1
         ]
       },
-      "description": "Aniversario de Khenpo Shenga.\nEn el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མཁན་པོ་གཞན་དགའ་\n\nBio (resumen):\n- Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
+      "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 5 del mes 1. Nombre tibetano: - མཁན་པོ་གཞན་དགའ་ Bio (resumen): - Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India. Fuentes: - https://www.rigpawiki.org/index.php?title=Khenpo_Shenga",
       "tibetanName": "མཁན་པོ་གཞན་དགའ་",
       "bio": {
         "es": "Erudito clave del movimiento Rimé (1871–1927) que revitalizó el estudio monástico en el este del Tíbet: fundó shedras y reformó el currículo con énfasis en los tratados clásicos de India.",
@@ -2341,14 +2342,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Khenpo Shenga",
               "titleEs": "Aniversario de Khenpo Shenga",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2387,7 +2388,7 @@
           1
         ]
       },
-      "description": "Aniversario de Khyungpo Nalkdjor.\nEn el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཁྱུང་པོ་རྣལ་འབྱོར་\n\nBio (resumen):\n- Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
+      "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. Detalles: En el calendario lunar tibetano se observa el día 14 del mes 9. Nombre tibetano: - ཁྱུང་པོ་རྣལ་འབྱོར་ Bio (resumen): - Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas. Fuentes: - https://www.rigpawiki.org/index.php?title=Khyungpo_Naljor",
       "tibetanName": "ཁྱུང་པོ་རྣལ་འབྱོར་",
       "bio": {
         "es": "Khyungpo Naljor (c. siglo XI–XII), fundador del Shangpa Kagyü; viajó repetidamente a India y trajo linajes de Niguma y otros mahasiddhas.",
@@ -2443,14 +2444,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Khyungpo Nalkdjor",
               "titleEs": "Aniversario de Khyungpo Nalkdjor",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2490,7 +2491,7 @@
           1
         ]
       },
-      "description": "Aniversario de Kyabje Dudjom Rinpoche.\nEn el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་\n\nBio (resumen):\n- Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
+      "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 18 del mes 11. Nombre tibetano: - བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་ Bio (resumen): - Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente. Fuentes: - https://www.rigpawiki.org/index.php?title=Dudjom_Rinpoche",
       "tibetanName": "བདུད་འཇོམས་འཇིགས་བྲལ་ཡེ་ཤེས་རྡོ་རྗེ་",
       "bio": {
         "es": "Dudjom Jikdral Yeshe Dorje (1904–1987), uno de los grandes maestros nyingma modernos y tertön; autor de una historia clásica de la escuela Nyingma y difusor clave del Dudjom Tersar en Oriente y Occidente.",
@@ -2547,14 +2548,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Kyabje Dudjom Rinpoche",
               "titleEs": "Aniversario de Kyabje Dudjom Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2594,7 +2595,7 @@
           1
         ]
       },
-      "description": "Aniversario de Kyabje Thinley Norbu Rinpoche.\nEn el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་\n\nBio (resumen):\n- Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
+      "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 2 del mes 11. Nombre tibetano: - གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་ Bio (resumen): - Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente. Fuentes: - https://www.rigpawiki.org/index.php?title=Thinley_Norbu_Rinpoche",
       "tibetanName": "གདུང་སྲས་ཕྲིན་ལས་ནོར་བུ་",
       "bio": {
         "es": "Thinley Norbu Rinpoche (1931–2011), importante maestro nyingma y portador principal del linaje Dudjom Tersar; autor de varios libros en inglés y maestro activo en Occidente.",
@@ -2652,14 +2653,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Kyabje Thinley Norbu Rinpoche",
               "titleEs": "Aniversario de Kyabje Thinley Norbu Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2699,7 +2700,7 @@
           1
         ]
       },
-      "description": "Aniversario de Marpa.\nEn el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མར་པ་ཆོས་ཀྱི་བློ་གྲོས་\n\nBio (resumen):\n- Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Marpa\n- https://treasuryoflives.org/biographies/view/Marpa/TBRC_p2636",
+      "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 15 del mes 1. Nombre tibetano: - མར་པ་ཆོས་ཀྱི་བློ་གྲོས་ Bio (resumen): - Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü. Fuentes: - https://www.rigpawiki.org/index.php?title=Marpa - https://treasuryoflives.org/biographies/view/Marpa/TBRC_p2636",
       "tibetanName": "མར་པ་ཆོས་ཀྱི་བློ་གྲོས་",
       "bio": {
         "es": "Marpa Lotsawa (1012–1097), gran traductor tibetano que trajo y tradujo tantras desde India; maestro de Milarepa y pilar temprano del linaje Kagyü.",
@@ -2752,14 +2753,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Marpa",
               "titleEs": "Aniversario de Marpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2799,7 +2800,7 @@
           1
         ]
       },
-      "description": "Aniversario de Milarepa.\nEn el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- མི་ལ་རས་པ་\n\nBio (resumen):\n- Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Milarepa",
+      "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 14 del mes 1. Nombre tibetano: - མི་ལ་རས་པ་ Bio (resumen): - Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü. Fuentes: - https://www.rigpawiki.org/index.php?title=Milarepa",
       "tibetanName": "མི་ལ་རས་པ་",
       "bio": {
         "es": "Yogui y poeta realizado del linaje kagyü (c. 1040–1123), célebre por su vida de ascetismo y sus cantos de realización; discípulo principal de Marpa e inspiración central del Kagyü.",
@@ -2850,14 +2851,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Milarepa",
               "titleEs": "Aniversario de Milarepa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2896,7 +2897,7 @@
           1
         ]
       },
-      "description": "Aniversario de Mipham Rinpoche.\nEn el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- འཇུ་མི་ཕམ་\n\nBio (resumen):\n- Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche",
+      "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. Detalles: En el calendario lunar tibetano se observa el día 29 del mes 4. Nombre tibetano: - འཇུ་མི་ཕམ་ Bio (resumen): - Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía. Fuentes: - https://www.rigpawiki.org/index.php?title=Mipham_Rinpoche",
       "tibetanName": "འཇུ་མི་ཕམ་",
       "bio": {
         "es": "Ju Mipham (1846–1912), gran erudito y maestro nyingma del Rimé; autor monumental (decenas de volúmenes) que revitalizó el estudio y la práctica de Dzogchen y filosofía.",
@@ -2951,14 +2952,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Mipham Rinpoche",
               "titleEs": "Aniversario de Mipham Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -2997,7 +2998,7 @@
           1
         ]
       },
-      "description": "Aniversario de Pakmodrukpa.\nEn el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཕག་མོ་གྲུ་པ་\n\nBio (resumen):\n- Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).\n\nFuentes:\n- https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
+      "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. Detalles: En el calendario lunar tibetano se observa el día 25 del mes 7. Nombre tibetano: - ཕག་མོ་གྲུ་པ་ Bio (resumen): - Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung). Fuentes: - https://treasuryoflives.org/biographies/view/Pakmodrupa/TBRC_p127",
       "tibetanName": "ཕག་མོ་གྲུ་པ་",
       "bio": {
         "es": "Pakmodrupa (Phagmo Drupa) Dorje Gyelpo (1110–1170), discípulo de Gampopa; su monasterio Densatil fue semillero de muchas subtradiciones kagyü (incluida Drikung).",
@@ -3058,14 +3059,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Pakmodrukpa",
               "titleEs": "Aniversario de Pakmodrukpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3105,7 +3106,7 @@
           1
         ]
       },
-      "description": "Aniversario de Patrul Rinpoche.\nEn el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་\n\nBio (resumen):\n- Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
+      "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. Detalles: En el calendario lunar tibetano se observa el día 18 del mes 4. Nombre tibetano: - རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་ Bio (resumen): - Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik. Fuentes: - https://www.rigpawiki.org/index.php?title=Patrul_Rinpoche",
       "tibetanName": "རྫ་དཔལ་སྤྲུལ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Dza Patrul Rinpoche (1808–1887), maestro nyingma/dzogchen y autor de enorme influencia; su obra Las palabras de mi maestro perfecto es un clásico del ngöndro del Longchen Nyingtik.",
@@ -3160,14 +3161,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Patrul Rinpoche",
               "titleEs": "Aniversario de Patrul Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3206,7 +3207,7 @@
           1
         ]
       },
-      "description": "Aniversario de Pema Karpo.\nEn el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཀུན་མཁྱེན་པདྨ་དཀར་པོ་\n\nBio (resumen):\n- Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Pema_Karpo",
+      "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. Detalles: En el calendario lunar tibetano se observa el día 14 del mes 7. Nombre tibetano: - ཀུན་མཁྱེན་པདྨ་དཀར་པོ་ Bio (resumen): - Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra. Fuentes: - https://www.rigpawiki.org/index.php?title=Pema_Karpo",
       "tibetanName": "ཀུན་མཁྱེན་པདྨ་དཀར་པོ་",
       "bio": {
         "es": "Künkhyen Pema Karpo (1527–1592), 4.º Gyalwang Drukpa; gran erudito y sistematizador del Drukpa Kagyu, autor de extensas obras sobre historia, sutra y mahamudra.",
@@ -3260,14 +3261,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Pema Karpo",
               "titleEs": "Aniversario de Pema Karpo",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3306,7 +3307,7 @@
           1
         ]
       },
-      "description": "Aniversario de Penor Rinpoche.\nEn el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- པད་ནོར་རིན་པོ་ཆེ་\n\nBio (resumen):\n- H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Penor_Rinpoche\n- https://en.wikipedia.org/wiki/Penor_Rinpoche",
+      "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 1 del mes 2. Nombre tibetano: - པད་ནོར་རིན་པོ་ཆེ་ Bio (resumen): - H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling. Fuentes: - https://www.rigpawiki.org/index.php?title=Penor_Rinpoche - https://en.wikipedia.org/wiki/Penor_Rinpoche",
       "tibetanName": "པད་ནོར་རིན་པོ་ཆེ་",
       "bio": {
         "es": "H. H. Penor Rinpoche (1932–2009), 11.º titular del trono de Palyul (Nyingma) y líder supremo nyingma (1993–2001); impulsó la educación monástica y fundó/expandió Namdroling.",
@@ -3362,14 +3363,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Penor Rinpoche",
               "titleEs": "Aniversario de Penor Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3409,7 +3410,7 @@
           1
         ]
       },
-      "description": "Aniversario de Rigdzin Kumarazda.\nEn el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་\n\nBio (resumen):\n- Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
+      "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. Detalles: En el calendario lunar tibetano se observa el día 25 del mes 8. Nombre tibetano: - རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་ Bio (resumen): - Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik. Fuentes: - https://www.rigpawiki.org/index.php?title=Rigdzin_Kumaradza",
       "tibetanName": "རིག་འཛིན་ཀུ་མཱ་རཱ་ཛ་",
       "bio": {
         "es": "Rigdzin Kumaradza (1266–1343), maestro nyingma y principal maestro de Longchenpa; figura crucial en la transmisión de enseñanzas de Dzogchen/nyingtik.",
@@ -3465,14 +3466,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Rigdzin Kumarazda",
               "titleEs": "Aniversario de Rigdzin Kumarazda",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3512,7 +3513,7 @@
           1
         ]
       },
-      "description": "Aniversario de Rigdzin Kunzang Sherab.\nEn el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་\n\nBio (resumen):\n- Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab\n- https://rywiki.tsadra.org/index.php/Rigdzin_Kunzang_Sherab",
+      "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. Detalles: En el calendario lunar tibetano se observa el día 5 del mes 1. Nombre tibetano: - རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་ Bio (resumen): - Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham. Fuentes: - https://www.rigpawiki.org/index.php?title=Rigdzin_Kunzang_Sherab - https://rywiki.tsadra.org/index.php/Rigdzin_Kunzang_Sherab",
       "tibetanName": "རིག་འཛིན་ཀུན་བཟང་ཤེས་རབ་",
       "bio": {
         "es": "Maestro nyingma (1636–1699) y primer titular del trono de Palyul; figura fundacional de la tradición Palyul en Kham.",
@@ -3571,14 +3572,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Rigdzin Kunzang Sherab",
               "titleEs": "Aniversario de Rigdzin Kunzang Sherab",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3618,7 +3619,7 @@
           1
         ]
       },
-      "description": "Aniversario de Sakya Pandita.\nEn el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་\n\nBio (resumen):\n- Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
+      "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 14 del mes 11. Nombre tibetano: - ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་ Bio (resumen): - Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé). Fuentes: - https://www.rigpawiki.org/index.php?title=Sakya_Pandita",
       "tibetanName": "ས་སྐྱ་པཎྜི་ཏ་ཀུན་དགའ་རྒྱལ་མཚན་",
       "bio": {
         "es": "Sakya Paṇḍita Künga Gyeltsen (1182–1251), gran erudito sakya (uno de los Tres Mañjughoṣas); autor de obras clásicas sobre votos, lógica y ética (por ejemplo, Sakya Legshé).",
@@ -3672,14 +3673,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Sakya Pandita",
               "titleEs": "Aniversario de Sakya Pandita",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3718,7 +3719,7 @@
           1
         ]
       },
-      "description": "Aniversario de Sangye Lingpa.\nEn el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- སངས་རྒྱས་གླིང་པ་\n\nBio (resumen):\n- Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
+      "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. Detalles: En el calendario lunar tibetano se observa el día 30 del mes 3. Nombre tibetano: - སངས་རྒྱས་གླིང་པ་ Bio (resumen): - Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada). Fuentes: - https://www.rigpawiki.org/index.php?title=Sangye_Lingpa",
       "tibetanName": "སངས་རྒྱས་གླིང་པ་",
       "bio": {
         "es": "Sangye Lingpa (1340–1396), tertön nyingma que reveló el ciclo Lama Gongdü y textos históricos como el Kathang Sertreng (Crónicas de la Guirnalda Dorada).",
@@ -3772,14 +3773,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Sangye Lingpa",
               "titleEs": "Aniversario de Sangye Lingpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3818,7 +3819,7 @@
           1
         ]
       },
-      "description": "Aniversario de Shechen Gyaltsap.\nEn el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཞེ་ཆེན་རྒྱལ་ཚབ།\n\nBio (resumen):\n- Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
+      "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. Detalles: En el calendario lunar tibetano se observa el día 18 del mes 5. Nombre tibetano: - ཞེ་ཆེན་རྒྱལ་ཚབ། Bio (resumen): - Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma. Fuentes: - https://www.rigpawiki.org/index.php?title=Shechen_Gyaltsap_Gyurme_Pema_Namgyal",
       "tibetanName": "ཞེ་ཆེན་རྒྱལ་ཚབ།",
       "bio": {
         "es": "Shechen Gyaltsab Gyurme Pema Namgyal (1871–1926), regente (gyaltsab) de Shechen y maestro raíz de Dilgo Khyentse; referente de transmisión kama/terma y de formación monástica nyingma.",
@@ -3877,14 +3878,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Shechen Gyaltsap",
               "titleEs": "Aniversario de Shechen Gyaltsap",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -3923,7 +3924,7 @@
           1
         ]
       },
-      "description": "Aniversario de Sonam Tsemo.\nEn el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- བསོད་ནམས་རྩེ་མོ་\n\nBio (resumen):\n- Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
+      "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 11 del mes 11. Nombre tibetano: - བསོད་ནམས་རྩེ་མོ་ Bio (resumen): - Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya. Fuentes: - https://www.rigpawiki.org/index.php?title=Sonam_Tsemo",
       "tibetanName": "བསོད་ནམས་རྩེ་མོ་",
       "bio": {
         "es": "Sönam Tsemo (1142–1182), uno de los cinco patriarcas Sakya; autor influyente (incluido un comentario al Bodhicharyāvatāra) en la consolidación doctrinal temprana de Sakya.",
@@ -3977,14 +3978,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Sonam Tsemo",
               "titleEs": "Aniversario de Sonam Tsemo",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4023,7 +4024,7 @@
           1
         ]
       },
-      "description": "Aniversario de Taranatha.\nEn el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་\n\nBio (resumen):\n- Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Taranatha",
+      "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 26 del mes 2. Nombre tibetano: - རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་ Bio (resumen): - Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas. Fuentes: - https://www.rigpawiki.org/index.php?title=Taranatha",
       "tibetanName": "རྗེ་བཙུན་ཏཱ་ར་ནཱ་ཐ་",
       "bio": {
         "es": "Jetsün Tāranātha (1575–1634), maestro jonang (también ligado a Shangpa Kagyü) y autor prolífico; muy conocido por su Historia del budismo en India y por obras tántricas.",
@@ -4074,14 +4075,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Taranatha",
               "titleEs": "Aniversario de Taranatha",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4120,7 +4121,7 @@
           1
         ]
       },
-      "description": "Aniversario de Terdak Lingpa.\nEn el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་\n\nBio (resumen):\n- Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
+      "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. Detalles: En el calendario lunar tibetano se observa el día 2 del mes 2. Nombre tibetano: - སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་ Bio (resumen): - Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma. Fuentes: - https://www.rigpawiki.org/index.php?title=Terdak_Lingpa",
       "tibetanName": "སྨིན་གླིང་གཏེར་ཆེན་འགྱུར་མེད་རྡོ་རྗེ་",
       "bio": {
         "es": "Terdak Lingpa (1646–1714), gran tertön nyingma y fundador de Mindroling; pieza clave en la transmisión del Nyingma Kama y en grandes compilaciones de terma.",
@@ -4173,14 +4174,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Terdak Lingpa",
               "titleEs": "Aniversario de Terdak Lingpa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4219,7 +4220,7 @@
           1
         ]
       },
-      "description": "Aniversario de Terton Mingyur Dorje.\nEn el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་\n\nBio (resumen):\n- Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
+      "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. Detalles: En el calendario lunar tibetano se observa el día 16 del mes 3. Nombre tibetano: - གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་ Bio (resumen): - Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma). Fuentes: - https://www.rigpawiki.org/index.php?title=Tert%C3%B6n_Mingyur_Dorje",
       "tibetanName": "གནམ་ཆོས་མི་འགྱུར་རྡོ་རྗེ་",
       "bio": {
         "es": "Tertön Mingyur Dorjé (1645–1667), revelador del ciclo de termas Namchö, fundamental en la tradición Palyul (Nyingma).",
@@ -4281,14 +4282,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Terton Mingyur Dorje",
               "titleEs": "Aniversario de Terton Mingyur Dorje",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4328,7 +4329,7 @@
           1
         ]
       },
-      "description": "Aniversario de Terton Sogyal.\nEn el calendario lunar tibetano se observa el día 10 del mes 1. La fecha en el calendario occidental varía cada año.\n\nDetalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.\n\nNombre tibetano:\n- གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
+      "description": "Aniversario de Terton Sogyal. En el calendario lunar tibetano se observa el día 10 del mes 1. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano. Nombre tibetano: - གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "tibetanName": "གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "rawRecords": [
         {
@@ -4349,14 +4350,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
+                  "description": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversay of Terton Sogyal",
               "titleEs": "Aniversario de Terton Sogyal",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
+              "descriptionEs": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano.",
               "flags": {
                 "teacherAnniversary": true
               },
@@ -4388,7 +4389,7 @@
           1
         ]
       },
-      "description": "Aniversario de Third Karmapa.\nEn el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- རང་བྱུང་རྡོ་རྗེ་\n\nBio (resumen):\n- Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.\n\nFuentes:\n- https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
+      "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. Detalles: En el calendario lunar tibetano se observa el día 14 del mes 6. Nombre tibetano: - རང་བྱུང་རྡོ་རྗེ་ Bio (resumen): - Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu. Fuentes: - https://en.wikipedia.org/wiki/Rangjung_Dorje,_3rd_Karmapa_Lama",
       "tibetanName": "རང་བྱུང་རྡོ་རྗེ་",
       "bio": {
         "es": "Rangjung Dorje (1284–1339), 3.º Karmapa: maestro clave del Karma Kagyu, asociado a enseñanzas de buda-naturaleza y a desarrollos de calendario/astrología en la tradición de Tsurphu.",
@@ -4444,14 +4445,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of the Third Karmapa",
               "titleEs": "Aniversario del Third Karmapa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4491,7 +4492,7 @@
           1
         ]
       },
-      "description": "Aniversario de Thrangu Rinpoche.\nEn el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཁྲ་འགུ་རིན་པོ་ཆེ་\n\nBio (resumen):\n- Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
+      "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. Detalles: En el calendario lunar tibetano se observa el día 15 del mes 4. Nombre tibetano: - ཁྲ་འགུ་རིན་པོ་ཆེ་ Bio (resumen): - Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa). Fuentes: - https://www.rigpawiki.org/index.php?title=Thrangu_Rinpoche",
       "tibetanName": "ཁྲ་འགུ་རིན་པོ་ཆེ་",
       "bio": {
         "es": "Khenchen Thrangu Rinpoche (1933–2023), gran maestro karma kagyü, erudito y maestro de meditación (mahamudra); enseñó extensamente y fue tutor de alto nivel (incluido el 17.º Karmapa).",
@@ -4546,14 +4547,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Thrangu Rinpoche",
               "titleEs": "Aniversario de Thrangu Rinpoche",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4592,7 +4593,7 @@
           1
         ]
       },
-      "description": "Aniversario de Tsongkhapa.\nEn el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་\n\nBio (resumen):\n- Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Tsongkhapa",
+      "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. Detalles: En el calendario lunar tibetano se observa el día 25 del mes 10. Nombre tibetano: - ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་ Bio (resumen): - Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático. Fuentes: - https://www.rigpawiki.org/index.php?title=Tsongkhapa",
       "tibetanName": "ཙོང་ཁ་པ་བློ་བཟང་གྲགས་པ་",
       "bio": {
         "es": "Je Tsongkhapa (1357–1419), fundador de la escuela Gelug; reformador monástico y gran autor filosófico y tántrico, con énfasis en disciplina y estudio sistemático.",
@@ -4643,14 +4644,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Tsongkhapa",
               "titleEs": "Aniversario de Tsongkhapa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,
@@ -4689,7 +4690,7 @@
           1
         ]
       },
-      "description": "Aniversario de Tulku Thondup Rinpoche.\nEn el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- སྤྲུལ་སྐུ་དོན་གྲུབ་\n\nBio (resumen):\n- Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
+      "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. Detalles: En el calendario lunar tibetano se observa el día 18 del mes 11. Nombre tibetano: - སྤྲུལ་སྐུ་དོན་གྲུབ་ Bio (resumen): - Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente. Fuentes: - https://www.rigpawiki.org/index.php?title=Tulku_Thondup_Rinpoche",
       "tibetanName": "སྤྲུལ་སྐུ་དོན་གྲུབ་",
       "bio": {
         "es": "Maestro y erudito nyingma (1939–2023), reconocido como tulku y conocido por su labor de investigación y traducción, además de acercar enseñanzas como Dzogchen y la tradición terma a practicantes en Occidente.",
@@ -4744,14 +4745,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Tulku Thondup Rinpoche (Lunar Calendar)",
               "titleEs": "Aniversario de Tulku Thondup Rinpoche (calendario lunar)",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 39,
@@ -4790,7 +4791,7 @@
           1
         ]
       },
-      "description": "Aniversario de Virupa.\nEn el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.\n\nDetalles: En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.\n\nNombre tibetano:\n- བི་རུ་པ་\n\nBio (resumen):\n- Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.\n\nFuentes:\n- https://www.rigpawiki.org/index.php?title=Virupa",
+      "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. Detalles: En el calendario lunar tibetano se observa el día 23 del mes 4. Nombre tibetano: - བི་རུ་པ་ Bio (resumen): - Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India. Fuentes: - https://www.rigpawiki.org/index.php?title=Virupa",
       "tibetanName": "བི་རུ་པ་",
       "bio": {
         "es": "Mahasiddha indio Virūpa, figura clave para la tradición Sakya: fuente principal del Lamdré y referente de realización tántrica en India.",
@@ -4842,14 +4843,14 @@
                 "allDay": true,
                 "timeZone": "America/New_York",
                 "extendedProps": {
-                  "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
+                  "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4.",
                   "attachments": []
                 }
               },
               "titleEn": "Anniversary of Virupa",
               "titleEs": "Aniversario de Virupa",
               "descriptionEn": "",
-              "descriptionEs": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
+              "descriptionEs": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4.",
               "tibetanLunar": {
                 "rabjung": 17,
                 "tibYear": 40,

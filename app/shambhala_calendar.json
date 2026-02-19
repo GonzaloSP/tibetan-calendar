@@ -18,7 +18,8 @@
     "tibetanNamesAddedAt": "2026-02-19T15:12:16.516Z",
     "tibetanNamesFetchedAt": "2026-02-19T15:13:19.001Z",
     "tibetanNamesOverridesAt": "2026-02-19T15:14:39.145Z",
-    "garabDorjeDescriptionFixedAt": "2026-02-19T15:15:03.017Z"
+    "garabDorjeDescriptionFixedAt": "2026-02-19T15:15:03.017Z",
+    "removedWesternDateBoilerplateAt": "2026-02-19T15:24:00.314Z"
   },
   "entries": [
     {
@@ -53,14 +54,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Tulku Thondup Rinpoche (Lunar Calendar)",
       "titleEs": "Aniversario de Tulku Thondup Rinpoche (calendario lunar)",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Tulku Thondup Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 39,
@@ -245,14 +246,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khenpo Shenga",
       "titleEs": "Aniversario de Khenpo Shenga",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Khenpo Shenga. En el calendario lunar tibetano se observa el día 5 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -283,14 +284,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Rigdzin Kunzang Sherab",
       "titleEs": "Aniversario de Rigdzin Kunzang Sherab",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Rigdzin Kunzang Sherab. En el calendario lunar tibetano se observa el día 5 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -344,14 +345,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
+          "description": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano.",
           "attachments": []
         }
       },
       "titleEn": "Anniversay of Terton Sogyal",
       "titleEs": "Aniversario de Terton Sogyal",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. La fecha varía cada año según el calendario lunar tibetano.",
+      "descriptionEs": "Aniversario de Tertön Sogyal (Lerab Lingpa). Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma. según el calendario lunar tibetano.",
       "flags": {
         "teacherAnniversary": true
       },
@@ -375,14 +376,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the First Dodrubchen Rinpoche",
       "titleEs": "Aniversario del First Dodrubchen Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de First Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 13 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -414,14 +415,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Milarepa",
       "titleEs": "Aniversario de Milarepa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Milarepa. En el calendario lunar tibetano se observa el día 14 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -474,14 +475,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Marpa",
       "titleEs": "Aniversario de Marpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Marpa. En el calendario lunar tibetano se observa el día 15 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -513,14 +514,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
+          "description": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano.",
           "attachments": []
         }
       },
       "titleEn": "The Birth of Garab Dorje",
       "titleEs": "Aniversario de Garab Dorje",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; la fecha varía cada año según el calendario lunar tibetano.",
+      "descriptionEs": "Aniversario de Garab Dorje. Es reconocido como el primer maestro humano en la transmisión de Dzogchen; según el calendario lunar tibetano.",
       "flags": {
         "teacherAnniversary": true
       },
@@ -545,14 +546,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jamyang Khyentse Wangpo",
       "titleEs": "Aniversario de Jamyang Khyentse Wangpo",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jamyang Khyentse Wangpo. En el calendario lunar tibetano se observa el día 21 del mes 1.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -605,14 +606,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Penor Rinpoche",
       "titleEs": "Aniversario de Penor Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Penor Rinpoche. En el calendario lunar tibetano se observa el día 1 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -644,14 +645,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Terdak Lingpa",
       "titleEs": "Aniversario de Terdak Lingpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Terdak Lingpa. En el calendario lunar tibetano se observa el día 2 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -683,13 +684,13 @@
         "timeZone": "America/New_York",
         "extendedProps": {
           "attachments": [],
-          "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año."
+          "description": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2."
         }
       },
       "titleEn": "Anniversary of Jamyang Shepa",
       "titleEs": "Aniversario de Jamyang Shepa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jamyang Shepa. En el calendario lunar tibetano se observa el día 5 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -743,14 +744,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jetsun Drakpa Gyaltsen",
       "titleEs": "Aniversario de Jetsun Drakpa Gyaltsen",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jetsun Drakpa Gyaltsen. En el calendario lunar tibetano se observa el día 13 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -805,14 +806,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Gyatrul Rinpoche",
       "titleEs": "Aniversario de Gyatrul Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Gyatrul Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -843,14 +844,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Do Khyentse",
       "titleEs": "Aniversario de Do Khyentse",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Do Khyentse. En el calendario lunar tibetano se observa el día 20 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -903,14 +904,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Taranatha",
       "titleEs": "Aniversario de Taranatha",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Taranatha. En el calendario lunar tibetano se observa el día 26 del mes 2.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -941,14 +942,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kalu Rinpoche",
       "titleEs": "Aniversario de Kalu Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Kalu Rinpoche. En el calendario lunar tibetano se observa el día 6 del mes 3.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1023,14 +1024,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Terton Mingyur Dorje",
       "titleEs": "Aniversario de Terton Mingyur Dorje",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Terton Mingyur Dorje. En el calendario lunar tibetano se observa el día 16 del mes 3.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1062,14 +1063,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khandro Tsering Chodron",
       "titleEs": "Aniversario de Khandro Tsering Chodron",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Khandro Tsering Chodron. En el calendario lunar tibetano se observa el día 24 del mes 3.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1122,14 +1123,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of The Fifth Dalai Lama",
       "titleEs": "Aniversario del Fifth Dalai Lama",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Fifth Dalai Lama. En el calendario lunar tibetano se observa el día 25 del mes 3.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1161,14 +1162,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sangye Lingpa",
       "titleEs": "Aniversario de Sangye Lingpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Sangye Lingpa. En el calendario lunar tibetano se observa el día 30 del mes 3.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1287,14 +1288,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Thrangu Rinpoche",
       "titleEs": "Aniversario de Thrangu Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Thrangu Rinpoche. En el calendario lunar tibetano se observa el día 15 del mes 4.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1325,14 +1326,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Patrul Rinpoche",
       "titleEs": "Aniversario de Patrul Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Patrul Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 4.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1363,14 +1364,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Virupa",
       "titleEs": "Aniversario de Virupa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Virupa. En el calendario lunar tibetano se observa el día 23 del mes 4.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1423,14 +1424,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigten Sumgon",
       "titleEs": "Aniversario de Jigten Sumgon",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jigten Sumgon. En el calendario lunar tibetano se observa el día 25 del mes 4.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1461,14 +1462,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Mipham Rinpoche",
       "titleEs": "Aniversario de Mipham Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Mipham Rinpoche. En el calendario lunar tibetano se observa el día 29 del mes 4.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1499,14 +1500,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chogyur Lingpa",
       "titleEs": "Aniversario de Chogyur Lingpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Chogyur Lingpa. En el calendario lunar tibetano se observa el día 1 del mes 5.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1538,14 +1539,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jamyang Khyentse Chokyi Lodro",
       "titleEs": "Aniversario de Jamyang Khyentse Chokyi Lodro",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jamyang Khyentse Chokyi Lodro. En el calendario lunar tibetano se observa el día 6 del mes 5.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1643,14 +1644,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Shechen Gyaltsap",
       "titleEs": "Aniversario de Shechen Gyaltsap",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Shechen Gyaltsap. En el calendario lunar tibetano se observa el día 18 del mes 5.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1681,14 +1682,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khenpo Ngakchung",
       "titleEs": "Aniversario de Khenpo Ngakchung",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Khenpo Ngakchung. En el calendario lunar tibetano se observa el día 19 del mes 5.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1807,14 +1808,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the Third Karmapa",
       "titleEs": "Aniversario del Third Karmapa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Third Karmapa. En el calendario lunar tibetano se observa el día 14 del mes 6.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1868,14 +1869,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Gampopa",
       "titleEs": "Aniversario de Gampopa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Gampopa. En el calendario lunar tibetano se observa el día 15 del mes 6.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -1950,14 +1951,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Pema Karpo",
       "titleEs": "Aniversario de Pema Karpo",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Pema Karpo. En el calendario lunar tibetano se observa el día 14 del mes 7.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2032,14 +2033,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Pakmodrukpa",
       "titleEs": "Aniversario de Pakmodrukpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Pakmodrukpa. En el calendario lunar tibetano se observa el día 25 del mes 7.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2115,14 +2116,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Dilgo Khyenytse Rinpoche",
       "titleEs": "Aniversario de Dilgo Khyenytse Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Dilgo Khyenytse Rinpoche. En el calendario lunar tibetano se observa el día 19 del mes 8.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2176,14 +2177,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Rigdzin Kumarazda",
       "titleEs": "Aniversario de Rigdzin Kumarazda",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Rigdzin Kumarazda. En el calendario lunar tibetano se observa el día 25 del mes 8.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2215,14 +2216,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigme Lingpa",
       "titleEs": "Aniversario de Jigme Lingpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jigme Lingpa. En el calendario lunar tibetano se observa el día 3 del mes 9.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2297,14 +2298,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Khyungpo Nalkdjor",
       "titleEs": "Aniversario de Khyungpo Nalkdjor",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Khyungpo Nalkdjor. En el calendario lunar tibetano se observa el día 14 del mes 9.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2358,14 +2359,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Atisha",
       "titleEs": "Aniversario de Atisha",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Atisha. En el calendario lunar tibetano se observa el día 18 del mes 9.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2506,14 +2507,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Tsongkhapa",
       "titleEs": "Aniversario de Tsongkhapa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Tsongkhapa. En el calendario lunar tibetano se observa el día 25 del mes 10.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2544,14 +2545,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kyabje Thinley Norbu Rinpoche",
       "titleEs": "Aniversario de Kyabje Thinley Norbu Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Kyabje Thinley Norbu Rinpoche. En el calendario lunar tibetano se observa el día 2 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2605,14 +2606,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sonam Tsemo",
       "titleEs": "Aniversario de Sonam Tsemo",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Sonam Tsemo. En el calendario lunar tibetano se observa el día 11 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2643,14 +2644,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Sakya Pandita",
       "titleEs": "Aniversario de Sakya Pandita",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Sakya Pandita. En el calendario lunar tibetano se observa el día 14 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2703,14 +2704,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Jigme Phuntsok Rinpoche",
       "titleEs": "Aniversario de Jigme Phuntsok Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Jigme Phuntsok Rinpoche. En el calendario lunar tibetano se observa el día 16 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2742,14 +2743,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Kyabje Dudjom Rinpoche",
       "titleEs": "Aniversario de Kyabje Dudjom Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Kyabje Dudjom Rinpoche. En el calendario lunar tibetano se observa el día 18 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2781,14 +2782,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chatral Rinpoche",
       "titleEs": "Aniversario de Chatral Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Chatral Rinpoche. En el calendario lunar tibetano se observa el día 20 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2819,14 +2820,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of Chogyal Phakpa",
       "titleEs": "Aniversario de Chogyal Phakpa",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Chogyal Phakpa. En el calendario lunar tibetano se observa el día 22 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
@@ -2858,14 +2859,14 @@
         "allDay": true,
         "timeZone": "America/New_York",
         "extendedProps": {
-          "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
+          "description": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11.",
           "attachments": []
         }
       },
       "titleEn": "Anniversary of the Fourth Dodrubchen Rinpoche",
       "titleEs": "Aniversario del Fourth Dodrubchen Rinpoche",
       "descriptionEn": "",
-      "descriptionEs": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11. La fecha en el calendario occidental varía cada año.",
+      "descriptionEs": "Aniversario de Fourth Dodrubchen Rinpoche. En el calendario lunar tibetano se observa el día 23 del mes 11.",
       "tibetanLunar": {
         "rabjung": 17,
         "tibYear": 40,
