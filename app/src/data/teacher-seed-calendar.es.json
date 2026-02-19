@@ -14,7 +14,8 @@
     "removedDetallesAt": "2026-02-19T19:53:12.091Z",
     "removedSiddharthaAndPhugpaAt": "2026-02-19T20:00:03.194Z",
     "karmapa16BirthPhotoEnsuredAt": "2026-02-19T20:03:40.988Z",
-    "karmapa16BirthPhotoFixedAt": "2026-02-19T20:05:43.851Z"
+    "karmapa16BirthPhotoFixedAt": "2026-02-19T20:05:43.851Z",
+    "karmapa16ParinirvanaPhotoAlignedAt": "2026-02-19T20:12:59.898Z"
   },
   "notes": [
     "Dedupe: si una fecha ya existe en la fuente principal (Steinert), no se repite acá.",
@@ -63,9 +64,9 @@
       "description": "Aniversario (tib.) de parinirvana de Rangjung Rigpe Dorje, 16.º Karmapa. - Parinirvana (greg.): 1981-11-05 - Lugar: Zion, Illinois, EE.UU. - Fuente: https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje",
       "tibetanName": "རང་བྱུང་རིག་པའི་རྡོ་རྗེ།",
       "photo": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Karmapa_lama.JPG/330px-Karmapa_lama.JPG",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Karmapa16_3_gross.jpg",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
-        "creditUrl": "https://en.wikipedia.org/wiki/Ogyen_Trinley_Dorje"
+        "creditUrl": "https://en.wikipedia.org/wiki/16th_Karmapa%2C_Rangjung_Rigpe_Dorje"
       }
     },
     {
