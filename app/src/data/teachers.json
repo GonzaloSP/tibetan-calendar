@@ -20,7 +20,8 @@
     "enrichedParinirvanaDescriptionsAt": "2026-02-19T19:34:19.420Z",
     "rewroteJamyangKhyentseLineAt": "2026-02-19T19:39:01.353Z",
     "gyatrulPhotoFixedAt": "2026-02-19T19:46:56.905Z",
-    "khandroTseringPhotoFixedAt": "2026-02-19T19:49:48.106Z"
+    "khandroTseringPhotoFixedAt": "2026-02-19T19:49:48.106Z",
+    "removedDetallesAt": "2026-02-19T19:53:12.086Z"
   },
   "notes": [
     "Incluye solo maestras/os; se excluyen festivales del Buda porque ya existen en la fuente principal.",
@@ -36,7 +37,7 @@
         "month": 6,
         "day": 18
       },
-      "description": "- Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma. Detalles:",
+      "description": "- Aniversario de nacimiento de Chatral Sangye Dorje (Kyabjé Chatral Rinpoche), maestro dzogchen nyingma.",
       "photo": {
         "url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Chatral_Sangye_Dorje.png",
         "creditEs": "Créditos: Wikimedia Commons / Wikipedia",
@@ -1173,7 +1174,7 @@
           1
         ]
       },
-      "description": "- Aniversario de Garab Dorje. Detalles: Es reconocido como el primer maestro humano en la transmisión de Dzogchen;",
+      "description": "- Aniversario de Garab Dorje.\nEs reconocido como el primer maestro humano en la transmisión de Dzogchen;",
       "tibetanName": "དགའ་རབ་རྡོ་རྗེ་",
       "rawRecords": [
         {
@@ -4567,7 +4568,7 @@
           1
         ]
       },
-      "description": "- Aniversario de Terton Sogyal. Detalles: Tertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma.",
+      "description": "- Aniversario de Terton Sogyal.\nTertön prolífico y maestro del 13.º Dalái Lama; sus revelaciones (terma) influyeron ampliamente en la práctica nyingma.",
       "tibetanName": "གཏེར་སྟོན་བསོད་རྒྱལ་ལས་རབ་གླིང་པ་",
       "rawRecords": [
         {
