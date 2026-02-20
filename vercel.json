@@ -2,7 +2,7 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": true,
-  "outputDirectory": "app/dist",
+  "outputDirectory": "dist",
   "rewrites": [
     {
       "source": "/fecha/:date(\\d{4}-\\d{2}-\\d{2})",
