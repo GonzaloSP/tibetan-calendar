@@ -219,25 +219,56 @@ function upsertMeta(selector: string, attrs: Record<string, string>) {
   }
 }
 
+function upsertLink(selector: string, attrs: Record<string, string>) {
+  let el = document.head.querySelector(selector) as HTMLLinkElement | null;
+  if (!el) {
+    el = document.createElement("link");
+    for (const [k, v] of Object.entries(attrs)) {
+      el.setAttribute(k, v);
+    }
+    document.head.appendChild(el);
+    return;
+  }
+  for (const [k, v] of Object.entries(attrs)) {
+    el.setAttribute(k, v);
+  }
+}
+
+function absolutizeUrl(url: string, origin: string) {
+  try {
+    return new URL(url, origin).toString();
+  } catch {
+    return url;
+  }
+}
+
 function setSocialMeta(params: {
   title: string;
   description: string;
   image?: string;
   url: string;
+  origin: string;
 }) {
-  const { title, description, image, url } = params;
+  const { title, description, image, url, origin } = params;
   document.title = title;
 
+  const absUrl = absolutizeUrl(url, origin);
+  const absImage = image ? absolutizeUrl(image, origin) : undefined;
+
   upsertMeta('meta[name="description"]', { name: "description", content: description });
+  upsertLink('link[rel="canonical"]', { rel: "canonical", href: absUrl });
 
   upsertMeta('meta[property="og:title"]', { property: "og:title", content: title });
   upsertMeta('meta[property="og:description"]', { property: "og:description", content: description });
-  upsertMeta('meta[property="og:url"]', { property: "og:url", content: url });
-  if (image) upsertMeta('meta[property="og:image"]', { property: "og:image", content: image });
+  upsertMeta('meta[property="og:url"]', { property: "og:url", content: absUrl });
+  if (absImage) {
+    upsertMeta('meta[property="og:image"]', { property: "og:image", content: absImage });
+    upsertMeta('meta[property="og:image:alt"]', { property: "og:image:alt", content: title });
+  }
 
   upsertMeta('meta[name="twitter:title"]', { name: "twitter:title", content: title });
   upsertMeta('meta[name="twitter:description"]', { name: "twitter:description", content: description });
-  if (image) upsertMeta('meta[name="twitter:image"]', { name: "twitter:image", content: image });
+  if (absImage) upsertMeta('meta[name="twitter:image"]', { name: "twitter:image", content: absImage });
 }
 
 export function DayDetails(props: {
@@ -250,11 +281,11 @@ export function DayDetails(props: {
 
   const shareUrl = useMemo(() => {
     // Prefer pretty, prerendered path for social previews.
+    // Allow overriding the public origin for correct OG tags when deploying.
+    const origin = (import.meta as any).env?.VITE_PUBLIC_ORIGIN || window.location.origin;
     const d = format(date, "yyyy-MM-dd");
-    const u = new URL(window.location.href);
+    const u = new URL(origin);
     u.pathname = `/fecha/${d}`;
-    u.search = "";
-    u.hash = "";
     return u.toString();
   }, [date]);
 
@@ -273,11 +304,14 @@ export function DayDetails(props: {
 
     const image = primary?.image?.url;
 
+    const origin = (import.meta as any).env?.VITE_PUBLIC_ORIGIN || window.location.origin;
+
     setSocialMeta({
       title,
       description,
       image,
       url: shareUrl,
+      origin,
     });
   }, [date, primary, shareUrl]);
 
