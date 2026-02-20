@@ -4,15 +4,11 @@
   "trailingSlash": true,
   "buildCommand": "cd app && npm run build:social",
   "outputDirectory": "app/dist",
-  "routes": [
-    { "handle": "filesystem" },
+  "rewrites": [
     {
-      "src": "/fecha/(\\d{4}-\\d{2}-\\d{2})/?$",
-      "dest": "/fecha/$1/index.html"
+      "source": "/fecha/:date(\\d{4}-\\d{2}-\\d{2})/?",
+      "destination": "/fecha/:date/index.html"
     },
-    {
-      "src": "/(.*)",
-      "dest": "/index.html"
-    }
+    { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
