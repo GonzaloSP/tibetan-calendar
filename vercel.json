@@ -2,7 +2,6 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": true,
-  "buildCommand": "cd app && npm run build:social",
   "outputDirectory": "app/dist",
   "rewrites": [
     {
