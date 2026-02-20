@@ -6,7 +6,7 @@
   "outputDirectory": "app/dist",
   "rewrites": [
     {
-      "source": "/fecha/:date(\\d{4}-\\d{2}-\\d{2})/?",
+      "source": "/fecha/:date(\\d{4}-\\d{2}-\\d{2})",
       "destination": "/fecha/:date/index.html"
     },
     { "source": "/(.*)", "destination": "/index.html" }
