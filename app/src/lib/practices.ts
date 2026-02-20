@@ -163,10 +163,30 @@ export function getPracticesForDate(date: Date, t: TibetanDate): DatedPractice[]
 
   // De-dupe
   const seen = new Set<string>();
-  return out.filter((p) => {
+  const deduped = out.filter((p) => {
     if (seen.has(p.id)) return false;
     seen.add(p.id);
     return true;
+  });
+
+  // Ordering:
+  // 1) Precepts first
+  // 2) Teacher anniversaries / parinirvana
+  // 3) Everything else
+  const priority = (p: DatedPractice) => {
+    if (p.type === "PRECEPTS") return 0;
+    const looksLikeAnniversary =
+      p.kind === "celebration" &&
+      (p.type === "PARINIRVANA" || p.id.startsWith("seed-teacher-") || /\baniversario\b/i.test(p.name));
+    if (looksLikeAnniversary) return 1;
+    return 2;
+  };
+
+  return deduped.sort((a, b) => {
+    const pa = priority(a);
+    const pb = priority(b);
+    if (pa !== pb) return pa - pb;
+    return a.name.localeCompare(b.name, "es");
   });
 }
 
