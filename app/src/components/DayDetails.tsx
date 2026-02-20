@@ -53,8 +53,14 @@ function FacebookLogo(props: { className?: string }) {
   );
 }
 
-function PracticeBody(props: { description: string; tibetanName?: string; image?: PracticeImage }) {
-  const { description, tibetanName, image } = props;
+function PracticeBody(props: {
+  description: string;
+  tibetanName?: string;
+  image?: PracticeImage;
+  shareUrl: string;
+  shareTitle: string;
+}) {
+  const { description, tibetanName, image, shareUrl, shareTitle } = props;
   const [imgOk, setImgOk] = useState(true);
 
   const paragraphs = useMemo(() => {
@@ -63,6 +69,22 @@ function PracticeBody(props: { description: string; tibetanName?: string; image?
       .map((p) => p.trim())
       .filter(Boolean);
   }, [description]);
+
+  const hasFuente = useMemo(() => /\n\nFuente:\n-\s+https?:\/\//i.test(description || ""), [description]);
+
+  function shareWhatsApp() {
+    const encodedText = encodeURIComponent(`${shareTitle}\n${shareUrl}`);
+    window.open(`https://wa.me/?text=${encodedText}`, "_blank", "noopener,noreferrer");
+  }
+
+  function shareFacebook() {
+    const encodedUrl = encodeURIComponent(shareUrl);
+    window.open(
+      `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
+      "_blank",
+      "noopener,noreferrer"
+    );
+  }
 
   return (
     <div className="prose prose-sm mt-3 max-w-none text-ink-900 prose-p:my-2">
@@ -123,6 +145,38 @@ function PracticeBody(props: { description: string; tibetanName?: string; image?
           </p>
         );
       })}
+
+      {hasFuente ? (
+        <div className="mt-3 rounded-xl border border-black/5 bg-white/70 p-3">
+          <div className="text-[11px] font-semibold text-ink-800/60">
+            Compartir con otros
+          </div>
+          <div className="mt-2 flex flex-wrap gap-2 not-prose">
+            <button
+              onClick={shareWhatsApp}
+              className="rounded-xl bg-emerald-600 px-3 py-2 text-xs font-semibold text-white hover:bg-emerald-500 ring-1 ring-emerald-200/30 shadow-sm"
+              title="Compartir por WhatsApp"
+              type="button"
+            >
+              <span className="inline-flex items-center gap-2">
+                <WhatsAppLogo className="h-4 w-4" />
+                WhatsApp
+              </span>
+            </button>
+            <button
+              onClick={shareFacebook}
+              className="rounded-xl bg-blue-600 px-3 py-2 text-xs font-semibold text-white hover:bg-blue-500 ring-1 ring-blue-200/30 shadow-sm"
+              title="Compartir en Facebook"
+              type="button"
+            >
+              <span className="inline-flex items-center gap-2">
+                <FacebookLogo className="h-4 w-4" />
+                Facebook
+              </span>
+            </button>
+          </div>
+        </div>
+      ) : null}
     </div>
   );
 }
@@ -227,20 +281,7 @@ export function DayDetails(props: {
     });
   }, [date, primary, shareUrl]);
 
-  function onShareWhatsApp() {
-    const title = primary?.name || "Calendario Tibetano en Español";
-    const encodedText = encodeURIComponent(`${title}\n${shareUrl}`);
-    window.open(`https://wa.me/?text=${encodedText}`, "_blank", "noopener,noreferrer");
-  }
-
-  function onShareFacebook() {
-    const encodedUrl = encodeURIComponent(shareUrl);
-    window.open(
-      `https://www.facebook.com/sharer/sharer.php?u=${encodedUrl}`,
-      "_blank",
-      "noopener,noreferrer"
-    );
-  }
+  // Sharing buttons are shown under each practice's Fuente block.
 
   return (
     <div className="card p-5 sm:p-6">
@@ -255,38 +296,14 @@ export function DayDetails(props: {
           </div>
         </div>
 
-        <div className="flex flex-wrap items-center justify-end gap-2">
+        {props.onClose ? (
           <button
-            onClick={onShareWhatsApp}
-            className="rounded-2xl bg-emerald-600 px-3 py-2 text-sm font-semibold text-white hover:bg-emerald-500 ring-1 ring-emerald-200/30 shadow-sm"
-            title="Compartir por WhatsApp"
+            onClick={props.onClose}
+            className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/20"
           >
-            <span className="inline-flex items-center gap-2">
-              <WhatsAppLogo className="h-4 w-4" />
-              WhatsApp
-            </span>
+            Cerrar
           </button>
-
-          <button
-            onClick={onShareFacebook}
-            className="rounded-2xl bg-blue-600 px-3 py-2 text-sm font-semibold text-white hover:bg-blue-500 ring-1 ring-blue-200/30 shadow-sm"
-            title="Compartir en Facebook"
-          >
-            <span className="inline-flex items-center gap-2">
-              <FacebookLogo className="h-4 w-4" />
-              Facebook
-            </span>
-          </button>
-
-          {props.onClose ? (
-            <button
-              onClick={props.onClose}
-              className="rounded-2xl bg-maroon-900 px-3 py-2 text-sm font-semibold text-white hover:bg-maroon-800 ring-1 ring-gold-200/20"
-            >
-              Cerrar
-            </button>
-          ) : null}
-        </div>
+        ) : null}
       </div>
 
       <div className="mt-6">
@@ -335,7 +352,13 @@ export function DayDetails(props: {
                   </span>
                 </div>
 
-                <PracticeBody description={p.description} tibetanName={p.tibetanName} image={p.image} />
+                <PracticeBody
+                  description={p.description}
+                  tibetanName={p.tibetanName}
+                  image={p.image}
+                  shareUrl={shareUrl}
+                  shareTitle={p.name}
+                />
               </motion.div>
             ))}
           </div>
